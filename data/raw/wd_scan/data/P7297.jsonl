@@ -1,0 +1,16 @@
+{"subject": "Q130210457", "property": "P7297", "value": "9300", "start": "http://www", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q130210457", "property": "P7297", "value": "7250", "start": "http://www", "start_prec": 11, "end": "http://www", "end_prec": 11, "rank": "DeprecatedRank"}
+{"subject": "Q588586", "property": "P7297", "value": "9600", "start": "http://www", "start_prec": 11, "end": "http://www", "end_prec": 11, "rank": "DeprecatedRank"}
+{"subject": "Q113774103", "property": "P7297", "value": "6050", "start": "http://www", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q116445869", "property": "P7297", "value": "3300", "start": "http://www", "start_prec": 11, "end": "http://www", "end_prec": 11, "rank": "DeprecatedRank"}
+{"subject": "Q116445869", "property": "P7297", "value": "3500", "start": "http://www", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124658812", "property": "P7297", "value": "775", "start": "2002-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124658812", "property": "P7297", "value": "840", "start": "1983-01-01", "start_prec": 11, "end": "2002-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q130210457", "property": "P7297", "value": "9300", "start": "http://www", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q130210457", "property": "P7297", "value": "7250", "start": "http://www", "start_prec": 11, "end": "http://www", "end_prec": 11, "rank": "DeprecatedRank"}
+{"subject": "Q588586", "property": "P7297", "value": "9600", "start": "http://www", "start_prec": 11, "end": "http://www", "end_prec": 11, "rank": "DeprecatedRank"}
+{"subject": "Q113774103", "property": "P7297", "value": "6050", "start": "http://www", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q116445869", "property": "P7297", "value": "3300", "start": "http://www", "start_prec": 11, "end": "http://www", "end_prec": 11, "rank": "DeprecatedRank"}
+{"subject": "Q116445869", "property": "P7297", "value": "3500", "start": "http://www", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124658812", "property": "P7297", "value": "775", "start": "2002-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124658812", "property": "P7297", "value": "840", "start": "1983-01-01", "start_prec": 11, "end": "2002-01-01", "end_prec": 11, "rank": "NormalRank"}

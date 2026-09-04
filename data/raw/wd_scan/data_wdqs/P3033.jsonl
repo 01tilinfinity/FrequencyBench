@@ -1,0 +1,16 @@
+{"subject": "Q698", "property": "P3033", "value": "Q22661286", "start": "2020-04-07", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q1140401", "property": "P3033", "value": "Q51821718", "start": "2026-03-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q117475643", "property": "P3033", "value": "Q117480923", "start": "2021-10-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q117475643", "property": "P3033", "value": "Q16247893", "start": "2015-05-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q117475643", "property": "P3033", "value": "Q115569953", "start": "2017-03-21", "start_prec": 11, "end": "2021-10-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q117480863", "property": "P3033", "value": "Q115569953", "start": "2017-01-26", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q117480863", "property": "P3033", "value": "Q117480923", "start": "2021-01-29", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q48267", "property": "P3033", "value": "Q18851353", "start": "2013-01-15", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q698", "property": "P3033", "value": "Q22661286", "start": "2020-04-07", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q1140401", "property": "P3033", "value": "Q51821718", "start": "2026-03-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q117475643", "property": "P3033", "value": "Q117480923", "start": "2021-10-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q117475643", "property": "P3033", "value": "Q16247893", "start": "2015-05-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q117475643", "property": "P3033", "value": "Q115569953", "start": "2017-03-21", "start_prec": 11, "end": "2021-10-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q117480863", "property": "P3033", "value": "Q115569953", "start": "2017-01-26", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q117480863", "property": "P3033", "value": "Q117480923", "start": "2021-01-29", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q48267", "property": "P3033", "value": "Q18851353", "start": "2013-01-15", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}

@@ -1,0 +1,12 @@
+{"subject": "Q19883472", "property": "P3893", "value": "1995-01-01T00:00:00Z", "start": "1912-01-01", "start_prec": 11, "end": "1995-07-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q119045122", "property": "P3893", "value": "2002-01-01T00:00:00Z", "start": "1996-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q1871535", "property": "P3893", "value": "2002-01-01T00:00:00Z", "start": "2002-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q156497", "property": "P3893", "value": "2077-01-01T00:00:00Z", "start": "1994-12-08", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q151599", "property": "P3893", "value": "2023-01-01T00:00:00Z", "start": "1996-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q19883472", "property": "P3893", "value": "2015-01-01T00:00:00Z", "start": "1995-12-29", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q19883472", "property": "P3893", "value": "1995-01-01T00:00:00Z", "start": "1912-01-01", "start_prec": 11, "end": "1995-07-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q119045122", "property": "P3893", "value": "2002-01-01T00:00:00Z", "start": "1996-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q1871535", "property": "P3893", "value": "2002-01-01T00:00:00Z", "start": "2002-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q156497", "property": "P3893", "value": "2077-01-01T00:00:00Z", "start": "1994-12-08", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q151599", "property": "P3893", "value": "2023-01-01T00:00:00Z", "start": "1996-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q19883472", "property": "P3893", "value": "2015-01-01T00:00:00Z", "start": "1995-12-29", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}

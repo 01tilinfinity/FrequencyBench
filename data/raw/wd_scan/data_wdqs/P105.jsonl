@@ -1,0 +1,5 @@
+{"subject": "Q56298739", "property": "P105", "value": "Q35409", "start": "2024-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q56298739", "property": "P105", "value": "Q164280", "start": "2018-01-01", "start_prec": 11, "end": "2024-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q19963379", "property": "P105", "value": "Q2136103", "start": "2022-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q27207", "property": "P105", "value": "Q60922428", "start": "2013-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q2141770", "property": "P105", "value": "Q6054795", "start": "2012-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}

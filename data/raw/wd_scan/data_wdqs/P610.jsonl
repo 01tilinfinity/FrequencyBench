@@ -1,0 +1,12 @@
+{"subject": "Q142", "property": "P610", "value": "Q583", "start": "1860-03-24", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q30", "property": "P610", "value": "Q130018", "start": "1867-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q29999", "property": "P610", "value": "Q1301834", "start": "1975-11-25", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q55", "property": "P610", "value": "Q1301834", "start": "2010-10-10", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q29999", "property": "P610", "value": "Q1549215", "start": "1962-10-01", "start_prec": 11, "end": "1975-11-25", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q34", "property": "P610", "value": "Q214011", "start": "2018-08-05", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q142", "property": "P610", "value": "Q583", "start": "1860-03-24", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q30", "property": "P610", "value": "Q130018", "start": "1867-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q29999", "property": "P610", "value": "Q1301834", "start": "1975-11-25", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q55", "property": "P610", "value": "Q1301834", "start": "2010-10-10", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q29999", "property": "P610", "value": "Q1549215", "start": "1962-10-01", "start_prec": 11, "end": "1975-11-25", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q34", "property": "P610", "value": "Q214011", "start": "2018-08-05", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}

@@ -1,0 +1,6 @@
+{"subject": "P6689", "property": "P1793", "value": "^MSBNK-[A-Za-z0-9_]{1,32}-[A-Za-z0-9_]{1,64}$", "start": "2022-08-30", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q7234027", "property": "P1793", "value": "\\d{3}-\\d{4}", "start": "1998-02-02", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q7234027", "property": "P1793", "value": "\\d{3}(-\\d{2})?", "start": "1968-07-01", "start_prec": 11, "end": "1998-02-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "P6689", "property": "P1793", "value": "^MSBNK-[A-Za-z0-9_]{1,32}-[A-Za-z0-9_]{1,64}$", "start": "2022-08-30", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q7234027", "property": "P1793", "value": "\\d{3}-\\d{4}", "start": "1998-02-02", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q7234027", "property": "P1793", "value": "\\d{3}(-\\d{2})?", "start": "1968-07-01", "start_prec": 11, "end": "1998-02-01", "end_prec": 11, "rank": "NormalRank"}

@@ -1,0 +1,4 @@
+{"subject": "Q139501162", "property": "P10636", "value": "2", "start": "http://www", "start_prec": 11, "end": "2023-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q139501162", "property": "P10636", "value": "1", "start": "2023-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}
+{"subject": "Q139501162", "property": "P10636", "value": "2", "start": "http://www", "start_prec": 11, "end": "2023-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q139501162", "property": "P10636", "value": "1", "start": "2023-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "PreferredRank"}

@@ -1,0 +1,12 @@
+{"subject": "Q15127778", "property": "P580", "value": "1055-01-01T00:00:00Z", "start": "1055-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124293787", "property": "P580", "value": "1600-01-01T00:00:00Z", "start": "1579-01-01", "start_prec": 11, "end": "1584-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q3670529", "property": "P580", "value": "1841-01-01T00:00:00Z", "start": "1841-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q140428029", "property": "P580", "value": "2025-01-01T00:00:00Z", "start": "2025-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124300659", "property": "P580", "value": "http://www.wikidata.org/.well-known/genid/e1efc63558b4979a23996b760a2dd9d3", "start": "1579-01-01", "start_prec": 11, "end": "1584-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q2321326", "property": "P580", "value": "http://www.wikidata.org/.well-known/genid/7feb56b6075ca0d49eef943ea428fd89", "start": "1890-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q15127778", "property": "P580", "value": "1055-01-01T00:00:00Z", "start": "1055-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124293787", "property": "P580", "value": "1600-01-01T00:00:00Z", "start": "1579-01-01", "start_prec": 11, "end": "1584-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q3670529", "property": "P580", "value": "1841-01-01T00:00:00Z", "start": "1841-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q140428029", "property": "P580", "value": "2025-01-01T00:00:00Z", "start": "2025-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
+{"subject": "Q124300659", "property": "P580", "value": "http://www.wikidata.org/.well-known/genid/e1efc63558b4979a23996b760a2dd9d3", "start": "1579-01-01", "start_prec": 11, "end": "1584-01-01", "end_prec": 11, "rank": "NormalRank"}
+{"subject": "Q2321326", "property": "P580", "value": "http://www.wikidata.org/.well-known/genid/7feb56b6075ca0d49eef943ea428fd89", "start": "1890-01-01", "start_prec": 11, "end": null, "end_prec": null, "rank": "NormalRank"}
