@@ -194,17 +194,31 @@ def evaluate(stmts):
         return None, "too_few", {}
     if len({s["value"] for s in stmts}) < 2:
         return None, "single_value", {}
+    # try:
+    #     rows = [(to_date(s["start"], s["start_prec"]),
+    #              to_date(s["end"], s["end_prec"] or 11) if s["end"]
+    #              else date(9999, 12, 31),
+    #              s["start_prec"]) for s in stmts]
+    # except ValueError:
+    #     return None, "bad_date", {}
+    # rows.sort()
+
+    # for i in range(len(rows) - 1):            # 구간 겹침 = 누적형
+    #     if rows[i][1] > rows[i + 1][0]:
+    #         return None, "overlap", {}
+
     try:
         rows = [(to_date(s["start"], s["start_prec"]),
-                 to_date(s["end"], s["end_prec"] or 11) if s["end"]
-                 else date(9999, 12, 31),
-                 s["start_prec"]) for s in stmts]
+                to_date(s["end"], s["end_prec"] or 11) if s["end"] else None,
+                s["start_prec"]) for s in stmts]
+
     except ValueError:
         return None, "bad_date", {}
-    rows.sort()
 
-    for i in range(len(rows) - 1):            # 구간 겹침 = 누적형
-        if rows[i][1] > rows[i + 1][0]:
+    rows.sort(key=lambda r: r[0])
+
+    for i in range(len(rows) - 1):            # end가 있을 때만 겹침 판정
+        if rows[i][1] is not None and rows[i][1] > rows[i + 1][0]:
             return None, "overlap", {}
 
     prec = min(r[2] for r in rows)

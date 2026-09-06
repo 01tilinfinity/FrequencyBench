@@ -1,0 +1,26 @@
+{
+  "source": "/home/yerang/frequency-bench/data/processed/frequency_samples_up_to_100_per_class.jsonl",
+  "wikidata_api": "https://www.wikidata.org/w/api.php",
+  "label_language_priority": [
+    "en",
+    "mul",
+    "ko"
+  ],
+  "label_fallback": "any available language, then original ID",
+  "requested_unique_ids": 1275,
+  "fetched_on_this_run": 0,
+  "resolved_unique_ids": 1275,
+  "unresolved_ids": [],
+  "total_records": 820,
+  "fields": [
+    "entity",
+    "entity_label",
+    "relation",
+    "relation_label",
+    "value",
+    "value_label",
+    "frequency",
+    "start_time",
+    "end_time"
+  ]
+}

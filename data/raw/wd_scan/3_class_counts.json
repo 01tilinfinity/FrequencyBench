@@ -1,11 +1,11 @@
 {
- "A-Day": 0,
- "A-Few-Days": 0,
- "A-Week": 0,
- "A-Few-Weeks": 0,
- "A-Month": 0,
- "A-Few-Months": 0,
- "A-Year": 0,
- "A-Few-Years": 0,
- "Many-Years": 0
+ "A-Day": 20,
+ "A-Few-Days": 498,
+ "A-Week": 568,
+ "A-Few-Weeks": 1156,
+ "A-Month": 1563,
+ "A-Few-Months": 4313,
+ "A-Year": 34120,
+ "A-Few-Years": 79891,
+ "Many-Years": 29418
 }

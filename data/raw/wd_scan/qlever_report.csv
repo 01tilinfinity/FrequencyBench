@@ -1,0 +1,1142 @@
+pid,label,rows,expected,n_groups,n_valid,sec,status,A-Day,A-Few-Days,A-Week,A-Few-Weeks,A-Month,A-Few-Months,A-Year,A-Few-Years,Many-Years
+P54,member of sports team,1258522,1258411,382473,65550,24.8,ok,0,0,0,0,1,267,28730,36479,73
+P39,position held,1287656,1285553,582180,28461,27.3,ok,0,0,0,2,4,449,1756,23458,2792
+P17,country,250535,250508,128000,12151,20.6,ok,2,1,0,0,8,49,109,1136,10846
+P2632,place of detention,210062,208799,170598,5819,8.5,ok,17,473,531,1117,1276,2049,309,42,5
+P6,head of government,35046,35027,17812,2345,8.8,ok,0,1,1,0,1,18,45,1587,692
+P27,country of citizenship,136494,136475,116797,2294,16.1,ok,0,0,0,0,0,6,12,752,1524
+P102,member of political party,58044,58020,44298,2283,15.8,ok,0,0,0,0,0,15,70,1551,647
+P937,work location,41028,40821,26446,2169,11.1,ok,0,0,0,0,0,9,119,1454,587
+P488,chairperson,34883,34865,15972,2064,9.7,ok,0,0,0,0,0,45,163,1404,452
+P127,owned by,61658,61642,44448,2013,16.9,ok,0,0,0,0,0,3,18,440,1552
+P137,operator,32958,32942,23791,1553,18.3,ok,0,0,0,0,0,3,18,580,952
+P1308,position holder,26777,26562,7681,1431,8.6,ok,0,0,0,0,4,63,149,959,256
+P286,head coach,14658,14647,3828,1345,5.1,ok,0,0,0,0,1,275,455,582,32
+P31,instance of,164110,164070,143325,1290,22.5,ok,0,0,0,0,1,10,52,344,883
+P26,spouse,414992,414960,378287,1234,21.4,ok,0,0,0,0,0,0,1,546,687
+P6087,coach of sports team,14248,14161,3953,1219,4.6,ok,0,0,0,0,0,48,294,844,33
+P281,postal code,6009,6009,3367,1160,15.7,ok,0,0,0,0,0,0,0,1,1159
+P551,residence,28627,28618,19526,1108,12.9,ok,0,0,0,1,0,5,38,608,456
+P1037,director / manager,13515,13405,5510,965,5.3,ok,0,0,0,0,1,11,28,529,396
+P118,league or competition,160305,160277,154174,794,13.0,ok,0,0,0,0,0,0,190,518,86
+P276,location,23810,23648,17351,684,15.3,ok,0,1,7,5,17,159,21,122,352
+P361,part of,16595,16588,11950,621,15.2,ok,0,0,0,0,1,147,39,121,313
+P1410,number of seats in assembly,5917,5917,1627,551,3.6,ok,0,1,7,5,28,156,115,165,74
+P106,occupation,108254,108111,71247,468,15.7,ok,0,0,0,0,0,3,18,303,144
+P4791,commanded by,5547,5545,1526,464,3.6,ok,0,1,1,0,6,51,59,325,21
+P138,named after,20571,20359,17321,403,20.5,ok,0,0,0,0,0,0,0,77,326
+P531,diplomatic mission sent,2601,2601,1060,401,7.2,ok,0,0,0,0,0,0,4,340,57
+P159,headquarters location,8309,8304,5174,366,15.3,ok,0,0,0,0,2,13,18,150,183
+P195,collection,363856,363511,354083,363,25.7,ok,0,0,0,0,0,1,1,61,300
+P463,member of,127675,127055,95979,361,20.6,ok,0,0,0,0,0,7,37,224,93
+P410,"military, police or special rank",24068,24068,13298,339,10.3,ok,0,0,0,1,0,34,47,241,16
+P3872,patronage,3597,3589,355,322,3.0,ok,0,0,0,0,0,3,319,0,0
+P169,chief executive officer,6732,6732,4507,295,5.6,ok,0,0,0,0,0,1,10,221,63
+P749,parent organization or unit,7550,7550,5417,293,11.6,ok,0,0,0,0,0,2,3,143,145
+P279,subclass of,2505,2505,1380,266,26.3,ok,0,0,0,0,0,0,37,189,40
+P608,exhibition history,5029,5016,3181,260,4.5,ok,0,0,0,0,0,21,41,136,62
+P1352,ranking,5340,5340,340,229,3.5,ok,0,0,0,0,184,43,0,1,1
+P8047,country of registry,1735,1735,814,209,5.5,ok,0,0,0,0,0,3,11,122,73
+P1998,UCI code of cycling team,1751,1751,805,208,3.2,ok,0,0,0,0,0,0,78,129,1
+P36,capital,5152,5151,3778,203,8.7,ok,0,0,0,0,0,3,12,38,150
+P1376,capital of,12401,12303,8964,197,9.7,ok,0,0,0,0,0,0,0,21,176
+P366,has use,7630,7619,5158,192,16.2,ok,0,0,0,0,0,19,5,14,154
+P793,significant event,24316,24303,20863,187,11.7,ok,0,0,0,0,0,9,9,26,143
+P1416,affiliation,12154,12151,10167,180,9.4,ok,0,0,0,1,1,16,42,100,20
+P1268,represents,881,881,368,179,2.7,ok,0,0,0,0,0,0,14,164,1
+P451,unmarried partner,6532,6514,5085,179,7.3,ok,0,0,0,0,0,1,11,150,17
+P466,occupant,8727,8707,5526,177,7.3,ok,0,0,0,0,0,1,3,43,130
+P1075,rector,2246,2246,527,161,3.2,ok,0,0,0,0,0,2,6,117,36
+P2802,fleet or registration number,2343,2343,1141,155,3.2,ok,0,0,0,0,0,0,2,58,95
+P371,presenter,3435,3399,1160,154,4.9,ok,0,0,1,1,0,4,12,104,32
+P35,head of state,1911,1909,547,151,2.8,ok,0,0,0,0,0,2,7,82,60
+P123,publisher,2513,2513,1517,141,26.0,ok,0,0,0,0,0,0,3,61,77
+P115,home venue,1776,1776,832,140,4.8,ok,0,0,0,0,0,0,10,48,82
+P598,commander of (DEPRECATED),1661,1661,949,136,3.0,ok,0,0,0,2,0,33,35,59,7
+P468,dan/kyu rank,916,916,212,124,2.0,ok,0,0,0,0,0,17,51,56,0
+P5769,editor-in-chief,1812,1806,776,119,2.4,ok,0,0,0,0,0,0,5,63,51
+P241,military branch,15084,15058,13669,119,11.4,ok,0,0,0,0,0,4,10,73,32
+P264,record label,1840,1840,984,107,11.2,ok,0,0,0,0,0,0,4,86,17
+P449,original broadcaster,4159,4132,2947,104,11.3,ok,0,0,0,0,0,2,10,71,21
+P3975,general secretary,1291,1291,529,101,2.2,ok,0,0,0,0,0,0,6,71,24
+P2043,length,1086,1086,634,98,11.8,ok,0,0,0,0,0,1,4,13,80
+P98,editor,3890,3886,1908,94,5.4,ok,0,0,0,0,0,0,5,49,40
+P166,award received,12911,12911,9691,93,15.9,ok,0,0,0,1,0,5,17,60,10
+P2295,net profit,1228,1228,120,88,2.6,ok,0,0,0,0,0,33,55,0,0
+P2139,total revenue,1074,1074,106,85,6.1,ok,0,0,0,0,0,32,52,1,0
+P527,has part(s),26967,26247,5931,83,16.1,ok,0,2,0,1,0,10,5,18,47
+P5817,state of use,2615,2615,2050,80,9.8,ok,0,0,0,0,18,2,6,17,37
+P3362,operating income,1009,1009,93,79,2.3,ok,0,0,0,0,0,32,47,0,0
+P532,port of registry,716,716,376,76,3.3,ok,0,0,0,0,0,0,0,44,32
+P734,family name,53704,53704,50306,74,18.0,ok,0,0,0,0,0,0,0,7,67
+P797,authority,511,502,254,72,3.7,ok,0,0,0,0,0,0,6,6,60
+P1454,legal form,5097,5097,4382,69,10.9,ok,0,0,0,0,0,0,0,21,48
+P92,main regulatory text,892,892,518,68,3.5,ok,0,0,0,0,0,0,0,16,52
+P5096,member of the crew of,597,597,238,66,1.8,ok,0,0,0,0,1,29,20,16,0
+P1618,sport number,4258,4258,3560,66,5.5,ok,0,0,0,0,0,8,26,31,1
+P7779,military unit,2509,2509,1160,63,3.5,ok,0,0,0,0,2,6,6,44,5
+P1545,series ordinal,329,329,122,61,4.1,ok,0,0,0,0,0,0,17,41,3
+P176,manufacturer,5019,5015,3665,61,10.8,ok,0,0,0,0,0,2,5,37,17
+P4100,parliamentary group,1897,1897,1042,58,1.8,ok,0,0,0,3,0,8,21,24,2
+P291,place of publication,940,940,506,55,10.5,ok,0,0,0,0,0,1,5,26,23
+P197,adjacent station,7700,7680,3897,55,11.0,ok,0,0,0,0,0,1,2,12,40
+P879,pennant number,608,608,277,53,2.3,ok,0,0,0,0,0,0,0,50,3
+P618,source of energy,1111,1111,807,51,2.9,ok,0,0,0,0,0,0,0,0,51
+P426,aircraft registration,852,852,506,50,1.9,ok,0,0,0,0,0,5,5,32,8
+P512,academic degree,3464,3464,2737,49,10.4,ok,0,0,0,0,0,0,1,39,9
+P8413,academic appointment,1737,1737,986,48,2.6,ok,0,0,0,0,0,0,0,42,6
+P140,religion or worldview,4105,4103,3604,48,15.2,ok,0,0,0,0,0,0,0,7,41
+P1532,country for sport,2532,2528,2127,46,12.2,ok,0,0,0,0,0,0,4,31,11
+P2896,publication interval,579,579,296,45,2.6,ok,0,0,0,0,0,2,4,16,23
+P3300,musical conductor,526,524,193,42,1.8,ok,0,0,0,0,0,0,0,25,17
+P611,religious order,2137,2133,1867,42,6.1,ok,0,0,0,0,0,0,0,2,40
+P945,allegiance,894,894,614,41,5.9,ok,0,0,0,0,0,0,1,18,22
+P1114,quantity,511,511,166,40,2.4,ok,0,0,0,0,0,1,2,16,21
+P97,noble title,12994,12985,9260,36,8.8,ok,0,0,0,0,0,0,0,9,27
+P119,place of burial,5181,5181,4624,35,12.5,ok,0,0,0,0,0,0,0,0,35
+P859,sponsor,66341,66339,65869,35,5.1,ok,0,0,0,0,0,0,2,26,7
+P1342,number of seats,817,817,482,34,2.1,ok,0,0,0,0,0,0,0,18,16
+P2317,call sign,519,517,285,33,2.8,ok,0,0,0,0,0,0,0,16,17
+P559,terminus,1357,1357,584,33,5.3,ok,0,0,0,0,0,0,3,21,9
+P708,diocese,1434,1434,1194,32,7.2,ok,0,0,0,0,0,0,0,4,28
+P1344,participant in,2530,2530,2213,32,11.8,ok,0,0,0,0,0,10,6,14,2
+P1083,maximum capacity,345,345,161,31,4.0,ok,0,0,0,0,0,1,0,9,21
+P126,maintained by,2607,2607,1985,31,6.0,ok,0,0,0,0,0,0,1,9,21
+P8247,nominal share capital,194,194,71,29,1.2,ok,0,0,0,0,2,3,2,17,5
+P582,end time,305,305,136,29,11.2,ok,0,2,17,10,0,0,0,0,0
+P1435,heritage designation,1045796,1045793,1011753,29,39.0,ok,0,0,0,0,0,0,0,6,23
+P210,party chief representative,269,269,87,28,1.1,ok,0,0,0,0,0,1,4,20,3
+P511,honorific prefix,1592,1592,1311,28,6.3,ok,0,0,0,0,0,0,0,5,23
+P1001,applies to jurisdiction,2999,2991,1300,28,12.3,ok,0,0,0,0,0,1,0,2,25
+P504,shipping port,278,276,140,27,2.1,ok,0,0,0,0,0,2,4,11,10
+P505,general manager,376,376,219,27,1.9,ok,0,0,0,0,0,0,8,18,1
+P12363,clerked for,1024,1024,715,27,2.0,ok,0,0,0,0,0,0,23,4,0
+P607,participated in conflict,1400,1398,1134,27,11.7,ok,0,0,0,0,0,1,1,16,9
+P915,filming location,502,500,220,25,6.0,ok,1,8,2,1,0,0,2,6,5
+P800,notable work,1275,1275,770,24,8.2,ok,0,0,0,0,0,0,0,18,6
+P38,currency,586,584,335,23,1.9,ok,0,0,0,0,0,0,0,4,19
+P2046,area,896,896,673,23,11.8,ok,0,0,0,0,0,0,1,11,11
+P2868,subject has role,1608,1608,997,23,9.8,ok,0,0,0,0,0,0,0,14,9
+P3983,sports league level,120,120,58,22,1.2,ok,0,0,0,0,0,0,0,2,20
+P742,pseudonym,835,833,471,22,8.7,ok,0,0,0,0,0,0,0,11,11
+P3460,colonel-in-chief,188,188,66,21,1.5,ok,0,0,0,0,0,0,0,2,19
+P1030,light characteristic,822,822,649,21,2.3,ok,0,0,0,0,0,1,0,8,12
+P7938,associated electoral district,42570,42570,41080,19,15.6,ok,0,0,0,0,0,0,0,3,16
+P831,parent club,212,212,102,18,1.8,ok,0,0,0,0,0,0,0,14,4
+P2388,position held by head of the organization,476,476,354,18,4.6,ok,0,0,0,0,0,0,0,6,12
+P1875,represented by,975,975,727,18,3.9,ok,0,0,0,0,0,0,1,13,4
+P634,team captain,280,280,100,17,1.5,ok,0,0,0,0,0,0,4,13,0
+P1027,conferred by,413,413,237,17,4.7,ok,0,0,0,0,0,0,0,9,8
+P84,architect,761,761,510,17,9.1,ok,0,0,0,0,0,0,0,5,12
+P3320,board member,4429,4419,1014,17,3.1,ok,0,0,0,0,0,0,0,9,8
+P1132,number of participants,176,176,54,16,4.7,ok,0,0,0,0,0,2,3,7,4
+P237,coat of arms,296,296,167,16,3.9,ok,0,0,0,0,0,0,0,0,16
+P1313,office held by the head of government,208,208,133,15,5.6,ok,0,0,0,0,0,0,1,4,10
+P669,located on street,788,788,553,15,7.4,ok,0,0,0,0,0,0,0,4,11
+P1066,student of,1287,1287,931,15,6.1,ok,0,0,0,0,0,0,1,14,0
+P272,production company,336,336,172,14,8.5,ok,0,0,0,0,0,0,0,9,5
+P609,terminus location,1356,1356,578,14,3.2,ok,0,0,0,0,0,0,0,4,10
+P121,item operated,1902,1888,565,14,3.4,ok,0,0,0,0,0,1,2,4,7
+P641,sport,1301,1299,859,14,15.6,ok,0,0,0,0,0,0,3,6,5
+P57,director,241,237,115,12,10.4,ok,0,0,0,0,0,0,3,4,5
+P175,performer,285,283,151,12,9.9,ok,0,0,0,0,1,0,0,5,6
+P6872,has written for,434,434,289,12,3.1,ok,0,0,0,0,0,0,2,8,2
+P2283,uses,687,687,319,12,9.6,ok,0,0,0,0,0,0,0,3,9
+P1110,attendance,741,741,375,12,2.6,ok,0,1,0,0,0,1,10,0,0
+P1830,owner of,4217,4217,3235,12,6.2,ok,0,0,0,0,0,0,0,6,6
+P2047,duration,175,173,93,11,9.1,ok,0,0,0,0,0,1,0,7,3
+P2838,professional name,127,125,78,10,1.1,ok,0,0,0,0,0,0,0,5,5
+P10308,director of publication,133,133,87,10,1.1,ok,0,0,0,0,0,1,1,3,5
+P2124,member count,149,149,81,10,3.6,ok,0,0,0,0,0,0,1,6,3
+P664,organizer,418,418,260,10,8.4,ok,0,0,0,0,0,0,1,1,8
+P178,developer,409,409,266,10,6.0,ok,0,0,0,0,0,0,0,7,3
+P3438,vehicle normally used,445,445,243,10,2.0,ok,0,0,0,0,0,0,1,5,4
+P1327,partner in business or sport,1043,1043,804,10,5.3,ok,0,0,0,0,0,0,1,6,3
+P3301,broadcast by,2047,2043,590,10,3.5,ok,0,0,0,0,0,2,0,8,0
+P3342,significant person,2109,2109,1303,10,5.4,ok,0,0,0,0,0,0,1,4,5
+P217,inventory number,4550,4550,3431,10,12.1,ok,0,0,0,0,0,0,0,3,7
+P86,composer,131,131,68,9,8.6,ok,0,0,0,0,0,0,0,2,7
+P1640,curator,162,162,69,9,1.5,ok,0,0,0,0,0,0,0,1,8
+P2257,event interval,220,220,139,9,2.5,ok,0,0,0,0,0,0,0,6,3
+P2109,nominal power output,209,209,147,9,2.4,ok,0,0,0,0,0,1,0,3,5
+P2825,via,263,263,42,9,1.5,ok,0,4,0,1,1,3,0,0,0
+P1029,crew members,582,582,253,9,2.0,ok,0,0,0,1,0,2,2,3,1
+P750,distributed by,591,591,408,9,8.7,ok,0,0,0,0,0,0,0,6,3
+P5995,kit supplier,95,95,52,8,1.2,ok,0,0,0,0,0,0,0,8,0
+P612,mother house,109,109,67,8,1.3,ok,0,0,0,0,0,0,0,1,7
+P1071,location of creation,165,165,63,8,3.6,ok,0,0,0,0,0,0,0,6,2
+P2813,house publication,231,231,157,8,1.6,ok,0,0,0,0,0,0,0,3,5
+P2758,CNC film rating (France),298,298,188,8,5.0,ok,0,0,0,0,0,0,1,5,2
+P85,anthem,445,445,353,8,1.8,ok,0,0,0,0,0,0,0,3,5
+P2505,carries thoroughfare,339,339,259,8,3.8,ok,0,0,0,0,0,0,0,0,8
+P47,shares border with,4139,4138,2697,8,12.4,ok,0,0,0,0,0,0,0,2,6
+P2499,league level above,94,94,50,7,1.6,ok,0,0,0,0,0,0,0,4,3
+P194,legislative body,118,118,66,7,2.4,ok,0,0,0,0,0,0,0,5,2
+P12452,appeals to,122,122,95,7,1.5,ok,0,0,0,0,0,0,0,0,7
+P4345,director of archaeological fieldwork,182,182,95,7,1.2,ok,0,0,0,0,0,0,0,4,3
+P186,made from material,257,257,154,7,9.0,ok,0,0,0,0,0,0,0,1,6
+P495,country of origin,304,304,186,7,12.8,ok,0,0,0,0,0,0,0,1,6
+P798,military designation,920,858,629,7,2.0,ok,0,0,0,0,0,0,0,2,5
+P50,author,147,147,78,7,9.9,ok,0,0,0,0,0,0,0,3,4
+P162,producer,125,125,76,6,6.9,ok,0,0,0,0,0,0,2,4,0
+P122,basic form of government,124,124,62,6,1.6,ok,0,0,0,0,0,0,0,2,4
+P825,dedicated to,159,159,102,6,4.5,ok,0,0,0,0,0,0,0,1,5
+P837,day in year for periodic occurrence,228,228,154,6,1.8,ok,0,0,0,0,0,0,1,1,4
+P725,voice actor,580,578,220,6,4.2,ok,0,0,0,0,0,0,0,3,3
+P156,followed by,696,696,595,6,13.7,ok,0,0,0,0,0,0,0,2,4
+P1535,used by,782,782,582,6,4.0,ok,0,0,0,0,0,0,0,1,5
+P161,cast member,1104,1104,286,6,17.3,ok,0,0,0,0,0,0,1,3,2
+P5607,located in the religious territorial entity,1334,1334,1261,6,4.3,ok,0,0,0,0,0,0,0,0,6
+P1824,road number,3230,3230,3164,6,4.6,ok,0,0,0,0,0,0,0,2,4
+P2664,units sold,25,25,11,5,1.4,ok,0,0,0,0,0,0,0,1,4
+P2097,term length of position,47,47,28,5,1.3,ok,0,0,0,0,0,0,0,0,5
+P3174,art director,75,75,41,5,1.3,ok,0,0,0,0,0,0,0,4,1
+P1716,brand,80,80,50,5,2.3,ok,0,0,0,0,0,0,0,5,0
+P8938,artistic director,103,103,61,5,1.1,ok,0,0,0,0,0,0,0,3,2
+P812,academic major,235,235,164,5,2.1,ok,0,0,0,0,0,0,1,3,1
+P2389,organization directed by the office or position,283,283,187,5,3.0,ok,0,0,0,0,0,0,0,1,4
+P767,contributor to the creative work or subject,655,655,298,5,2.8,ok,0,0,0,0,0,0,1,2,2
+P81,connecting line,2374,2374,1701,5,8.7,ok,0,0,0,0,0,0,0,0,5
+P2348,time period,2711,2711,2636,5,8.0,ok,0,0,0,0,0,1,0,0,4
+P355,child organization or unit,3583,3583,1827,5,5.8,ok,0,0,0,0,0,0,0,1,4
+P872,printed by,43,43,22,4,1.8,ok,0,0,0,0,0,0,0,3,1
+P8030,military size designation,45,45,23,4,1.2,ok,0,0,0,0,0,2,0,0,2
+P1141,number of processor cores,57,57,43,4,1.8,ok,0,0,0,0,0,1,3,0,0
+P1906,office held by head of state,61,61,32,4,1.2,ok,0,0,0,0,0,0,0,0,4
+P1592,prosecutor,113,113,9,4,1.1,ok,0,0,0,0,0,0,0,4,0
+P2500,league level below,115,115,48,4,2.6,ok,0,0,0,0,0,0,0,2,2
+P263,official residence,113,113,81,4,2.2,ok,0,0,0,0,0,1,0,1,2
+P2121,prize money,112,112,73,4,2.2,ok,0,0,0,0,0,0,0,2,2
+P149,architectural style,146,146,105,4,5.6,ok,0,0,0,0,0,0,0,0,4
+P2144,frequency,258,258,137,4,2.3,ok,0,0,0,0,0,0,1,1,2
+P16,transport network,380,380,306,4,6.1,ok,0,0,0,0,0,0,0,1,3
+P3919,contributed to creative work,402,400,316,4,2.7,ok,0,0,0,0,0,0,0,2,2
+P2415,personal best,614,614,198,4,1.7,ok,0,0,0,0,0,0,3,1,0
+P585,point in time,1556,1554,1526,4,30.9,ok,0,0,0,0,0,2,1,1,0
+P579,IMA status and/or rank,2161,2161,2049,4,3.3,ok,0,0,0,0,0,0,0,2,2
+P101,field of work,2600,2598,2259,4,30.0,ok,0,0,0,0,0,0,0,3,1
+P803,professorship,3701,3701,3274,4,4.1,ok,0,0,0,0,0,0,0,4,0
+P710,participant,4079,4079,1349,4,11.5,ok,0,0,0,0,0,1,2,1,0
+P571,inception,26584,26582,26465,4,13.7,ok,0,0,0,0,0,0,0,1,3
+P155,follows,538,536,364,4,13.4,ok,0,0,0,0,0,0,0,2,2
+P2437,number of seasons,21,21,11,3,4.8,ok,0,0,0,0,0,1,0,0,2
+P4253,number of constituencies,28,28,11,3,3.6,ok,0,0,0,0,0,0,0,1,2
+P2438,narrator,32,32,16,3,1.9,ok,0,0,0,0,0,0,1,2,0
+P9901,issuing agent of work,36,36,23,3,1.4,ok,0,0,0,0,0,0,0,0,3
+P1387,political alignment,45,45,27,3,1.9,ok,0,0,0,0,0,0,0,0,3
+P3157,event distance,53,53,29,3,2.2,ok,0,0,0,0,0,0,0,2,1
+P1810,subject named as,61,61,32,3,1.3,ok,0,0,0,0,0,0,0,2,1
+P2769,budget,72,72,6,3,1.5,ok,0,0,0,0,0,0,3,0,0
+P3912,newspaper format,70,70,54,3,1.6,ok,0,0,0,0,0,0,0,0,3
+P465,sRGB color hex triplet,85,85,59,3,2.5,ok,0,0,0,0,0,0,0,3,0
+P5353,school district,96,96,75,3,1.8,ok,0,0,0,0,0,0,0,0,3
+P10449,trained by,96,96,60,3,1.5,ok,0,0,0,0,0,0,1,2,0
+P8138,located in the statistical territorial entity,117,117,96,3,3.9,ok,0,0,0,0,0,0,0,1,2
+P8324,funder,159,159,86,3,1.7,ok,0,0,0,0,0,0,0,1,2
+P2978,wheel arrangement,211,211,111,3,2.4,ok,0,0,0,0,0,0,0,1,2
+P2661,target interest rate,216,216,4,3,1.4,ok,0,0,0,0,2,1,0,0,0
+P1671,route number,233,233,153,3,3.1,ok,0,0,0,0,0,0,0,2,1
+P802,student,345,345,239,3,5.4,ok,0,0,0,0,0,0,0,3,0
+P3931,copyright holder,421,421,332,3,2.1,ok,0,0,0,0,0,0,0,2,1
+P5052,supervisory board member,613,613,252,3,1.6,ok,0,0,0,0,0,0,0,2,1
+P3156,Australian Classification,2928,2928,2723,3,2.9,ok,0,1,0,0,0,1,0,0,1
+P528,catalog code,2407,2407,2348,3,11.9,ok,0,0,0,0,0,0,0,1,2
+P2998,age of candidacy,9,9,3,2,1.1,ok,0,0,0,0,0,0,0,1,1
+P3701,incarnation of,9,9,3,2,1.1,ok,0,0,0,0,0,0,0,1,1
+P2095,co-driver,13,13,7,2,1.3,ok,0,0,0,0,0,0,0,2,0
+P3195,league points system,13,13,5,2,1.5,ok,0,0,0,0,0,0,0,0,2
+P9989,stylized name,11,11,6,2,1.8,ok,0,0,0,0,0,0,0,1,1
+P2386,diameter,15,15,8,2,3.6,ok,0,0,0,0,0,0,0,0,2
+P1174,visitors per year,16,16,11,2,2.5,ok,0,0,0,0,0,0,1,1,0
+P2997,age of majority,15,15,8,2,1.2,ok,0,0,0,0,0,0,0,0,2
+P7501,audio system,16,16,7,2,1.6,ok,0,0,0,0,0,0,0,1,1
+P8001,endorsed by,16,16,10,2,1.1,ok,0,0,0,0,0,0,0,2,0
+P1750,name day,19,19,12,2,1.2,ok,0,0,0,0,0,0,0,2,0
+P1652,referee,21,21,4,2,2.2,ok,0,2,0,0,0,0,0,0,0
+P5024,choral conductor,28,28,15,2,1.7,ok,0,0,0,0,0,0,0,1,1
+P3086,speed limit,29,29,20,2,2.6,ok,0,0,0,0,0,0,0,1,1
+P2067,mass,35,35,22,2,8.6,ok,0,0,0,0,0,0,0,0,2
+P2196,count of students,44,44,30,2,2.4,ok,0,0,0,0,0,0,2,0,0
+P282,writing system,56,56,41,2,8.5,ok,0,0,0,0,0,0,0,2,0
+P4970,alternative name,62,62,47,2,1.3,ok,0,0,0,0,0,0,0,0,2
+P765,surface played on,67,67,45,2,2.2,ok,0,0,0,0,0,0,0,2,0
+P6794,minimum wage,69,69,6,2,1.2,ok,0,0,0,0,0,1,1,0,0
+P2555,fee,84,84,38,2,1.4,ok,0,0,0,0,0,0,2,0,0
+P748,appointed by,97,97,72,2,1.4,ok,0,0,0,0,0,0,0,0,2
+P2284,price,101,101,50,2,1.6,ok,0,0,0,0,0,0,1,0,1
+P3730,next higher rank,88,88,69,2,1.7,ok,0,0,0,0,0,0,0,1,1
+P2048,height,118,118,79,2,8.8,ok,0,0,0,0,0,0,0,0,2
+P840,narrative location,149,149,91,2,11.3,ok,0,0,0,0,0,0,0,2,0
+P1596,penalty,191,191,134,2,1.8,ok,0,0,0,0,0,0,0,1,1
+P912,has facility,254,254,181,2,2.7,ok,0,0,0,0,0,0,0,0,2
+P2291,charted in,273,273,175,2,1.8,ok,0,0,1,1,0,0,0,0,0
+P1064,track gauge,277,277,191,2,3.7,ok,0,0,0,0,0,0,0,1,1
+P1441,present in work,347,347,269,2,6.9,ok,0,0,0,0,0,0,0,2,0
+P1038,relative,589,589,418,2,7.9,ok,0,0,0,0,0,0,0,0,2
+P1552,has characteristic,601,601,526,2,6.5,ok,0,0,0,0,0,0,0,1,1
+P3716,social classification,602,602,564,2,3.7,ok,0,0,0,0,0,0,0,0,2
+P1366,replaced by,691,691,594,2,7.2,ok,0,0,0,0,0,0,1,0,1
+P2541,operating area,773,773,331,2,3.8,ok,0,0,0,0,0,0,0,0,2
+P421,located in time zone,1284,1273,932,2,7.6,ok,0,0,0,0,0,0,0,2,0
+P6339,reports periodicity,18157,18157,8773,2,2.5,ok,0,0,0,0,0,0,0,2,0
+P1423,template has topic,3,3,1,1,2.4,ok,0,0,0,0,0,0,0,0,1
+P2578,is the study of,3,3,1,1,1.5,ok,0,0,0,0,0,0,0,1,0
+P5448,upper limit,3,3,1,1,1.1,ok,0,0,0,0,0,0,0,1,0
+P1096,orbital eccentricity,4,4,2,1,2.6,ok,0,0,0,0,0,0,0,1,0
+P1351,number of points/goals/set scored,4,4,2,1,1.7,ok,0,0,0,0,0,0,1,0,0
+P8550,law identifier,4,4,2,1,1.5,ok,0,0,0,0,0,0,0,0,1
+P11814,funded by grant,4,4,2,1,1.1,ok,0,0,0,0,0,0,1,0,0
+P2517,category for recipients of this award,5,5,2,1,2.0,ok,0,0,0,0,0,0,0,1,0
+P10661,exhibited creator,5,5,2,1,1.1,ok,0,0,0,0,0,0,1,0,0
+P12168,Torino scale,6,6,3,1,1.1,ok,0,0,0,1,0,0,0,0,0
+P12617,creative director,6,6,2,1,1.0,ok,0,0,0,0,0,0,0,1,0
+P2045,orbital inclination,7,7,1,1,2.7,ok,0,0,0,0,0,1,0,0,0
+P3001,retirement age,6,6,2,1,1.1,ok,0,0,0,0,0,0,0,1,0
+P3858,route diagram template,7,7,2,1,1.8,ok,0,0,0,0,0,0,0,1,0
+P4884,court,7,7,4,1,1.9,ok,0,0,0,0,0,1,0,0,0
+P5869,model item,7,7,2,1,1.4,ok,0,0,0,0,0,0,0,1,0
+P2572,hashtag,8,8,6,1,4.9,ok,0,0,0,0,0,0,0,1,0
+P4633,name of the character role,8,8,1,1,1.8,ok,0,0,0,0,0,0,0,1,0
+P424,Wikimedia language code,9,9,4,1,1.2,ok,0,0,0,0,0,0,0,1,0
+P1128,employees,9,9,5,1,4.7,ok,0,0,0,0,0,0,1,0,0
+P2244,periapsis,10,10,3,1,3.3,ok,0,0,0,0,0,1,0,0,0
+P5822,admission rate,11,11,1,1,1.4,ok,0,0,0,0,0,1,0,0,0
+P6801,number of hospital beds,11,11,7,1,1.8,ok,0,0,0,0,0,0,0,1,0
+P7959,historic county,11,11,9,1,6.2,ok,0,0,0,0,0,0,0,1,0
+P2596,culture,12,12,5,1,2.3,ok,0,0,0,0,0,0,0,0,1
+P7153,significant place,12,12,9,1,2.3,ok,0,0,0,0,0,0,0,0,1
+P501,enclave within,12,12,9,1,1.2,ok,0,0,0,0,0,0,0,0,1
+P2146,orbital period,13,13,6,1,3.4,ok,0,0,0,0,0,1,0,0,0
+P4353,nominated by,13,13,9,1,1.6,ok,0,0,0,0,0,0,0,0,1
+P2052,speed,14,14,8,1,4.0,ok,0,0,0,0,0,0,0,0,1
+P2378,issued by,13,13,9,1,1.5,ok,0,0,0,0,0,0,0,0,1
+P8764,port calls,15,15,2,1,1.1,ok,0,0,0,1,0,0,0,0,0
+P6437,day of regular release,14,14,8,1,1.3,ok,0,0,0,0,0,0,0,1,0
+P1304,central bank,15,15,10,1,1.2,ok,0,0,0,0,0,0,0,0,1
+P1594,judge,17,17,2,1,1.5,ok,0,0,0,0,0,0,0,1,0
+P6885,historical region,17,17,5,1,3.3,ok,0,0,0,0,0,0,0,0,1
+P7419,gender educated,17,17,11,1,1.4,ok,0,0,0,0,0,0,0,0,1
+P1028,donated by,18,18,16,1,1.8,ok,0,0,0,0,0,0,0,0,1
+P113,airline hub,20,20,11,1,1.5,ok,0,0,0,0,0,0,0,0,1
+P1301,number of elevators,21,21,19,1,1.6,ok,0,0,0,0,0,1,0,0,0
+P457,foundational text,23,23,9,1,1.5,ok,0,0,0,0,0,0,0,0,1
+P2957,throughput,24,24,10,1,1.2,ok,0,0,0,0,0,0,0,0,1
+P10788,in operation on service,24,24,8,1,1.1,ok,0,0,0,0,0,0,0,1,0
+P1181,numeric value,26,26,14,1,1.5,ok,0,0,0,0,0,0,0,0,1
+P7604,supervised by,27,27,21,1,1.8,ok,0,0,0,0,0,0,0,1,0
+P415,radio format,28,28,14,1,3.5,ok,0,0,0,0,0,0,0,1,0
+P1408,licensed to broadcast to,28,28,16,1,3.4,ok,0,0,0,0,0,0,0,1,0
+P2184,history of topic,29,29,14,1,4.6,ok,0,0,0,0,0,0,0,0,1
+P208,executive body,31,31,18,1,1.5,ok,0,0,0,0,0,1,0,0,0
+P6275,copyright representative,33,33,26,1,5.3,ok,0,0,0,0,0,0,0,0,1
+P3970,channel number,35,35,25,1,1.2,ok,0,0,0,0,0,0,0,0,1
+P1431,executive producer,37,37,20,1,2.0,ok,0,0,0,0,0,0,0,1,0
+P2061,aspect ratio (W:H),36,36,22,1,3.1,ok,0,0,0,0,0,0,0,1,0
+P2791,power consumed,38,38,33,1,1.2,ok,0,0,0,0,0,0,1,0,0
+P110,illustrator,42,42,23,1,3.1,ok,0,0,0,0,0,0,0,1,0
+P7169,substitute director/manager,43,43,17,1,1.0,ok,0,0,0,0,0,0,0,1,0
+P3085,qualifies for event,44,44,19,1,1.7,ok,0,0,0,0,0,0,0,0,1
+P4565,electoral district number,41,41,36,1,1.2,ok,0,0,0,0,0,0,0,1,0
+P1346,winner,47,47,18,1,4.2,ok,0,0,0,0,0,0,0,0,1
+P4224,category contains,49,49,40,1,8.1,ok,0,0,0,0,0,0,0,0,1
+P3091,mount,50,50,26,1,1.2,ok,0,0,0,0,0,0,0,1,0
+P7374,educational stage,53,53,50,1,1.6,ok,0,0,0,0,0,0,0,1,0
+P706,located in/on physical feature,55,55,43,1,6.2,ok,0,0,0,0,0,0,0,0,1
+P289,vessel class,60,60,46,1,2.1,ok,0,0,0,0,0,0,0,1,0
+P163,flag,58,58,39,1,2.2,ok,0,0,0,0,0,0,0,0,1
+P144,based on,64,64,45,1,4.3,ok,0,0,0,0,0,0,0,1,0
+P460,said to be the same as,66,66,50,1,7.6,ok,0,0,0,0,0,0,0,1,0
+P1101,floors above ground,70,70,46,1,2.7,ok,0,0,0,0,0,0,0,1,0
+P1444,destination point,71,71,66,1,2.4,ok,0,0,0,0,0,0,1,0,0
+P417,patron saint,75,75,60,1,2.9,ok,0,0,0,0,0,0,0,0,1
+P2828,corporate officer,95,95,59,1,1.1,ok,0,0,0,0,0,0,0,0,1
+P12484,competition judge,97,97,10,1,1.1,ok,0,0,0,0,0,0,0,0,1
+P3729,next lower rank,93,93,73,1,1.8,ok,0,0,0,0,0,0,0,0,1
+P9597,type of lens,100,100,80,1,1.3,ok,0,0,0,0,0,0,0,0,1
+P7888,merged into,110,110,107,1,2.2,ok,0,0,0,0,0,0,0,1,0
+P287,designed by,115,115,92,1,3.8,ok,0,0,0,0,0,0,0,0,1
+P37,official language,118,118,64,1,2.8,ok,0,0,0,0,0,0,0,0,1
+P8289,parish church(es),123,123,57,1,1.9,ok,0,0,0,0,0,0,0,1,0
+P1343,described by source,129,129,93,1,12.1,ok,0,0,0,0,0,0,0,1,0
+P462,color,128,128,76,1,9.0,ok,0,0,0,0,0,0,0,1,0
+P12439,civil rank,134,134,90,1,1.7,ok,0,0,0,0,0,0,0,1,0
+P413,position played on team / speciality,153,153,146,1,15.9,ok,0,0,0,0,0,0,0,0,1
+P547,commemorates,165,165,98,1,3.8,ok,0,0,0,0,0,0,0,0,1
+P199,organizational division,211,207,95,1,1.5,ok,0,0,0,0,0,0,0,1,0
+P3448,stepparent,218,218,167,1,1.6,ok,0,0,0,0,0,0,0,0,1
+P930,type of electrification,268,268,226,1,1.9,ok,0,0,0,0,0,0,0,0,1
+P795,located on linear feature,325,325,278,1,8.5,ok,0,0,0,0,0,0,0,0,1
+P1056,product or material produced,399,399,211,1,5.8,ok,0,0,0,0,0,0,0,1,0
+P516,powered by,408,408,216,1,3.2,ok,0,0,0,0,0,0,0,1,0
+P921,main subject,365,365,295,1,14.2,ok,0,0,0,0,0,0,1,0,0
+P1103,number of platform tracks,334,334,305,1,4.1,ok,0,0,0,0,0,0,0,1,0
+P2929,lighthouse range,564,564,251,1,2.1,ok,0,0,0,0,0,0,0,0,1
+P10611,has certification,640,640,615,1,1.9,ok,0,0,0,0,0,0,0,1,0
+P296,station code,609,609,360,1,3.8,ok,0,0,0,0,0,0,0,1,0
+P1050,medical condition,1428,1428,1351,1,8.1,ok,0,0,0,0,0,0,0,1,0
+P414,stock exchange,9702,9702,9235,1,5.9,ok,0,0,0,0,0,0,1,0,0
+P735,given name,605,605,461,1,13.9,ok,0,0,0,0,0,0,0,0,1
+P2936,language used,26,26,14,1,6.8,ok,0,0,0,0,0,0,0,0,1
+P6424,affiliation string,45,45,38,1,2.4,ok,0,0,0,0,0,0,0,0,1
+P215,spectral class,0,0,0,0,13.7,ok,0,0,0,0,0,0,0,0,0
+P233,canonical SMILES,0,0,0,0,11.9,ok,0,0,0,0,0,0,0,0,0
+P469,lake on watercourse,0,0,0,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P490,provisional designation,0,0,0,0,3.4,ok,0,0,0,0,0,0,0,0,0
+P684,ortholog,0,0,0,0,7.4,ok,0,0,0,0,0,0,0,0,0
+P703,found in taxon,0,0,0,0,7.8,ok,0,0,0,0,0,0,0,0,0
+P847,United States Navy aircraft designation,0,0,0,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P898,IPA transcription,0,0,0,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P1032,digital rights management system,0,0,0,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1090,redshift,0,0,0,0,7.0,ok,0,0,0,0,0,0,0,0,0
+P1195,file extension,0,0,0,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P1358,points for,0,0,0,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1534,end cause,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1833,number of registered users/contributors,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2361,online service,0,0,0,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P2440,transliteration or transcription,0,0,0,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P2560,GPU,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2669,discontinuation date,0,0,0,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2681,is recto of,0,0,0,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P3041,luminous intensity,0,0,0,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P3067,GS1 country code,0,0,0,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P3303,third-party formatter URL,0,0,0,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P4241,refine date,0,0,0,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P4506,Formal Public Identifier,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P4552,mountain range,0,0,0,0,3.8,ok,0,0,0,0,0,0,0,0,0
+P4602,date of burial or cremation,0,0,0,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P4810,reads environment variable,0,0,0,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P4825,deductions (in figure skating),0,0,0,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P4934,calculated from,0,0,0,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P5204,commercialization date,0,0,0,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P5279,hyphenation,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5422,has pattern,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6001,applies to people,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6112,category for members of a team,0,0,0,0,2.5,ok,0,0,0,0,0,0,0,0,0
+P6793,WMI code,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6879,effective temperature,0,0,0,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P7376,worn by,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P7588,effective date,0,0,0,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P9998,excitation energy,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P10648,podium finishes,0,0,0,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P10680,franchisor,0,0,0,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P10786,date of incorporation,0,0,0,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P11747,holds diplomatic passport of,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P12020,state of transmission,0,0,0,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P12476,filial church,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P129,physically interacts with,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P183,endemic to,1,1,1,0,3.4,ok,0,0,0,0,0,0,0,0,0
+P205,basin country,1,1,1,0,2.5,ok,0,0,0,0,0,0,0,0,0
+P433,issue,1,1,1,0,10.8,ok,0,0,0,0,0,0,0,0,0
+P479,input device,1,1,1,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P548,version type,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P629,"version, edition or translation of",1,1,1,0,5.3,ok,0,0,0,0,0,0,0,0,0
+P658,tracklist,1,1,1,0,3.2,ok,0,0,0,0,0,0,0,0,0
+P739,ammunition,1,1,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P746,date of disappearance,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P826,tonality,1,1,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P910,topic's main category,1,1,1,0,9.5,ok,0,0,0,0,0,0,0,0,0
+P913,notation,1,1,1,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P935,Commons gallery,1,1,1,0,5.4,ok,0,0,0,0,0,0,0,0,0
+P1012,including,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1026,academic thesis,1,1,1,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P1040,film editor,1,1,1,0,5.2,ok,0,0,0,0,0,0,0,0,0
+P1049,worshipped by,1,1,1,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P1196,manner of death,1,1,1,0,7.2,ok,0,0,0,0,0,0,0,0,0
+P1198,unemployment rate,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1355,number of wins,1,1,1,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1446,number of missing,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1455,list of works,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1465,category for people who died here,1,1,1,0,2.9,ok,0,0,0,0,0,0,0,0,0
+P1471,reporting mark,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1589,lowest point,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1590,number of casualties,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1598,consecrator,1,1,1,0,2.8,ok,0,0,0,0,0,0,0,0,0
+P1612,Commons Institution page,1,1,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P1642,acquisition transaction,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1654,wing configuration,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1660,has index case,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1753,list related to category,1,1,1,0,3.0,ok,0,0,0,0,0,0,0,0,0
+P1775,follower of,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1809,choreographer,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1945,street key,1,1,1,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P2133,total debt,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2140,foreign direct investment net outflow,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2141,foreign direct investment net inflow,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2210,relative to,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2259,mobile network code,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2308,class,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2313,minimum value,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2324,quantity buried,1,1,1,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P2341,indigenous to,1,1,1,0,3.6,ok,0,0,0,0,0,0,0,0,0
+P2429,expected completeness,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P2567,amended by,1,1,1,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P2568,repealed by,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2737,union of,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2831,totem,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2872,visitor center,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P3005,valid in place,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3025,open days,1,1,1,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P3036,precipitation height,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3081,damaged,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3148,repeals,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P3173,offers view on,1,1,1,0,3.6,ok,0,0,0,0,0,0,0,0,0
+P3279,statistical leader,1,1,1,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P3295,code,1,1,1,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P3306,ICAA rating,1,1,1,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P3530,par,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3823,Ethnologue language status,1,1,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P3831,object of statement has role,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3876,category for alumni of educational institution,1,1,1,0,2.8,ok,0,0,0,0,0,0,0,0,0
+P3921,Wikidata SPARQL query equivalent,1,1,1,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P3934,face value,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P3967,final event,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4183,angle from vertical,1,1,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P4675,appears in the form of,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P4743,animal breed,1,1,1,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P4745,is proceedings from,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P4805,make-up artist,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4837,has command line option,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5004,in opposition to,0,0,0,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P5021,assessment,1,1,1,0,3.7,ok,0,0,0,0,0,0,0,0,0
+P5027,number of representations,1,1,1,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P5051,towards,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5059,modified version of,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P5072,presented in,1,1,1,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P5135,greater than,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5150,IGAC rating,1,1,1,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P5328,revival or touring version of,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P5982,annual number of weddings,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6104,maintained by WikiProject,1,1,1,0,11.2,ok,0,0,0,0,0,0,0,0,0
+P6193,ratified by,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6365,member category,1,1,1,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P6439,has lyrics,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6452,CBFC rating,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6569,taxon especially protected in area,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6639,capacity factor,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P6684,first attested from,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P6803,taxon found at location,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6949,announcement date,1,1,1,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P7078,typing discipline,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P7152,copyright exemption,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P7469,orientation,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P7470,URN formatter,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P8107,bus,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P8453,public transport stop,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P8738,permits,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P8786,dedicated heritage entity,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P8791,digitised by,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P9184,number of hits,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P9237,reissue of,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P9652,personality trait of fictional character,0,0,0,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P9883,created for,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P9897,App Store age rating,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P9929,madhhab,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P10129,protective marking,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P10408,created during,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P10588,academic calendar type,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P10640,pole positions,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P10642,place of disappearance,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P10664,featured track(s),1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P10836,inker,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P11108,recorded participant,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P11547,Happy Planet Index score,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P11590,stamp perforation,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P11738,"handled, mitigated, or managed by",1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P12456,phonographic copyright,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P12764,replaced synonym of,1,1,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P13269,directs readers to,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P13308,software used for creation,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P13459,research project that contributed to this data set,1,1,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P13497,interior designer,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P13564,third-gender population,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P66,ancestral home,2,2,2,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P274,chemical formula,2,2,2,0,8.0,ok,0,0,0,0,0,0,0,0,0
+P461,opposite of,2,2,2,0,3.5,ok,0,0,0,0,0,0,0,0,0
+P478,volume,2,2,1,0,9.3,ok,0,0,0,0,0,0,0,0,0
+P489,currency sign,2,2,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P509,cause of death,2,2,2,0,5.9,ok,0,0,0,0,0,0,0,0,0
+P560,direction,2,2,2,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P823,speaker,2,2,2,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P941,inspired by,2,2,2,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P943,programmer,2,2,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P965,burial plot reference,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P974,tributary,2,2,2,0,3.9,ok,0,0,0,0,0,0,0,0,0
+P1073,writable file format,2,2,1,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P1087,Elo rating,2,2,1,0,7.9,ok,0,0,0,0,0,0,0,0,0
+P1125,Gini coefficient,2,2,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1139,floors below ground,2,2,2,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1163,media type,2,2,2,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P1339,number of injured,2,2,1,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P1345,number of victims of killer,2,2,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1434,takes place in fictional universe,2,2,2,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P1436,collection or exhibition size,2,2,1,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1478,has immediate cause,2,2,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1479,has contributing factor,2,2,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1536,immediate cause of,2,2,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1591,defendant,2,2,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1611,NATO code for grade,2,2,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1619,date of official opening,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P1625,has melody,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P1656,unveiled by,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P1657,MPA film rating,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2012,cuisine,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2233,semi-major axis of an orbit,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2319,elector,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2358,praenomen,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2370,conversion to SI unit,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2554,production designer,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2701,file format,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2793,clearance,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2834,individual tax rate,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2881,promoted,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3026,closed on,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3274,content deliverer,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3349,designed to carry,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3415,start period,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3450,sports season of league or competition,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3493,legal status (medicine),0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3575,data size,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P3833,diaspora,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P4151,game mechanics,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P4292,possessed by spirit,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P4448,cash back,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P4661,reservoir created,2,2,1,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P4777,has boundary,2,2,2,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P5141,coastline,2,2,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5412,romanization of Belarusian (2007 system),2,2,2,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P5582,number of arrests,2,2,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5623,type of water supply,2,2,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5901,official number of town quarter,2,2,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5970,Medierådet rating,2,2,2,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P6546,penalty minutes in career,2,2,2,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P6711,data transfer speed,2,2,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P6886,writing language,2,2,2,0,6.0,ok,0,0,0,0,0,0,0,0,0
+P7047,enemy,2,2,2,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P7643,covered period,2,2,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P8500,Vietnamese middle name,1,1,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P8956,compatible with,2,2,1,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P8966,URL match pattern,2,2,2,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P9139,first family name in Portuguese name,2,2,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P9419,personal library at,2,2,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P10280,category for honorary citizens of entity,2,2,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P10610,number of teachers,2,2,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P10636,number of conferences,1,1,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P12011,tribe,2,2,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P13637,matricule number,2,2,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P13638,settlement classification,2,2,2,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P13789,has wireless capabilities,2,2,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P14408,contains cadastral area,2,2,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P240,FAA airport code,3,3,3,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P459,determination method or standard,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P470,Eight Banner register,3,3,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1018,language regulatory body,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1031,legal citation of this text,3,3,2,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P1099,number of masts,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1191,date of first performance,3,3,3,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P1588,Statistics Indonesia area code,3,3,3,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P1603,number of cases,3,3,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1706,together with,3,3,3,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P1793,format as a regular expression,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1880,measurement scale,3,3,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2031,start of work period,3,3,3,0,7.8,ok,0,0,0,0,0,0,0,0,0
+P2058,depositary,3,3,3,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P2258,mobile country code,3,3,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2354,has list,3,3,3,0,3.3,ok,0,0,0,0,0,0,0,0,0
+P2359,nomen gentilicium,2,2,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P2512,has spin-off,3,3,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2557,stroke,3,3,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2579,studied by,3,3,3,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P2595,maximum gradient,3,3,2,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2598,serial number,3,3,2,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2684,Kijkwijzer rating,3,3,2,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P2787,longest span,3,3,3,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P3014,laws applied,3,3,1,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P3271,compulsory education (maximum age),3,3,3,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P3712,has goal,3,3,3,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P4082,captured with,3,3,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P4140,energy storage capacity,3,3,2,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4622,trophy awarded,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P4876,number of records,3,3,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P4968,relevant qualification,3,3,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P4998,key press,3,3,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P5017,last update,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5810,cryptocurrency code,1,1,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P5894,tuition fee,3,3,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6587,league system,3,3,3,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P6589,endowment,3,3,3,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P7086,start grade,3,3,3,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P7937,form of creative work,3,3,3,0,6.2,ok,0,0,0,0,0,0,0,0,0
+P8031,perpetrator,3,3,3,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P8196,voting system,3,3,2,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P8345,media franchise,3,3,3,0,3.0,ok,0,0,0,0,0,0,0,0,0
+P8498,road number formatter,2,2,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P8687,social media followers,3,3,3,0,7.3,ok,0,0,0,0,0,0,0,0,0
+P8733,number of rooms,3,3,2,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P9059,subdivision of this unit,3,3,3,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P9548,earned run average,3,3,1,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P9714,taxon range,3,3,2,0,3.4,ok,0,0,0,0,0,0,0,0,0
+P10241,individual of taxon,2,2,2,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P10654,rack system,3,3,2,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P10714,WikiProject importance scale rating,3,3,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P11197,build system,3,3,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P11812,afterward owned by,3,3,3,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P12651,authorised capital,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P14834,substance control status,3,3,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P91,sexual orientation,3,3,3,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P425,field of this occupation,4,4,2,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P474,telephone country code,3,3,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P736,cover art by,4,4,2,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P770,cause of destruction,4,4,4,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P967,guest of honor,4,4,4,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1393,proxy,4,4,4,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P1595,charge,4,4,4,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1620,plaintiff,4,4,3,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1950,second family name in Spanish name,4,4,3,0,4.9,ok,0,0,0,0,0,0,0,0,0
+P2093,author name string,4,4,3,0,10.4,ok,0,0,0,0,0,0,0,0,0
+P2234,volume as quantity,4,4,3,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P2610,thickness,4,4,3,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P2614,World Heritage criteria,4,4,1,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2700,protocol,3,3,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2756,EIRIN film rating,4,4,4,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P2770,source of income,4,4,4,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2790,net tonnage,4,4,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2851,payment types accepted,4,4,4,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2894,day of week,4,4,3,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P3019,railway signalling system,4,4,3,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P3680,statement supported by,4,4,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3985,supports programming language,4,4,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3989,members have occupation,4,4,3,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P3999,date of official closure,0,0,0,0,3.9,ok,0,0,0,0,0,0,0,0,0
+P4354,search formatter URL,3,3,3,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4511,vertical depth,4,4,3,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P4566,awarded for period,4,4,4,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4647,location of first performance,4,4,4,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P5056,patronym or matronym,4,4,4,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P5138,season of club or team,4,4,4,0,3.0,ok,0,0,0,0,0,0,0,0,0
+P5899,interest rate,4,4,4,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P6149,running mate,4,4,4,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6237,real estate developer,4,4,3,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6241,collection creator,4,4,4,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P7603,CITES Appendix,4,4,4,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P8032,victim(s),4,4,4,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P8739,prohibits,4,4,4,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P9994,record number,4,4,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P12883,Turkey neighborhood ID,4,4,4,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P141,IUCN conservation status,5,5,5,0,5.2,ok,0,0,0,0,0,0,0,0,0
+P246,element symbol,5,5,4,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P249,ticker symbol,5,5,5,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P364,original language of film or TV show,5,5,5,0,7.4,ok,0,0,0,0,0,0,0,0,0
+P404,game mode,5,5,3,0,3.4,ok,0,0,0,0,0,0,0,0,0
+P730,service retirement,5,5,5,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P885,origin of the watercourse,3,3,3,0,2.8,ok,0,0,0,0,0,0,0,0,0
+P1677,index case of,5,5,5,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P2243,apoapsis,4,4,3,0,2.5,ok,0,0,0,0,0,0,0,0,0
+P2442,conversion to standard unit,5,5,3,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2515,costume designer,5,5,1,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P2556,bore,5,5,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2907,UTC timezone offset,5,5,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3158,enclosure,5,5,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P3679,stock market index,5,5,5,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P4135,maximum age,5,5,5,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P4444,reward,5,5,5,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P4595,post town,5,5,2,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P4856,conscription number,4,4,4,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P5658,railway traffic side,5,5,5,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6191,language style,5,5,5,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6840,student organization of,5,5,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6902,era name,5,5,4,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P7782,category for ship name,5,5,4,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P9239,affiliated worker organisation,5,5,5,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P9302,script style,5,5,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P14519,body modification(s),5,5,4,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P30,continent,6,6,3,0,3.7,ok,0,0,0,0,0,0,0,0,0
+P200,inflows,6,6,5,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P522,type of orbit,6,6,4,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P610,highest point,6,6,5,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P655,translator,6,6,3,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P1411,nominated for,6,6,5,0,5.6,ok,0,0,0,0,0,0,0,0,0
+P1787,art name,5,5,4,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P1873,maximum number of players,6,6,6,0,2.9,ok,0,0,0,0,0,0,0,0,0
+P2261,beam,6,6,3,0,4.6,ok,0,0,0,0,0,0,0,0,0
+P2563,superhuman feature or ability,6,6,2,0,3.1,ok,0,0,0,0,0,0,0,0,0
+P3092,film crew member,6,6,2,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P3437,carries passengers or cargo,6,6,4,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P3893,public domain date,6,6,5,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P5071,boiler pressure,6,6,3,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P5800,narrative role,6,6,3,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P7514,landscape architect,6,6,5,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P10568,maintains linking to,6,6,1,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P13723,shrine ranking,6,6,4,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P301,category's main topic,7,7,6,0,5.8,ok,0,0,0,0,0,0,0,0,0
+P376,located on astronomical body,7,7,7,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P580,start time,6,6,6,0,8.8,ok,0,0,0,0,0,0,0,0,0
+P631,structural engineer,7,7,6,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P908,PEGI rating,7,7,6,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1120,number of deaths,7,7,5,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P2021,Erdős number,7,7,7,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2522,competition won,7,7,7,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P2665,alcohol by volume,7,7,5,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2900,fax number,6,6,6,0,3.3,ok,0,0,0,0,0,0,0,0,0
+P3205,patient of,7,7,7,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3373,sibling,7,7,7,0,7.5,ok,0,0,0,0,0,0,0,0,0
+P4428,implementation of,7,7,3,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P4794,season starts,7,7,5,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P5436,number of viewers/listeners,7,7,6,0,4.6,ok,0,0,0,0,0,0,0,0,0
+P6153,research site,7,7,4,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6440,maintenance method,7,7,6,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P7095,end grade,7,7,6,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P8368,number of branches,7,7,7,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P10290,hotel rating,7,7,6,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P11146,collection items at,7,7,6,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P201,outflows,6,6,6,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P521,scheduled service destination,8,8,5,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P546,docking port,8,8,6,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1145,Lagrangian point,8,8,8,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1932,object named as,8,8,5,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2225,discharge,8,8,5,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P2884,mains voltage,7,7,5,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P3033,package management system,8,8,5,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P3501,Christian liturgical rite,8,8,8,0,6.2,ok,0,0,0,0,0,0,0,0,0
+P3938,named by,8,8,4,0,3.5,ok,0,0,0,0,0,0,0,0,0
+P4586,type foundry,8,8,6,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P7297,cumulative elevation gain,2,2,1,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P8546,recording location,8,8,7,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P8852,facial hair,7,7,6,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P9549,official podcast,8,8,7,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P9793,setlist,8,8,4,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P10367,number of lanes,8,8,3,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P61,discoverer or inventor,9,9,8,0,5.0,ok,0,0,0,0,0,0,0,0,0
+P1193,prevalence,9,9,9,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1557,manifestation of,9,9,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2635,number of parts of this work,9,9,5,0,6.1,ok,0,0,0,0,0,0,0,0,0
+P2739,typeface/font used,9,9,7,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2852,emergency phone number,9,9,5,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2913,date depicted,9,9,9,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2925,domain of saint or deity,9,9,6,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P3618,base salary,9,9,7,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P4290,official app,7,7,6,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P4844,research intervention,9,9,1,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P7045,chassis,9,9,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P8058,symbol of,9,9,8,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P8571,external auditor,9,9,6,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P9234,supplement to,9,9,8,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P412,voice type,10,10,9,0,3.8,ok,0,0,0,0,0,0,0,0,0
+P500,exclave of,8,8,5,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P916,GSRR rating,4,4,3,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1072,readable file format,10,10,7,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P1264,valid in period,10,10,9,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P1299,depicted by,10,10,10,0,4.8,ok,0,0,0,0,0,0,0,0,0
+P2547,perimeter,10,10,1,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P3602,candidacy in election,9,9,8,0,4.9,ok,0,0,0,0,0,0,0,0,0
+P4519,payload mass,10,10,7,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P4614,drainage basin,10,10,6,0,5.1,ok,0,0,0,0,0,0,0,0,0
+P5023,activity policy in this place,10,10,10,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P5630,prisoner count,10,10,6,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P10067,train melody,10,10,9,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P25,mother,11,11,11,0,7.0,ok,0,0,0,0,0,0,0,0,0
+P172,ethnic group,11,11,8,0,5.6,ok,0,0,0,0,0,0,0,0,0
+P348,software version identifier,11,11,9,0,8.1,ok,0,0,0,0,0,0,0,0,0
+P393,edition number,11,11,4,0,5.7,ok,0,0,0,0,0,0,0,0,0
+P834,train depot,11,11,8,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1462,standards body,11,11,9,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2360,intended public,11,11,5,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P2674,next crossing downstream,11,11,9,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P2848,Wi-Fi access,11,11,11,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P6856,average speed,11,11,7,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P8005,research subject recruitment status,11,11,9,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P10254,associated cadastral district,11,11,8,0,3.2,ok,0,0,0,0,0,0,0,0,0
+P10888,contains the statistical territorial entity,11,11,7,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P78,top-level Internet domain,12,12,9,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P729,service entry,12,12,12,0,4.1,ok,0,0,0,0,0,0,0,0,0
+P1104,number of pages,14,12,6,0,11.6,ok,0,0,0,0,0,0,0,0,0
+P1290,godparent,12,12,9,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1622,driving side,12,12,12,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2130,capital cost,12,12,9,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P2673,next crossing upstream,12,12,11,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4967,prerequisite,12,12,7,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6540,multi-channel network,12,12,12,0,1.0,ok,0,0,0,0,0,0,0,0,0
+P7573,IFCO rating,12,12,12,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P14272,CLCR language code,12,12,12,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P344,director of photography,13,13,6,0,6.2,ok,0,0,0,0,0,0,0,0,0
+P398,child astronomical body,13,13,2,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P487,Unicode character,13,13,13,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P529,runway,13,13,7,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P541,office contested,13,13,9,0,2.5,ok,0,0,0,0,0,0,0,0,0
+P674,characters,13,13,5,0,3.6,ok,0,0,0,0,0,0,0,0,0
+P1639,pendant of,13,13,13,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P2044,elevation above sea level,13,13,10,0,9.5,ok,0,0,0,0,0,0,0,0,0
+P3793,IPv6 routing prefix,13,13,13,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P230,ICAO airline designator,14,14,14,0,2.8,ok,0,0,0,0,0,0,0,0,0
+P562,central bank/issuer,14,14,10,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P1202,carries scientific instrument,14,14,2,0,2.8,ok,0,0,0,0,0,0,0,0,0
+P1429,has pet,14,14,11,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P5202,adapted by,11,11,4,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P5897,account charge / subscription fee,14,14,4,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P10624,official observer status in organization,14,14,13,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P13574,most populous urban area,14,14,14,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P740,location of formation,15,15,12,0,8.7,ok,0,0,0,0,0,0,0,0,0
+P828,has cause,14,14,12,0,3.3,ok,0,0,0,0,0,0,0,0,0
+P2137,total equity,15,15,14,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P2197,production rate,15,15,12,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P3994,racon signal,14,14,14,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6195,funding scheme,14,14,12,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P6758,supported sports team,15,15,5,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P9086,BAMID film rating,15,15,13,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P768,electoral district,16,16,15,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1399,convicted of,16,16,16,0,3.0,ok,0,0,0,0,0,0,0,0,0
+P2262,draft,16,16,9,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P3000,marriageable age,16,16,4,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P6291,advertises,16,16,13,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P209,highest judicial authority,17,17,12,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P613,OS grid reference,17,17,14,0,4.4,ok,0,0,0,0,0,0,0,0,0
+P1314,number of spans,17,17,12,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P1593,legal counsel,14,14,7,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1876,vessel,17,17,10,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P3075,official religion,14,14,12,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P3179,territory overlaps,17,17,11,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P5012,special rank or class rate,17,17,17,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P114,airline alliance,17,17,13,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P229,IATA airline designator,18,18,17,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P676,lyricist,18,18,15,0,3.8,ok,0,0,0,0,0,0,0,0,0
+P1340,eye color,17,17,11,0,3.5,ok,0,0,0,0,0,0,0,0,0
+P1419,shape,18,18,12,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1546,motto,18,18,13,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1889,different from,18,18,18,0,13.9,ok,0,0,0,0,0,0,0,0,0
+P2098,substitute/deputy/replacement of office/officeholder,18,18,15,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P2937,legislative term,18,18,17,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P3113,does not have part,5,5,5,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P8045,organized response related to outbreak,18,18,6,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P807,separated from,19,19,19,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P2922,month of the year,18,18,15,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P5389,permanent resident of,19,19,19,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P6978,Scandinavian middle family name,19,19,19,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1398,structure replaces,20,20,17,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1414,GUI toolkit or framework,14,14,11,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P9493,artist files at,40,20,13,0,4.6,ok,0,0,0,0,0,0,0,0,0
+P1547,depends on software,20,20,14,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P1885,cathedral,21,21,18,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P1951,investor,21,21,13,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P3610,fare zone,21,21,12,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P5009,complies with,20,20,15,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P397,parent astronomical body,22,22,22,0,3.9,ok,0,0,0,0,0,0,0,0,0
+P550,chivalric order,22,22,20,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1098,"number of speakers, writers, or signers",22,22,18,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P1785,temple name,22,22,15,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P8329,principal investigator,20,20,14,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P13047,leased to,22,22,19,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P193,main building contractor,23,23,22,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P814,IUCN protected areas category,23,23,22,0,3.2,ok,0,0,0,0,0,0,0,0,0
+P833,interchange station,23,23,22,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P1302,primary destinations,23,23,14,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P2436,voltage,23,23,17,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P3032,adjacent structure or building,23,23,20,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P13939,Commonwealth Sport country code,23,23,15,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P942,theme music,24,24,9,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2855,VAT rate,24,24,9,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P3828,wears,22,22,14,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P8839,hair style / hair length,20,20,12,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P852,ESRB rating,21,21,13,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P3039,wheelbase,25,25,12,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P1879,income classification (Philippines),26,26,26,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P1891,signatory,26,26,5,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P4969,derivative work,26,26,15,0,5.9,ok,0,0,0,0,0,0,0,0,0
+P9759,bridge number,24,24,23,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P575,time of discovery or invention,27,27,27,0,8.9,ok,0,0,0,0,0,0,0,0,0
+P4446,reward program,27,27,19,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P411,canonization status,28,28,24,0,5.8,ok,0,0,0,0,0,0,0,0,0
+P2142,box office,28,28,15,0,5.3,ok,0,0,0,0,0,0,0,0,0
+P2377,MediaWiki hooks used,28,28,9,0,2.5,ok,0,0,0,0,0,0,0,0,0
+P1100,number of cylinders,29,29,15,0,4.9,ok,0,0,0,0,0,0,0,0,0
+P167,structure replaced by,31,31,26,0,4.3,ok,0,0,0,0,0,0,0,0,0
+P1329,phone number,28,28,25,0,19.9,ok,0,0,0,0,0,0,0,0,0
+P206,located in or next to body of water,30,30,27,0,10.0,ok,0,0,0,0,0,0,0,0,0
+P747,"has version, edition or translation",28,28,25,0,10.5,ok,0,0,0,0,0,0,0,0,0
+P403,mouth of the watercourse,27,27,25,0,12.3,ok,0,0,0,0,0,0,0,0,0
+P1884,hair color,29,29,19,0,4.0,ok,0,0,0,0,0,0,0,0,0
+P1336,territory claimed by,34,34,21,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P3719,regulated by,33,33,29,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P5832,political coalition,34,34,24,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P790,approved by,35,35,16,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2402,total expenditure,35,35,32,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P3424,Polish cultural heritage register number,35,35,31,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P467,legislated by,36,36,3,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P1840,investigated by,36,36,32,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P88,commissioned by,38,38,33,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P6379,has works in the collection,38,38,31,0,5.9,ok,0,0,0,0,0,0,0,0,0
+P2650,interested in,41,41,29,0,2.8,ok,0,0,0,0,0,0,0,0,0
+P4379,youth wing,42,42,25,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P972,catalog,40,40,40,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P3216,ClassInd rating,18,18,18,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P239,ICAO airport code,45,45,45,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P737,influenced by,46,46,19,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P2899,minimum age,38,38,21,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P2992,software quality assurance,46,46,40,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P576,"dissolved, abolished or demolished",46,46,46,0,7.5,ok,0,0,0,0,0,0,0,0,0
+P1269,facet of,49,49,41,0,5.3,ok,0,0,0,0,0,0,0,0,0
+P991,successful candidate,48,48,41,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P1035,honorific suffix,49,49,48,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1445,fictional universe described in,49,49,23,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1786,posthumous name,49,49,29,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P2079,fabrication method,48,48,41,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P3335,associated hazard,49,49,49,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P1373,daily patronage,50,50,38,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P1542,has effect,54,50,27,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P6249,narrative age,38,38,17,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P12878,last appearance,51,51,51,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1303,instrument,52,52,36,0,6.6,ok,0,0,0,0,0,0,0,0,0
+P2416,sports discipline competed in,47,47,36,0,5.0,ok,0,0,0,0,0,0,0,0,0
+P3818,KMRB film rating,52,52,39,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1113,number of episodes,53,53,47,0,6.1,ok,0,0,0,0,0,0,0,0,0
+P1990,species kept,53,53,12,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P6477,does not have characteristic,53,53,10,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P822,mascot,54,54,41,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P520,armament,55,55,28,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P2049,width,54,54,31,0,8.9,ok,0,0,0,0,0,0,0,0,0
+P2094,competition class,54,54,30,0,4.5,ok,0,0,0,0,0,0,0,0,0
+P2846,disabled accessibility,56,56,51,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P832,public holiday,57,57,13,0,1.3,ok,0,0,0,0,0,0,0,0,0
+P238,IATA airport code,57,57,55,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P170,creator,61,59,45,0,11.2,ok,0,0,0,0,0,0,0,0,0
+P2715,elected in,62,62,62,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2923,focal height,61,61,56,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1092,total produced,63,63,59,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P277,programmed in,55,55,36,0,2.9,ok,0,0,0,0,0,0,0,0,0
+P2408,set in period,69,69,65,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P58,screenwriter,73,73,22,0,7.8,ok,0,0,0,0,0,0,0,0,0
+P2817,appears in the heritage monument list,73,73,71,0,3.2,ok,0,0,0,0,0,0,0,0,0
+P1630,formatter URL,70,70,49,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P184,doctoral advisor,57,57,51,0,5.9,ok,0,0,0,0,0,0,0,0,0
+P1382,partially coincident with,77,77,44,0,3.0,ok,0,0,0,0,0,0,0,0,0
+P1427,start point,77,77,74,0,3.8,ok,0,0,0,0,0,0,0,0,0
+P5588,invasive to,77,77,67,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P2738,disjoint union of,78,78,76,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P3403,coextensive with,78,78,76,0,2.8,ok,0,0,0,0,0,0,0,0,0
+P5277,grade of kanji,78,78,75,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P1576,lifestyle,79,79,70,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4584,first appearance,81,81,81,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P40,child,81,81,56,0,8.3,ok,0,0,0,0,0,0,0,0,0
+P177,crosses,80,80,64,0,3.1,ok,0,0,0,0,0,0,0,0,0
+P1789,chief operating officer,84,84,71,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P400,platform,86,86,35,0,6.1,ok,0,0,0,0,0,0,0,0,0
+P1855,Wikidata property example,92,92,57,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P1981,FSK film rating,93,93,81,0,4.1,ok,0,0,0,0,0,0,0,0,0
+P180,depicts,92,92,55,0,6.8,ok,0,0,0,0,0,0,0,0,0
+P1923,participating team,95,95,10,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P306,operating system,78,78,48,0,3.1,ok,0,0,0,0,0,0,0,0,0
+P437,distribution format,103,103,70,0,10.1,ok,0,0,0,0,0,0,0,0,0
+P10135,recording date,104,104,104,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P185,doctoral student,86,86,49,0,5.0,ok,0,0,0,0,0,0,0,0,0
+P10606,notable role,107,107,81,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P4424,mandates,109,109,109,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P135,movement,111,111,100,0,4.4,ok,0,0,0,0,0,0,0,0,0
+P726,candidate,113,113,18,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P179,part of the series,114,114,113,0,14.3,ok,0,0,0,0,0,0,0,0,0
+P6364,official color,117,117,60,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P3842,located in the present-day administrative territorial entity,121,121,109,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P2754,production date,123,123,116,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P3721,public key fingerprint,127,124,61,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P360,is a list of,131,131,130,0,6.3,ok,0,0,0,0,0,0,0,0,0
+P408,software engine,106,106,64,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P3018,located in protected area,135,135,116,0,3.5,ok,0,0,0,0,0,0,0,0,0
+P2238,official symbol,141,141,50,0,1.4,ok,0,0,0,0,0,0,0,0,0
+P1321,municipal affiliation of a Swiss national,147,147,131,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P5460,grants,147,147,96,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P13773,LSF rating,154,154,154,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1142,political ideology,143,143,90,0,3.8,ok,0,0,0,0,0,0,0,0,0
+P483,recorded at studio or venue,161,161,156,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P5816,state of conservation,167,167,159,0,5.3,ok,0,0,0,0,0,0,0,0,0
+P1971,number of children,176,176,146,0,4.8,ok,0,0,0,0,0,0,0,0,0
+P7936,business model,182,182,181,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P452,industry,188,188,130,0,8.1,ok,0,0,0,0,0,0,0,0,0
+P1347,military casualty classification,193,193,189,0,2.5,ok,0,0,0,0,0,0,0,0,0
+P7256,computer performance,198,198,96,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P1350,number of matches played/races/starts,200,200,200,0,3.4,ok,0,0,0,0,0,0,0,0,0
+P1433,published in,209,203,156,0,11.3,ok,0,0,0,0,0,0,0,0,0
+P9866,GRAC rating,199,199,188,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P473,local dialing code,207,207,109,0,6.8,ok,0,0,0,0,0,0,0,0,0
+P553,website account on,207,207,143,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P6658,RCQ classification,229,229,228,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P9683,Qualis rank,250,250,225,0,1.2,ok,0,0,0,0,0,0,0,0,0
+P485,archives at,262,262,252,0,6.6,ok,0,0,0,0,0,0,0,0,0
+P841,feast day,272,272,240,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P7261,use restriction status,300,300,300,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P7327,OFLC classification,235,235,206,0,1.7,ok,0,0,0,0,0,0,0,0,0
+P1389,product certification,316,316,265,0,1.9,ok,0,0,0,0,0,0,0,0,0
+P3761,IPv4 routing prefix,320,320,179,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P112,founder,324,324,244,0,16.0,ok,0,0,0,0,0,0,0,0,0
+P5595,number of platform faces,248,248,224,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P2789,connects with,333,333,219,0,5.1,ok,0,0,0,0,0,0,0,0,0
+P3461,designated as terrorist by,343,343,194,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P4330,contains,361,361,36,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P1093,gross tonnage,366,366,354,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P53,family,377,377,328,0,7.4,ok,0,0,0,0,0,0,0,0,0
+P1383,contains settlement,379,379,172,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P7532,room number,392,392,378,0,1.5,ok,0,0,0,0,0,0,0,0,0
+P2652,partnership with,437,435,255,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P13210,organisation tax status,479,479,477,0,2.9,ok,0,0,0,0,0,0,0,0,0
+P1317,floruit,547,547,509,0,5.3,ok,0,0,0,0,0,0,0,0,0
+P2176,drug or therapy used for treatment,599,599,287,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P395,vehicle registration plate code,610,610,478,0,5.0,ok,0,0,0,0,0,0,0,0,0
+P1192,connecting service,657,657,455,0,3.8,ok,0,0,0,0,0,0,0,0,0
+P2175,medical condition treated,671,671,435,0,2.0,ok,0,0,0,0,0,0,0,0,0
+P2670,has part(s) of the class,676,676,327,0,4.6,ok,0,0,0,0,0,0,0,0,0
+P6216,copyright status,746,746,707,0,11.4,ok,0,0,0,0,0,0,0,0,0
+P8875,indexed in bibliographic review,747,747,729,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P1365,replaces,785,785,563,0,8.4,ok,0,0,0,0,0,0,0,0,0
+P2629,BBFC rating,871,871,706,0,2.2,ok,0,0,0,0,0,0,0,0,0
+P7763,copyright status as a creator,1113,1113,1109,0,11.9,ok,0,0,0,0,0,0,0,0,0
+P530,diplomatic relation,1144,1140,199,0,2.4,ok,0,0,0,0,0,0,0,0,0
+P1000,record held,1161,1161,643,0,2.1,ok,0,0,0,0,0,0,0,0,0
+P6954,online access status,1250,1250,1244,0,4.3,ok,0,0,0,0,0,0,0,0,0
+P4044,therapeutic area,1313,1313,840,0,1.8,ok,0,0,0,0,0,0,0,0,0
+P7228,access restriction status,1542,1542,1539,0,6.5,ok,0,0,0,0,0,0,0,0,0
+P914,USK rating,1513,1513,974,0,3.2,ok,0,0,0,0,0,0,0,0,0
+P4131,annual energy output,1758,1758,1757,0,2.3,ok,0,0,0,0,0,0,0,0,0
+P275,copyright license,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P6509,total goals in career,3338,3338,3332,0,4.2,ok,0,0,0,0,0,0,0,0,0
+P3259,intangible cultural heritage status,3545,3545,3096,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P5991,carbon footprint,4102,4102,276,0,2.6,ok,0,0,0,0,0,0,0,0,0
+P5514,accredited by,4966,4966,4280,0,3.1,ok,0,0,0,0,0,0,0,0,0
+P150,contains the administrative territorial entity,10733,10716,1079,0,14.1,ok,0,0,0,0,0,0,0,0,0
+P190,twinned administrative body,17510,17510,5769,0,6.6,ok,0,0,0,0,0,0,0,0,0
+P69,educated at,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P108,employer,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P131,located in the administrative territorial entity,0,,,0,,fail,0,0,0,0,0,0,0,0,0
+P2962,title of chess person,33392,33392,24158,0,7.2,ok,0,0,0,0,0,0,0,0,0
+P19,place of birth,4,4,4,0,13.6,ok,0,0,0,0,0,0,0,0,0
+P20,place of death,6,6,6,0,9.4,ok,0,0,0,0,0,0,0,0,0
+P21,sex or gender,85,85,70,0,10.7,ok,0,0,0,0,0,0,0,0,0
+P22,father,29,29,28,0,10.2,ok,0,0,0,0,0,0,0,0,0
+P59,constellation,0,0,0,0,8.3,ok,0,0,0,0,0,0,0,0,0
+P105,taxon rank,5,5,4,0,10.1,ok,0,0,0,0,0,0,0,0,0
+P136,genre,71,71,46,0,10.1,ok,0,0,0,0,0,0,0,0,0
+P171,parent taxon,2,2,2,0,10.8,ok,0,0,0,0,0,0,0,0,0
+P225,taxon name,1,1,1,0,9.5,ok,0,0,0,0,0,0,0,0,0
+P304,page(s),2,2,1,0,27.4,ok,0,0,0,0,0,0,0,0,0
+P373,Commons category,47,47,41,0,13.2,ok,0,0,0,0,0,0,0,0,0
+P407,language of work or name,297,297,137,0,12.0,ok,0,0,0,0,0,0,0,0,0
+P569,date of birth,12,12,11,0,15.9,ok,0,0,0,0,0,0,0,0,0
+P570,date of death,12,12,12,0,12.1,ok,0,0,0,0,0,0,0,0,0
+P577,publication date,6041,6041,6021,0,14.4,ok,0,0,0,0,0,0,0,0,0
+P880,CPU,4,4,2,0,1.6,ok,0,0,0,0,0,0,0,0,0
+P971,category combines topics,0,0,0,0,11.6,ok,0,0,0,0,0,0,0,0,0
+P1082,population,69,69,67,0,12.6,ok,0,0,0,0,0,0,0,0,0
+P1215,apparent magnitude,0,0,0,0,12.1,ok,0,0,0,0,0,0,0,0,0
+P1412,"languages spoken, written or signed",148,148,138,0,11.6,ok,0,0,0,0,0,0,0,0,0
+P1456,list of monuments,0,0,0,0,3.3,ok,0,0,0,0,0,0,0,0,0
+P1464,category for people born here,3,3,3,0,5.1,ok,0,0,0,0,0,0,0,0,0
+P1814,name in kana,31,31,21,0,5.0,ok,0,0,0,0,0,0,0,0,0
+P2214,parallax,0,0,0,0,9.2,ok,0,0,0,0,0,0,0,0,0
+P2216,radial velocity,0,0,0,0,12.3,ok,0,0,0,0,0,0,0,0,0
+P2403,total assets,1,1,1,0,2.7,ok,0,0,0,0,0,0,0,0,0
+P2583,distance from Earth,0,0,0,0,10.0,ok,0,0,0,0,0,0,0,0,0
+P2964,right to vote,4,4,2,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P5008,on focus list of Wikimedia project,3524,3524,3523,0,21.6,ok,0,0,0,0,0,0,0,0,0
+P6257,right ascension,0,,0,0,11.4,ok,0,0,0,0,0,0,0,0,0
+P6258,declination,0,0,0,0,9.4,ok,0,0,0,0,0,0,0,0,0
+P6259,epoch,0,0,0,0,10.2,ok,0,0,0,0,0,0,0,0,0
+P6524,expression of,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P6529,provisional house number,0,0,0,0,1.1,ok,0,0,0,0,0,0,0,0,0
+P10751,declination component of proper motion,0,0,0,0,9.3,ok,0,0,0,0,0,0,0,0,0
+P10752,right ascension component of proper motion,0,0,0,0,8.5,ok,0,0,0,0,0,0,0,0,0
+P12621,beneficial owner,6,6,5,0,1.1,ok,0,0,0,0,0,0,0,0,0
