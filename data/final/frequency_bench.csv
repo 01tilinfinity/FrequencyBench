@@ -1,0 +1,821 @@
+entity_id,entity,property_id,property,value_id,value,value_unit,frequency,frequency_days,start_time,end_time
+Q138370346,Martin Dehli,P2632,place of detention,Q140459370,Åneby,,A-Day,1.0,1941-04-05,1941-04-16
+Q139632682,Bjørn Sakariassen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Day,1,1942-08-19,1942-08-19
+Q139637817,Harald Granli,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Day,1.5,1943-05-02,1943-05-03
+Q30738818,La Bête curieuse,P915,filming location,Q1538929,parc Montsouris,,A-Day,1,2016-05-10,2016-05-10
+Q138376571,Asbjørn Larsen,P2632,place of detention,Q140458874,Farsund hjelpefengsel,,A-Day,1,1942-09-10,1942-09-10
+Q139632585,Einar Fridtjof Johansen,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Day,1,1940-10-21,1941-11-08
+Q139655885,Aslak Engesland,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Day,1.5,1945-01-17,1945-01-18
+Q139649800,Sigvart Riiser,P2632,place of detention,Q140459441,Møllergata 19,,A-Day,1.0,1941-04-04,1941-04-05
+Q138362908,Per Harry Andersen,P2632,place of detention,Q140458874,Farsund hjelpefengsel,,A-Day,1,1942-05-29,1942-05-30
+Q139645356,Nils Magnus Rødahl,P2632,place of detention,Q140459369,KdS Trondheim (Misjonshotellet),,A-Day,1.0,1945-01-21,1945-01-22
+Q138360874,Grigorij Grigorjevitsj Balaban,P2632,place of detention,Q4846406,Bragdøya,,A-Day,1.0,1943-09-17,1943-09-17
+Q139644657,Egil H Lerstad,P2632,place of detention,Q637411,Grini detention camp,,A-Day,1,1945-05-07,
+Q138369181,Sverre Fagerjord,P2632,place of detention,Q140458839,Mo hjelpefengsel,,A-Day,1.5,1943-05-01,1943-05-02
+Q139631966,Gorm Uchermann Sandvig,P2632,place of detention,Q140459240,Suttestad (KdS Oslo - Aussendienststelle Lillehammer),,A-Day,1,1945-04-21,1945-05-03
+Q134469827,2025 visit by Donald Trump to the Middle East,P17,country,Q851,Saudi Arabia,,A-Day,1.0,2025-05-13,2025-05-14
+Q139535777,"Apostolic journey of John Paul II to Zaragoza, Santo Domingo and Puerto Rico",P17,country,Q786,Dominican Republic,,A-Day,1.0,1984-10-11,1984-10-12
+Q139632584,Harold Graystone,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Day,1,1940-06-15,1940-06-16
+Q139651985,Czesław Szafran,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Day,1.5,1944-08-18,1944-08-20
+Q138374721,Hans Kalleberg,P2632,place of detention,Q140458874,Farsund hjelpefengsel,,A-Day,1,1942-08-18,1942-08-18
+Q164373,Thaksin Shinawatra,P2632,place of detention,Q1886845,Klong Prem Central Prison,,A-Day,1,2023-08-22,2023-08-23
+Q138606827,Gutman Nachemsohn,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1942-12-01
+Q138371027,Philip Borøchstein,P2632,place of detention,Q21899380,Synagoge Levetzowstraße,,A-Few-Days,3,1943-02-28,1943-03-02
+Q138607158,Joseph Raskow,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1943-03-01
+Q138375045,Johan Kjønsø,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Days,5,1944-09-30,1944-03-14
+Q139636296,Gunnar Egil Olsen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Days,5,1942-09-19,1942-09-23
+Q138359317,Wulf Klein,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,3,1942-10-07,1942-10-08
+Q138373464,Kasper Nicolay Halvorsen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,5,1943-08-16,1943-08-21
+Q139651600,Hermann Gerlach,P2632,place of detention,Q140458874,Farsund hjelpefengsel,,A-Few-Days,6.5,1941-10-24,1941-10-25
+Q131825072,Oxford University Expedition to British Guiana,P2825,via,Q25224942,Moraballi River,,A-Few-Days,3.0,1929-08-11,1929-11-30
+Q138377810,Einar Lund,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,4.5,1942-11-10,1942-11-11
+Q139652446,Witold Jabłoński,P2632,place of detention,Q140459760,Åsen,,A-Few-Days,3.5,1944-09-22,1944-12-03
+Q138606818,Awschey Iskin,P2632,place of detention,Q140459443,Berg,,A-Few-Days,5,1942-10-28,1942-11-26
+Q139644212,Leif Ødegård,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,4,1945-01-14,1945-01-18
+Q138377952,Mikal Nilsen,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,2.0,1943-05-02,1943-05-03
+Q138380546,Karl Oddmund Laugtug,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,4,1944-06-16,1944-06-20
+Q138606798,Ignaz Rosenberg,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1942-12-01
+Q138607368,Chaja Hirsch,P2632,place of detention,Q28717972,MS Gotenland,,A-Few-Days,3,1943-02-25,1943-02-27
+Q138372002,Elmar Karsten Hegerberg,P2632,place of detention,Q140459661,Midtsand,,A-Few-Days,2,1944-07-12,1944-07-14
+Q138360410,Trygve Andreassen,P2632,place of detention,Q140459748,Aussendienststelle Kristiansand (Arkivet),,A-Few-Days,5.0,1945-01-11,1945-01-19
+Q138607473,Josef Minster,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1943-03-01
+Q138695509,Charles Abraham Kermann,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1943-01-14
+Q139637733,Bjørn Hallan,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,2.5,1944-11-02,1944-11-06
+Q138607481,David Michael Reichmann,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1943-02-25
+Q139641799,Bernhard Fischer,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,5.0,1942-11-08,1942-11-08
+Q138710075,William Samersav,P2632,place of detention,Q140459443,Berg,,A-Few-Days,5,1942-10-28,1942-11-26
+Q138373323,Jens Kristoffer Hansen,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Days,6,1943-01-16,1943-01-22
+Q138606856,Clothilde Hanauer,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Days,3,1942-12-19,1943-02-24
+Q138607058,Rosa Isaksen,P2632,place of detention,Q28717972,MS Gotenland,,A-Few-Days,4,1943-02-24,1943-02-27
+Q139632880,Klara Mary Johannesen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Days,4.0,1942-12-01,1942-12-05
+Q138359251,Josef Mejer Gurewitz,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,3,1942-10-07,1942-10-08
+Q112166675,Lars Dannevig,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Few-Days,2.0,1942-02-23,1942-02-24
+Q138362265,Julius Isak Borøchstein,P2632,place of detention,Q21899380,Synagoge Levetzowstraße,,A-Few-Days,3,1943-02-28,1943-03-02
+Q110854044,Lokaal Belang Eemsdelta,P1410,number of seats in assembly,,10.0,unitless,A-Few-Days,2.0,2021-01-05,2021-01-07
+Q138606911,Mathilde Dorothea Maliniak,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3,1943-03-03,1943-03-03
+Q138606835,Abraham Jacob Fried,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3.0,1943-03-03,1943-03-03
+Q139649533,Oddvar Lunderød,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Days,3.0,1944-11-05,1944-11-08
+Q138360975,Louis Becker,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3,1943-03-03,1943-08-10
+Q138360980,Mina Becker,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3,1943-03-03,1943-03-03
+Q138360584,Moritz Arsch,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,6,1943-03-03,1943-03-03
+Q139658656,Margarethe Fredriksen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Days,2.0,1944-02-04,1944-02-05
+Q138607078,Bertha Sonja Fischer,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Days,3,1942-12-02,1943-02-24
+Q138607140,Käthe Dworsky,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3,1943-03-03,1943-03-03
+Q138373860,Asbjørn Jakobsen,P2632,place of detention,Q140459461,Eidsberg,,A-Few-Days,4.0,1943-04-01,1943-04-06
+Q138606884,Philip Sam Watchman,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Days,5,1942-10-26,1942-10-28
+Q139633357,Sigurd Eriksen,P2632,place of detention,Q140459449,Victoria terrasse,,A-Few-Days,5.0,1943-10-01,1943-10-03
+Q138370613,Bernhard Berenhaut,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1942-12-01
+Q138607410,Ruben Pintzow,P2632,place of detention,Q7393493,SS Donau,,A-Few-Days,5,1942-11-26,1942-11-30
+Q138606788,Leopold Steinsapir,P2632,place of detention,Q7393493,SS Donau,,A-Few-Days,3.5,1942-11-26,1942-11-30
+Q138606983,Marie Dvoretsky,P2632,place of detention,Q21899380,Synagoge Levetzowstraße,,A-Few-Days,3,1943-02-28,1943-03-02
+Q138607762,Harry Reichwald,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3.0,1943-03-03,1943-03-03
+Q138361246,Marie Berger,P2632,place of detention,Q28717972,MS Gotenland,,A-Few-Days,3,1943-02-25,1943-02-27
+Q139635251,Einar Lorang Eriksen,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Few-Days,4,1943-06-30,
+Q138695590,Stephan Weiss,P2632,place of detention,Q140459443,Berg,,A-Few-Days,5,1942-10-28,1942-11-26
+Q138607279,Max Martin Kassan,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Days,3,1942-12-19,1943-02-24
+Q138607382,Hermann Krupp,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,5,1942-12-01,1942-12-30
+Q138607723,Lillian Lea Fischer,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3,1943-03-03,1943-03-03
+Q138699503,Henry Kalman Nachemsohn,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Days,5,1942-10-26,1942-10-28
+Q139634383,Ludvig Magnus Magnussen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,4.5,1944-07-01,1944-07-07
+Q138607006,Rösi Fein,P2632,place of detention,Q140459747,Stavanger kretsfengsel avd. A (Lagårdsveien 43),,A-Few-Days,3.0,1942-11-25,1942-11-26
+Q138607052,Jenny Rosenberg,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3,1943-03-03,1943-03-03
+Q138375086,William Kleivan,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Days,5.0,1942-03-30,1942-03-31
+Q138359188,David Isidor Dworsky,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,3,1942-10-07,1942-10-08
+Q138606823,Flora Leventhal,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Days,3,1942-12-02,1943-02-24
+Q138359187,Sigurd Dvoretsky,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,3,1942-10-07,1942-10-08
+Q139640816,Øystein Andersen Grov,P2632,place of detention,Q140459403,Leirvik hjelpefengsel,,A-Few-Days,3.0,1941-05-22,1941-05-24
+Q138377029,Torbjørg Mosdøl,P2632,place of detention,Q140459748,Aussendienststelle Kristiansand (Arkivet),,A-Few-Days,6,1943-02-26,1943-03-05
+Q139638088,Arne Håkstad,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Days,6,1943-12-09,1943-12-09
+Q138687059,Abraham Bernhard Mahler,P2632,place of detention,Q140459443,Berg,,A-Few-Days,5,1942-11-04,1942-11-26
+Q139635887,Petter T. Mona,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Days,2,1944-02-19,1944-09-20
+Q139636105,Finn Glambek,P2632,place of detention,Q140459416,Bergen,,A-Few-Days,6.0,1942-03-20,1942-03-29
+Q139634904,Jørgen Tobias Tverbakk,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Days,6.0,1944-01-14,1944-01-15
+Q139632513,Lauritz Edvard Hanssen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Days,3,1945-04-19,1945-05-08
+Q138478680,Apostolic journey by Leo XIV to Spain,P527,has part(s),Q139820080,Visit by Pope Leo XIV to Madrid,,A-Few-Days,2.5,2026-06-06,2026-06-09
+Q139635230,Nils Kalsøy Karlsen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Days,5.5,1943-01-30,1943-02-27
+Q139639036,Johan Bergesen Hjelmeland,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,3,1943-12-20,1943-12-23
+Q139658485,Alf Gundersen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Days,5,1940-10-02,1940-10-05
+Q138362264,Erling Johan Aasprong,P2632,place of detention,Q140459496,Stutthof,,A-Few-Days,4,1943-12-13,1945-04-25
+Q139650942,Kolbjørn Karlsen,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Days,3.5,1941-11-20,1942-01-10
+Q139652030,Oleg Nikitin,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Days,5.0,1944-07-13,1944-07-17
+Q138371280,Alvik  Berrefjord,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Days,6,1943-08-06,1943-08-12
+Q138607522,Einar Henrik Larsen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,2.5,1944-07-06,1944-07-07
+Q138607587,Jakob Eiris,P2632,place of detention,Q7393493,SS Donau,,A-Few-Days,5,1942-11-26,1942-11-30
+Q138364440,Alvilde Bergh,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Days,3,1944-02-04,1944-02-05
+Q138606812,Bernhard Josef Hurwitz,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3.5,1942-12-01,1942-12-01
+Q138372182,Alf Sverre Helseth,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Few-Days,6,1944-08-12,1944-08-17
+Q138607464,Jacob Hurwitz,P2632,place of detention,Q7393493,SS Donau,,A-Few-Days,4,1942-11-26,1942-11-30
+Q138373805,Joachim Jahnsen,P2632,place of detention,Q140458868,Bodø kretsfengsel,,A-Few-Days,5.0,1944-07-25,1944-07-27
+Q138687039,Salomon Lurje,P2632,place of detention,Q28717972,MS Gotenland,,A-Few-Days,3,1943-02-25,1943-02-27
+Q138359215,David Fischer,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Days,5,1942-11-08,1942-11-08
+Q138606961,Adolf Kraast,P2632,place of detention,Q140459443,Berg,,A-Few-Days,5,1942-10-28,1942-11-26
+Q138359338,Leopold Levin,P2632,place of detention,Q7393493,SS Donau,,A-Few-Days,6,1942-11-26,1942-11-30
+Q138360978,Samuel Becker,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Days,3,1943-03-03,1943-03-03
+Q138380717,Einar Nordgård,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Days,5,1941-09-10,1941-09-23
+Q138370055,Leif Nicolay Gravdahl Arnesen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Days,6.0,1941-11-24,1941-12-11
+Q139648981,Arne Rødvand,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Few-Days,3.5,1943-12-12,
+Q138373804,Jens Olai Jahnsen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,5.0,1944-07-29,1944-08-04
+Q138607068,Toni Sara Hammerschlag,P2632,place of detention,Q21899380,Synagoge Levetzowstraße,,A-Few-Days,3,1943-02-28,1943-03-02
+Q138374310,Frank Storm Johansen,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Days,6,1943-12-09,1943-12-09
+Q138377182,Kåre Myhr,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Days,5.0,1944-09-22,1945-05-08
+Q138370400,Trygve Engan,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Days,6.0,1944-07-29,1944-08-04
+Q139645773,Kjell Paulsen,P2632,place of detention,Q140458872,Arendal hjelpefengsel,,A-Week,10.0,1944-12-12,1944-12-13
+Q138375627,Ivar Kvikne,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,9.0,1944-06-29,1944-07-07
+Q47490013,Øystein Bottolfsen,P2632,place of detention,Q140459441,Møllergata 19,,A-Week,12.0,1941-04-03,1941-04-20
+Q138373750,Hans Jakob Jacobsen,P2632,place of detention,Q637411,Grini detention camp,,A-Week,10.5,1942-03-30,1942-03-31
+Q138374871,Christian Keyser Kaurin,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,7,1944-05-29,1944-06-06
+Q139642750,Christian Hille,P2632,place of detention,Q140459491,Bergen kretsfengsel,,A-Week,10.5,1943-12-15,1943-12-23
+Q139637833,Gaston Gotaas,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,9.0,1944-09-14,1944-09-29
+Q138378569,Signe Charlotte Markussen,P2632,place of detention,Q138390853,Tromsø kretsfengsel,,A-Week,10,1943-06-26,1943-06-29
+Q138366121,Svend Anker Dahl,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Week,11.0,1942-11-10,1942-11-11
+Q138371214,Per Halaas,P2632,place of detention,Q637411,Grini detention camp,,A-Week,10,1941-10-03,1942-01-27
+Q138371077,Ole Gustav Haartveit,P2632,place of detention,Q637411,Grini detention camp,,A-Week,11.0,1941-09-05,1942-01-10
+Q5384413,equestrian at the Friendship Games,P276,location,Q2440448,Drzonków,,A-Week,8.5,1984-08-23,1984-08-26
+Q15981159,Ivar Øiesvold,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,9.0,1944-09-14,1944-09-29
+Q138360407,René Andiguey,P2632,place of detention,Q140459661,Midtsand,,A-Week,7,1944-12-20,1945-01-08
+Q138374283,Harry Kristian Johansen,P2632,place of detention,Q140458868,Bodø kretsfengsel,,A-Week,9.0,1944-09-12,1944-09-12
+Q138368094,Leif Eliassen,P2632,place of detention,Q140458872,Arendal hjelpefengsel,,A-Week,7.5,1943-08-27,1943-07-28
+Q138373230,Karl Johann Hafstad,P2632,place of detention,Q140459457,"Akershus festning, Kriegswehrmachtsgefängnis",,A-Week,7,1944-02-24,1944-02-28
+Q139630879,Hugo Holm,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,7,1944-05-29,1944-06-06
+Q139657097,Gunnar Gundersen,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Week,13,1943-04-07,
+Q139629052,Ingolf Sverre Sæther,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,7.0,1943-12-20,1943-12-23
+Q139638664,Paul Marius Kristiansen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,10.0,1944-03-01,1944-03-30
+Q138377964,Knut Øivind Nilsen,P2632,place of detention,Q140458773,Værnes,,A-Week,12.5,1944-08-08,1944-09-06
+Q88807636,2020 Montgomery County stay-at-home order,P582,end time,,2020-04-12T00:00:00Z,,A-Week,10.5,2020-03-27,2020-03-31
+Q139626623,Ola Hybertsen,P2632,place of detention,Q140458773,Værnes,,A-Week,12.0,1943-10-04,1944-09-06
+Q139641618,Olaf Bernhard Dolles,P2632,place of detention,Q637411,Grini detention camp,,A-Week,13,1945-03-01,1945-05-08
+Q967,Burundi,P6,head of government,Q27329764,Évariste Ndayishimiye,,A-Week,8,2020-06-18,2020-06-23
+Q139642592,Olaf Martin Nilsen,P2632,place of detention,Q11967915,Espeland prisoner-of-war camp,,A-Week,13.5,1943-12-23,1944-01-05
+Q139653071,Joseph Maisonneuve,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,7,1944-12-13,1944-12-20
+Q139639274,Henry Haagensen,P2632,place of detention,Q140459661,Midtsand,,A-Week,7.5,1944-06-22,1944-07-05
+Q138375466,Kristen Kristensen,P2632,place of detention,Q140458872,Arendal hjelpefengsel,,A-Week,7,1942-03-20,1942-03-23
+Q139653392,Jean Descombes,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,7,1944-12-13,1944-12-20
+Q138376686,Henry Magne Larsen,P2632,place of detention,Q11967915,Espeland prisoner-of-war camp,,A-Week,8.0,1945-02-22,1945-05-09
+Q138360142,Oluf Bakke Andersen,P2632,place of detention,Q140459447,Kristiansand,,A-Week,7.5,1944-11-27,1944-11-28
+Q138360720,Lyder Aune,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,11,1944-05-21,1944-05-23
+Q138377500,Bjarne Nervik,P2632,place of detention,Q140459369,KdS Trondheim (Misjonshotellet),,A-Week,7,1944-08-05,1944-08-12
+Q139625124,Ole Hylland,P2632,place of detention,Q140458874,Farsund hjelpefengsel,,A-Week,10,1944-01-12,1943-01-17
+Q139637773,Olav Pedersen Giskeødegård,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,8.5,1944-11-28,1945-05-07
+Q139652437,Alexander Dubik,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,12.0,1944-07-29,1944-08-10
+Q139653810,Ivar Thorstensen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Week,8.5,1942-09-01,1942-09-02
+Q139637806,Martin Grav,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,11.0,1944-06-07,1944-06-22
+Q139647242,Karl Bertinius Wehus,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Week,11,1945-02-09,1945-02-20
+Q139653518,Henrik Rasmussen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Week,12.0,1944-11-15,1944-12-07
+Q139625512,Odd Emanuel Johansen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Week,10,1944-02-26,1944-03-07
+Q138376917,Øivind Jakob Molden,P2632,place of detention,Q140459661,Midtsand,,A-Week,10.0,1945-02-15,1945-02-22
+Q139649023,Kristine Wold,P2632,place of detention,Q140459728,Trondheim kretsfengsel avd. B (Munkegata 16),,A-Week,13.0,1944-03-18,1944-03-18
+Q138373244,Svein Hagane,P2632,place of detention,Q637411,Grini detention camp,,A-Week,9,1945-01-31,1945-05-08
+Q138361232,Håvard Olav Berge,P2632,place of detention,Q637411,Grini detention camp,,A-Week,10,1944-05-08,
+Q139646580,Mikkjel Andersson Hovland Eskeland,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Week,11.0,1942-03-21,1942-03-29
+Q138375259,Haakon Koch,P2632,place of detention,Q140458868,Bodø kretsfengsel,,A-Week,9.0,1944-09-12,1944-09-12
+Q138359332,Alfred Waldemar Garmann Larsen,P2632,place of detention,Q637411,Grini detention camp,,A-Week,9.5,1942-03-14,1942-04-30
+Q138372936,Frithjof Høstmark,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,8.5,1944-06-02,1944-06-06
+Q139637568,Knut Harry Rokkones,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,12,1944-08-11,1944-09-04
+Q139644556,Walter Solberg,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,11.0,1944-05-30,1944-06-06
+Q138371623,Tegnander Levian Hansen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,9.0,1944-09-14,1944-09-29
+Q138378675,Knut Martinsen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,8.0,1944-05-30,1944-06-06
+Q139634919,Ole Ugland,P2632,place of detention,Q140459748,Aussendienststelle Kristiansand (Arkivet),,A-Week,9.5,1944-01-06,1944-01-08
+Q2586881,Maarssen2000,P1410,number of seats in assembly,,2.0,unitless,A-Week,13,2018-05-09,2018-05-21
+Q88592519,2020 Bell County shelter-in-place order,P582,end time,,2020-04-30T00:00:00Z,,A-Week,7,2020-04-03,2020-04-20
+Q138975025,Nils Jørgen Grannes,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,12,1943-06-18,1943-06-24
+Q138607105,Markus Moses Hurwitz,P2632,place of detention,Q21899380,Synagoge Levetzowstraße,,A-Week,8,1943-02-28,1943-03-02
+Q139643988,Abraham Gerhard Tothammer,P2632,place of detention,Q15204401,Bredtveit prison,,A-Week,10,1942-03-14,1942-03-21
+Q138607689,Selik Elieser Mahler,P2632,place of detention,Q140459458,Auschwitz,,A-Week,7,1942-12-01,1942-12-01
+Q138365671,Bjarne Hole Christophersen,P2632,place of detention,Q140459418,Kirkenes,,A-Week,12,1942-05-06,1942-09-19
+Q138367204,Jon Torger Buø,P2632,place of detention,Q140459633,Mandal,,A-Week,12.0,1944-11-14,1944-11-14
+Q138372132,Kåre Krag Helland-Hansen,P2632,place of detention,Q140459441,Møllergata 19,,A-Week,8,1941-06-12,1941-06-20
+Q139651418,Miroslav Kratina,P2632,place of detention,Q637411,Grini detention camp,,A-Week,10.5,1944-09-22,1945-05-08
+Q139638055,Oskar Granum,P2632,place of detention,Q140458818,Hamar fengsel,,A-Week,8,1943-11-15,1943-11-23
+Q138606977,Salomon Tomsinsky,P2632,place of detention,Q7393493,SS Donau,,A-Week,12,1942-11-26,1942-11-30
+Q95323205,Wilhelm Jaroschy,P2632,place of detention,Q21899380,Synagoge Levetzowstraße,,A-Week,8,1943-02-28,1943-03-02
+Q139649524,Edgar Eugen Pettersen,P2632,place of detention,Q140458773,Værnes,,A-Week,7,1944-04-22,1944-04-26
+Q138377387,Bastian Nakken,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,8.0,1942-09-09,1942-09-23
+Q138367161,Åsmund Dåsvatn,P2632,place of detention,Q140459449,Victoria terrasse,,A-Week,13,1945-01-23,1945-01-24
+Q139637015,Thomas Anfin Ths. Midttveit,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Week,9.5,1942-05-27,
+Q139645241,John Olsen Lia,P2632,place of detention,Q140459535,Hell,,A-Week,13.5,1944-04-26,1944-05-11
+Q138367072,Ole Bull,P2632,place of detention,Q140459310,Tromsdalen,,A-Week,10.0,1944-05-10,1944-07-09
+Q138374941,Leidulf Erling Kirkhaug,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,13.0,1944-06-26,1944-07-05
+Q2278042,Sigurd Evensmo,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Week,9.5,1942-02-23,1942-02-24
+Q139634400,Bjarne Bastian Moe,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,12,1944-08-11,1944-09-09
+Q138360744,Alf Morgan Baar,P2632,place of detention,Q140459441,Møllergata 19,,A-Week,10,1943-06-01,1943-06-25
+Q139648107,Ingolf Steinsund,P2632,place of detention,Q140459506,Ulven,,A-Week,11.5,1941-06-18,1941-06-26
+Q139651993,Mikhail Vanin,P2632,place of detention,Q140459748,Aussendienststelle Kristiansand (Arkivet),,A-Week,11.0,1943-12-02,1943-12-21
+Q138374727,Johan Andreas Kallevig,P2632,place of detention,Q637411,Grini detention camp,,A-Week,10.5,1944-04-20,
+Q139637315,Reidar Valsø,P2632,place of detention,Q637411,Grini detention camp,,A-Week,13.5,1944-09-22,1945-04-24
+Q139653427,Frederik Johannes Groen,P2632,place of detention,Q140459661,Midtsand,,A-Week,13,1944-07-05,1944-08-04
+Q139641013,Oskar Pettersen Binderø,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,13,1944-10-08,1945-02-23
+Q139639986,Anton Benedict Steen,P2632,place of detention,Q140458818,Hamar fengsel,,A-Week,8.5,1945-03-25,1945-03-28
+Q139639202,Sigurd Østevold,P2632,place of detention,Q637411,Grini detention camp,,A-Week,13.0,1942-02-01,1942-02-05
+Q139633079,Hans Birkeland,P2632,place of detention,Q140458872,Arendal hjelpefengsel,,A-Week,8.0,1944-07-25,1944-07-27
+Q139643983,Laurits Sverdrup Skjevesland,P2632,place of detention,Q637411,Grini detention camp,,A-Week,11.5,1942-03-21,1943-02-26
+Q17111277,Cedrik Sørensen,P2632,place of detention,Q637411,Grini detention camp,,A-Week,11.5,1944-11-25,1945-05-08
+Q139647125,Arne Kirkerud,P2632,place of detention,Q140458902,"Posthusgården (Sipo, Halden)",,A-Week,7.0,1945-02-27,1945-03-06
+Q138373856,Eline Jakobsen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Week,7.0,1943-07-21,1943-08-09
+Q139631361,Henry Olsen,P2632,place of detention,Q140459310,Tromsdalen,,A-Week,10,1944-05-30,1944-06-08
+Q139641693,Olav H. Sandelien,P2632,place of detention,Q140459445,Kongsvinger festning,,A-Week,11.5,1942-03-20,1942-03-30
+Q138362985,Sven Bugge Anderssen,P2632,place of detention,Q140458868,Bodø kretsfengsel,,A-Week,9.0,1944-08-24,1944-08-31
+Q138607400,Trygve Anfinn Endresen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Week,10,1943-01-29,1943-02-03
+Q138369526,Sigurd Follestad,P2632,place of detention,Q637411,Grini detention camp,,A-Week,10,1944-03-30,1945-05-02
+Q138380574,Oskar Lauritzen,P2632,place of detention,Q140459421,Fredrikstad,,A-Week,9.0,1941-09-22,1941-09-29
+Q139637839,Tordis Granhaug,P2632,place of detention,Q140459728,Trondheim kretsfengsel avd. B (Munkegata 16),,A-Week,7.0,1943-07-11,1943-07-21
+Q139653638,Albin Skorupski,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Week,9,1944-09-22,1944-09-24
+Q139628909,Bernhard Sigurd Olsen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,28.5,1944-08-16,1945-05-08
+Q138376046,Severin Kristensen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,18.5,1944-05-06,1944-06-01
+Q139638381,Jørgen Kristian Arentz Rostrup,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,24.5,1944-09-08,1944-10-01
+Q139643183,Kristoffer Saupstad,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Weeks,29,1942-03-30,1942-07-13
+Q139649508,Helge Pettersen,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Weeks,15.0,1944-06-06,1944-06-19
+Q138365528,Erik Henschien Borthen,P2632,place of detention,Q140458868,Bodø kretsfengsel,,A-Few-Weeks,18.5,1944-08-24,1944-08-31
+Q139629224,Arne John Hansen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,29.0,1944-08-11,1945-05-08
+Q138362466,Alv Knut Brandal,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Few-Weeks,23.0,1943-10-29,1942-11-21
+Q138607185,Martin Meszansky,P2632,place of detention,Q7393493,SS Donau,,A-Few-Weeks,16.5,1942-11-26,1942-11-30
+Q138372643,Arne Holt,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,26.0,1943-09-18,1943-09-30
+Q27627635,Surrealism?,P276,location,Q1274511,Moderna Museet,,A-Few-Weeks,29,1970-03-07,1970-04-12
+Q139651987,Grigorij Gertsik,P2632,place of detention,Q4846406,Bragdøya,,A-Few-Weeks,26.0,1944-10-21,1944-10-21
+Q138373562,Reidar Sigurd Fannemel,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Weeks,16.0,1944-06-07,1945-05-08
+Q213668,Viktor Goldschmidt,P2632,place of detention,Q140459443,Berg,,A-Few-Weeks,15.0,1942-10-28,1942-11-05
+Q138692148,Michael Davidsen,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Weeks,15.5,1942-10-26,1942-10-28
+Q138376814,Ånon Henry Larsen,P2632,place of detention,Q140458872,Arendal hjelpefengsel,,A-Few-Weeks,14.0,1944-01-17,1944-01-18
+Q138362007,Salomon Bogomolno,P2632,place of detention,Q7393493,SS Donau,,A-Few-Weeks,29,1942-11-26,1942-11-30
+Q138607134,Torleif Tellefsen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Weeks,29,1942-08-14,1942-08-15
+Q138377158,August Musæus,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Few-Weeks,15.5,1944-03-29,1944-04-27
+Q138372034,Peder Hegland,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Weeks,24.0,1943-11-03,1943-11-09
+Q22908164,Moritz Kahan,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Weeks,15.5,1942-10-26,1942-10-28
+Q139648908,Tormod Mælan,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Weeks,21.0,1942-08-24,1942-09-17
+Q138686837,Isak Kaplan,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Weeks,15.5,1942-10-26,1942-10-28
+Q139658481,Odd Pedersen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,19.0,1943-07-19,1943-09-12
+Q138368772,Harald Andreas Erikstad,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Weeks,19,1944-03-16,1944-09-20
+Q139630747,Olaf Martin Larsen,P2632,place of detention,Q140459457,"Akershus festning, Kriegswehrmachtsgefängnis",,A-Few-Weeks,25,1943-08-14,1943-08-21
+Q139632397,Håkon Arnold Skeime,P2632,place of detention,Q140458874,Farsund hjelpefengsel,,A-Few-Weeks,23.0,1942-08-18,1942-08-18
+Q139635726,Aksel Strand Wahl,P2632,place of detention,Q140459310,Tromsdalen,,A-Few-Weeks,16.0,1944-03-09,1944-03-29
+Q139643612,Peder Vassdal,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,15.5,1945-02-21,1945-05-08
+Q139652728,Mikhail Dudura,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,21.0,1944-08-11,1944-09-11
+Q138376002,Ståle Jørgensen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,22.0,1945-03-08,1945-03-20
+Q88511008,2020 San Francisco Bay Area shelter-in-place order,P582,end time,,2020-05-31T00:00:00Z,,A-Few-Weeks,19.5,2020-04-29,
+Q138359238,Isak Meyer Goldmann,P2632,place of detention,Q140458828,Hammerfest hjelpefengsel,,A-Few-Weeks,17,1942-10-16,1942-11-01
+Q139648811,Henry Thorvald Jensen,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Weeks,28.5,1943-01-05,1943-01-14
+Q139652542,Zygmunt Woźnica,P2632,place of detention,Q140458773,Værnes,,A-Few-Weeks,14.5,1944-03-31,1944-04-15
+Q138695562,Leo Løgård (Leventhal),P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Weeks,15.5,1942-10-26,1942-10-28
+Q138374768,Olaf Agnar Karlsen,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Weeks,18.5,1943-06-02,1943-08-28
+Q118287645,Gisèle Giraudeau,P2632,place of detention,Q47531823,Fort de Romainville concentration camp,,A-Few-Weeks,23.5,1944-04-29,1944-05-13
+Q139648894,Odd Jacob Palkin,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,21.5,1942-06-24,1943-09-30
+Q138362094,Torbjørn Bondø,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,20,1944-09-10,1944-09-29
+Q139655837,John Aslaksen Øyna,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Weeks,22.0,1944-12-18,1944-12-19
+Q139647300,Odd Vestli Larsen,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Weeks,21.0,1942-04-24,1942-05-04
+Q138361390,Ole Bergum,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,18.0,1942-06-19,1942-07-11
+Q139638754,Lauritz Lied,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Few-Weeks,23.0,1945-02-02,1945-03-05
+Q138380716,Severin Løvenskiold,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,18.0,1943-05-27,1943-12-20
+Q138378475,Jens Marius Madsen,P2632,place of detention,Q140458868,Bodø kretsfengsel,,A-Few-Weeks,15,1944-07-14,1944-07-27
+Q139658416,Alfred Tønnesen,P2632,place of detention,Q140459419,Bardufoss,,A-Few-Weeks,18,1944-09-07,1945-01-30
+Q139655958,Ingvald Peder Wilhelm Størkersen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Weeks,17,1944-10-14,1945-01-19
+Q138372860,Reidar Hæåk,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Weeks,25,1942-08-03,1942-08-06
+Q139648941,Hilmar Sigurd Nylund,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,23,1944-09-22,1944-12-30
+Q138361037,Kjell Arthur Iversen Belsbye,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,20.0,1942-09-12,1942-09-17
+Q139629771,John Kvande,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Few-Weeks,16,1943-01-29,1943-02-12
+Q138369732,Alfred Frigstad,P2632,place of detention,Q140459419,Bardufoss,,A-Few-Weeks,14.5,1944-03-22,1945-02-20
+Q139625308,Rudolf Otto Lindner,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,21.0,1944-04-14,1944-04-19
+Q138364975,Hans Johan Bjørnstad,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Weeks,19.5,1941-03-19,1941-04-23
+Q139652531,Władysław Sankowski,P2632,place of detention,Q140459661,Midtsand,,A-Few-Weeks,22.5,1944-04-29,1944-05-29
+Q138361650,Erik Normann Bjørnsborg,P2632,place of detention,Q140459725,Veidal,,A-Few-Weeks,14,1942-08-03,1942-09-12
+Q139635725,Martin Vølstad,P2632,place of detention,Q140458810,Tvååker (sentralskolen),,A-Few-Weeks,27.0,1945-05-10,1945-05-24
+Q138372828,Per Anker Hvam,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,26.0,1942-06-02,1945-05-04
+Q139653184,Knut Olav Nørve,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,21.0,1944-08-11,1944-09-09
+Q138362792,Bjørn Oscar Andersen,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Weeks,29.0,1942-01-05,1942-01-12
+Q111256446,Democratische Partij Boxtel-Liempde,P1410,number of seats in assembly,,3.0,unitless,A-Few-Weeks,28,2010-04-07,2010-04-28
+Q139641850,Herman Levin,P2632,place of detention,Q140459443,Berg,,A-Few-Weeks,14,1942-12-10,1945-05-02
+Q139643263,Finn Ravn,P2632,place of detention,Q45476681,Hamburg-Fuhlsbüttel concentration camp,,A-Few-Weeks,19,1941-11-05,
+Q139652532,Zbigniew Salamanski,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,17,1944-03-25,1944-03-31
+Q139647351,Alfred Olsen Påljord,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,29,1944-05-18,1944-06-06
+Q138606898,Aron Scharff,P2632,place of detention,Q140459458,Auschwitz,,A-Few-Weeks,28,1942-12-01,1942-12-01
+Q139644886,Eigil Maartmann,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,27.0,1945-03-27,1945-05-08
+Q138373596,Guttorm Olsen Ihme,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,17.5,1944-01-28,1944-07-08
+Q139636596,Klaus Skogmo,P2632,place of detention,Q140458810,Tvååker (sentralskolen),,A-Few-Weeks,22.0,1945-05-10,1945-05-22
+Q139652306,Verner Møller Mikkelsen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,29.5,1942-08-17,1942-08-24
+Q138377235,Alf Oskar Edvardsen Myhrer,P2632,place of detention,Q45476681,Hamburg-Fuhlsbüttel concentration camp,,A-Few-Weeks,27,1941-10-20,1944-05-17
+Q138380627,Håkon Mossing,P2632,place of detention,Q140459760,Åsen,,A-Few-Weeks,14.0,1944-08-28,1944-09-20
+Q12715689,Ingvald Raknem,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Weeks,19,1944-09-10,1944-09-20
+Q139636846,Lars M. Seim,P2632,place of detention,Q140459506,Ulven,,A-Few-Weeks,18.0,1943-08-28,1943-09-10
+Q138697322,Benjamin Garmi,P2632,place of detention,Q7393493,SS Donau,,A-Few-Weeks,14.5,1942-11-26,1942-11-30
+Q138380873,Andreas Ludvigsen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,24.0,1944-05-09,1944-06-17
+Q138365890,Arne Thorbjørnsen Brekke,P2632,place of detention,Q140458846,Haugesund fengsel,,A-Few-Weeks,25.5,1941-05-31,1941-07-13
+Q138378636,Kaare Marthinsen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Weeks,16.0,1942-08-28,1942-08-28
+Q138372734,Egil Jan Hornnes,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Weeks,15.5,1942-03-23,1942-04-16
+Q139637463,Ola E. Haveland,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Few-Weeks,21.0,1944-01-11,1944-01-22
+Q139643132,Torvald Tveiten,P2632,place of detention,Q140459403,Leirvik hjelpefengsel,,A-Few-Weeks,18,1943-11-03,1943-11-04
+Q139629038,Reidar Haakonsen,P2632,place of detention,Q140458828,Hammerfest hjelpefengsel,,A-Few-Weeks,15.0,1944-10-14,1944-10-28
+Q138373837,Arvid Johan Jakobsen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,16.0,1944-08-21,1944-08-22
+Q139649255,Fredrik Hans Gulbrandsen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,22.5,1944-06-30,1944-08-10
+Q139656624,Lars Lie,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,28.0,1943-12-03,1943-12-09
+Q138359482,Lars Kornelius Svanevik,P2632,place of detention,Q140459491,Bergen kretsfengsel,,A-Few-Weeks,27,1941-09-23,1941-10-20
+Q139652566,Stanislaus Lurka,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,18.5,1944-09-22,1945-05-08
+Q139654197,Leif Georg Pedersen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Weeks,23.5,1942-08-02,1942-08-05
+Q138364237,Harald Berg,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Weeks,21,1943-04-10,1943-05-04
+Q138692139,David Davidsen,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Weeks,15.5,1942-10-26,1942-10-28
+Q139648609,Andreas Paulsen,P2632,place of detention,Q140458773,Værnes,,A-Few-Weeks,15,1944-09-22,1944-11-02
+Q138607294,Benjamin Markus Leventhal,P2632,place of detention,Q7393493,SS Donau,,A-Few-Weeks,15.5,1942-11-26,1942-11-30
+Q138377844,Arne Harry Hjalmar Nilsen,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Weeks,19.0,1945-01-27,1945-02-26
+Q139640926,Johan Petter Berg Rosenlund,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,21.5,1945-02-24,1945-05-08
+Q139641189,Johannes Tømmervåg,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Weeks,27.0,1945-02-24,1945-05-08
+Q138380904,Åsmund Karl Johan Nilsen,P2632,place of detention,Q140459457,"Akershus festning, Kriegswehrmachtsgefängnis",,A-Few-Weeks,19.0,1945-02-27,
+Q139638502,Martin Monsen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Weeks,19.5,1943-02-28,1943-05-13
+Q138362494,Sigvald Andreas Brandth,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Weeks,19.5,1942-07-31,1942-08-22
+Q138377288,Knut Olsen Myrene,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Weeks,25.5,1943-02-20,1943-03-10
+Q576742,Kalinikos Kreanga,P1352,ranking,,92.0,unitless,A-Month,31.0,2015-05-01,2015-05-01
+Q139648397,Johan Standal,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Month,36.0,1942-03-05,1942-03-06
+Q139648493,Mary Inga Erna Sperre,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,41.5,1942-10-30,1942-12-20
+Q138368321,Gustav Engedal,P2632,place of detention,Q140458828,Hammerfest hjelpefengsel,,A-Month,31,1944-10-13,1944-10-14
+Q139651494,Henrik Skarsaune,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,58.0,1944-06-07,1944-09-20
+Q139658133,Finn Otto Mørk,P2632,place of detention,Q637411,Grini detention camp,,A-Month,36.0,1944-05-31,1944-07-25
+Q254995,Li Xiaoxia,P1352,ranking,,221.0,unitless,A-Month,46.0,2018-04-01,
+Q139638142,Johannes Ludvig Kanestrøm,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Month,31.0,1942-02-09,1942-02-21
+Q104891144,16 Dutch Jewellery Designers,P276,location,Q104900234,Galerie Philippe Debray,,A-Month,52,1986-04-23,1986-05-11
+Q138374984,Olav Kjellberg,P2632,place of detention,Q140459441,Møllergata 19,,A-Month,54.5,1942-02-04,1942-02-06
+Q138377933,Thorvald Lunde,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,47,1944-07-25,1944-09-10
+Q139654122,Konrad Emil Korsnes,P2632,place of detention,Q637411,Grini detention camp,,A-Month,32,1944-12-06,1945-05-08
+Q443192,Li Qiangbing,P1352,ranking,,103.0,unitless,A-Month,31,2014-11-01,2014-11-01
+Q11978769,Johan Midttun,P2632,place of detention,Q140459457,"Akershus festning, Kriegswehrmachtsgefängnis",,A-Month,46,1941-11-22,1941-12-04
+Q139644214,Sverre Haakon Lundh,P2632,place of detention,Q15204401,Bredtveit prison,,A-Month,47.5,1941-12-13,1942-02-20
+Q138377789,Frode Nilsen,P2632,place of detention,Q140459443,Berg,,A-Month,52,1945-02-04,
+Q17120469,Thor Tharum,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,58,1942-10-07,1942-10-09
+Q138370843,Bjørn Albert,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Month,33,1942-08-03,1942-08-06
+Q138362711,Trygve Andreas Andersen,P2632,place of detention,Q637411,Grini detention camp,,A-Month,53.5,1944-09-22,1945-05-08
+Q138378168,Per Lægreid,P2632,place of detention,Q140459441,Møllergata 19,,A-Month,37.0,1942-03-12,1942-03-16
+Q139629247,Kåre Stokkereit,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,36.5,1944-06-19,1944-07-06
+Q138365532,Ingvald Christensen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,33.5,1942-05-14,1942-08-01
+Q138372596,John Holmeng,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,57.0,1944-09-10,1944-09-20
+Q139637852,Per Martin Arnesen,P2632,place of detention,Q637411,Grini detention camp,,A-Month,52.0,1943-10-27,1943-12-09
+Q98216019,Julienne Trouet,P2632,place of detention,Q1719270,Hannover-Limmer concentration camp,,A-Month,43.0,1944-06-01,1945-03-19
+Q138378012,Sten Sparre Nilson,P2632,place of detention,Q15204401,Bredtveit prison,,A-Month,49.5,1944-08-23,1944-09-01
+Q139631394,Jørgen Tysbotten,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,37.5,1944-06-07,1944-08-10
+Q138375825,Anders Indregård,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,44.5,1944-05-14,1944-06-06
+Q138374175,Harald Arthur Johansen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,53.5,1944-06-07,1944-06-16
+Q138359252,Michael Gurewitz,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,48,1942-10-09,1942-11-25
+Q138364736,Arne  Thurin Bjørge,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Month,33.0,1942-12-11,1942-12-28
+Q138377705,Gunnar Nielsen,P2632,place of detention,Q140459441,Møllergata 19,,A-Month,39,1942-03-06,1942-03-31
+Q139649050,Axel Johannes Rypdal,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,37.0,1942-03-07,1942-05-16
+Q138368063,Bertha Eliassen,P2632,place of detention,Q637411,Grini detention camp,,A-Month,49.5,1943-07-04,1943-12-19
+Q139656033,Helge Osvald Andreas Hansen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,57.5,1944-10-18,1945-01-19
+Q139648872,Johannes Anton Ruud Schou,P2632,place of detention,Q140459432,Bitschweiler,,A-Month,55,1944-09-02,1944-11-22
+Q139631462,Johan Arne Rørvik,P2632,place of detention,Q140459733,"""Rhakotis""",,A-Month,44.5,1942-09-21,1943-01-03
+Q139643959,Gustav Adolf Johnson,P2632,place of detention,Q140459441,Møllergata 19,,A-Month,32.0,1942-04-30,1942-08-28
+Q139652574,Roman Witkowski,P2632,place of detention,Q140459661,Midtsand,,A-Month,55.0,1944-04-29,1944-08-10
+Q17100102,Kjell Kolden,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Month,34,1942-03-20,1942-03-29
+Q139653295,Erik Nielsen,P2632,place of detention,Q140459381,Mo i Rana,,A-Month,49.0,1943-09-10,1943-10-27
+Q4634873,31st Operations Group,P159,headquarters location,Q2268242,Selfridge Air National Guard Base,,A-Month,41.5,1940-02-01,1941-12-05
+Q3120927,Panagiotis Gionis,P1352,ranking,,19.0,unitless,A-Month,31,2015-03-01,2015-03-01
+Q139637404,Paul Paulsen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,54.5,1944-09-10,1944-09-20
+Q139649546,Magnar Larsen,P2632,place of detention,Q140459535,Hell,,A-Month,53.0,1944-04-26,1944-05-24
+Q139653679,Rudolf Vater,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,33,1944-10-14,1944-11-16
+Q139645966,Erik Dahl-Hansen,P2632,place of detention,Q637411,Grini detention camp,,A-Month,40.5,1942-11-02,1942-12-06
+Q138366686,Harald  Stene Dehlin,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Month,38.0,1945-03-14,1945-04-10
+Q139625355,Christian Schønning,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,51.0,1944-02-11,1944-05-07
+Q139655998,Olav Heitmann Waaktaar,P2632,place of detention,Q140459310,Tromsdalen,,A-Month,31,1944-10-19,1944-11-11
+Q4523564,Alexander Shibaev,P1352,ranking,,36.0,unitless,A-Month,31.0,2017-09-01,2017-09-01
+Q138376749,Richard Kristian Alstrøm Larsen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,46.0,1944-08-16,1944-09-09
+Q139636123,Karl Iversen,P2632,place of detention,Q11967915,Espeland prisoner-of-war camp,,A-Month,38.5,1945-01-20,1945-02-08
+Q138370386,Maurice Franck-Petersen,P2632,place of detention,Q140459443,Berg,,A-Month,54.5,1945-02-04,
+Q138376098,Kristian Martin Kristiansen,P2632,place of detention,Q637411,Grini detention camp,,A-Month,42.5,1944-09-14,1945-05-08
+Q433909,Sun Jin,P1352,ranking,,113.0,unitless,A-Month,31,2014-07-01,2014-07-01
+Q139628117,Andreas Zakariassen,P2632,place of detention,Q637411,Grini detention camp,,A-Month,36.0,1943-07-31,
+Q239371,Ai Fukuhara,P1352,ranking,,6.0,unitless,A-Month,31,2015-09-01,2015-09-01
+Q138378491,Jon Nortvedt,P2632,place of detention,Q140459441,Møllergata 19,,A-Month,30.5,1942-02-27,1942-03-12
+Q51571701,Kåre Gilhus,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Month,49.0,1942-04-24,1942-05-01
+Q139653597,Heinrich Kaiser,P2632,place of detention,Q140458779,Ukjent fangested (Norge),,A-Month,35.5,1942-05-01,1942-07-01
+Q138378268,Eva Gunn Nordgaard,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Month,41,1944-07-14,1944-10-19
+Q139638480,Hans Grinde,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,46.0,1943-03-31,1943-06-03
+Q138364681,Thor Bertelsen,P2632,place of detention,Q140458829,Harstad hjelpefengsel,,A-Month,33.5,1944-06-17,1944-06-20
+Q111256336,PACT Aalsmeer,P1410,number of seats in assembly,,3.0,unitless,A-Month,56,2010-05-18,2010-07-11
+Q4570592,Birger Hatlebakk,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,47,1943-05-15,1943-05-25
+Q139637908,Sonja Margaret Fauske,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,30.0,1944-03-17,1944-03-20
+Q139656024,Arne Olai Ingvald Hansen,P2632,place of detention,Q637411,Grini detention camp,,A-Month,57.5,1945-01-21,1945-03-01
+Q879821,Bjørn Lyng,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,58.0,1944-07-25,1944-09-20
+Q139625359,Aasmund Steenstrup,P2632,place of detention,Q637411,Grini detention camp,,A-Month,52.0,1944-05-08,1945-05-08
+Q139640681,Leif Evanger,P2632,place of detention,Q140459491,Bergen kretsfengsel,,A-Month,45,1941-09-26,1941-10-04
+Q9306377,Renáta Štrbíková,P1352,ranking,,164.0,unitless,A-Month,31,2018-03-01,2018-03-01
+Q138375311,Reidar Kollstrand,P2632,place of detention,Q140459310,Tromsdalen,,A-Month,37,1944-10-13,1944-11-11
+Q927261,Christophe Legoût,P1352,ranking,,128.0,unitless,A-Month,31.0,2014-05-01,2014-06-01
+Q2338697,Steffen Mengel,P1352,ranking,,70.0,unitless,A-Month,31.0,2016-03-01,2016-03-01
+Q5277545,Dmitrij Prokopcov,P1352,ranking,,192.0,unitless,A-Month,31.0,2018-04-01,2018-04-01
+Q138362071,Fritz Oskar Aas,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Month,59.5,1942-03-04,1942-03-07
+Q138359277,Palmar Huse,P2632,place of detention,Q140458875,Molde kretsfengsel,,A-Month,51.5,1941-04-28,1941-05-08
+Q139630248,Elisa Warsha Karoli,P2632,place of detention,Q140459255,Tournai,,A-Month,43.5,1943-10-22,1944-01-01
+Q10878849,Jiuzhangli Station,P5817,state of use,Q55654238,in use,,A-Month,31,2021-04-25,
+Q139627569,Jørgen Oskar Sæther,P2632,place of detention,Q140459419,Bardufoss,,A-Month,52.0,1944-03-22,1944-07-01
+Q110860660,Lijst Linssen,P1410,number of seats in assembly,,6.0,unitless,A-Month,59.5,2010-04-07,2010-04-25
+Q15489032,Per Sogstad,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Month,47.5,1942-05-21,
+Q10681509,Stranda County,P17,country,Q2305208,Russian Socialist Federative Soviet Republic,,A-Month,41.5,1917-11-07,1917-12-06
+Q139654449,Edvin Oliver Haugen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Month,30.0,1943-08-31,1943-09-01
+Q138380867,Oscar Fredrik Lucassen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,49,1944-11-19,1945-01-19
+Q14934745,Sverre Kolltveit,P2632,place of detention,Q637411,Grini detention camp,,A-Month,31.5,1942-11-10,1942-11-19
+Q138361981,Kristian Olav Aarsnes,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,35.0,1942-03-07,1942-03-16
+Q139656034,Sverre Giæver,P2632,place of detention,Q637411,Grini detention camp,,A-Month,57.5,1945-01-21,1945-05-08
+Q139657516,Syvert Olsen,P2632,place of detention,Q140459748,Aussendienststelle Kristiansand (Arkivet),,A-Month,34.0,1943-01-05,1943-02-14
+Q139649330,Ragnar Trondsen,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,49.0,1942-11-07,1943-01-11
+Q139653543,Philippus de Vrij,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Month,53.0,1943-09-03,1943-09-08
+Q138378538,Asmund Andreas Marcussen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,53.5,1944-06-16,1944-09-20
+Q95164734,Karel Doucha,P2632,place of detention,Q160139,Mauthausen concentration camp,,A-Month,48.0,1944-09-14,
+Q139642242,Paul Leren,P2632,place of detention,Q140459463,Sennheim,,A-Month,52,1944-10-23,1944-11-21
+Q7089642,Omar Assar,P1352,ranking,,16.0,unitless,A-Month,31.0,2018-01-01,2018-01-01
+Q138370355,John Robert Drabløs,P2632,place of detention,Q140459616,Ålesund kretsfengsel,,A-Month,51.5,1943-02-09,1943-05-18
+Q12033302,Liam Pitchford,P1352,ranking,,69.0,unitless,A-Month,31.0,2017-12-01,2017-12-01
+Q138360225,Gerd Ellinor Andersen,P2632,place of detention,Q140459728,Trondheim kretsfengsel avd. B (Munkegata 16),,A-Month,49.0,1944-02-03,1944-03-03
+Q139647462,Jakob Martin J. Korgen,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Month,48,1944-11-19,1945-01-19
+Q138607077,Jakob Magnus Frøyland,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Months,105.0,1944-04-03,1944-04-05
+Q139637100,Odd Sjurseter Rolland,P2632,place of detention,Q151198,Dachau concentration camp,,A-Few-Months,123,1945-04-09,1945-06-01
+Q139644937,Jens Ivar Pettersen,P2632,place of detention,Q140459146,Trondheim kretsfengsel avd. C (Kongens gate 85),,A-Few-Months,151.5,1945-04-26,1945-05-08
+Q139648612,Roald Opheim,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Months,80.5,1944-11-07,1945-03-14
+Q170666,Kharkiv Oblast,P6,head of government,Q74821359,Oleh Syniehubov,,A-Few-Months,322.5,2021-12-24,
+Q56043323,Marko Tešija,P54,member of sports team,Q6954589,NK Rudeš,,A-Few-Months,243,2017-07-01,2017-08-01
+Q141190535,"Chairperson of the Education, Science and Youth Affairs Committee of the Parliament of Georgia",P1308,position holder,Q106692709,Mariam Lashkhi,,A-Few-Months,274.0,2025-07-02,
+Q138374239,Arne Lorang Johansen,P2632,place of detention,Q15204401,Bredtveit prison,,A-Few-Months,109.5,1941-10-29,1941-11-08
+Q12804768,U-591,P361,part of,Q275884,9th U-boat Flotilla,,A-Few-Months,300.0,1943-06-01,1943-07-30
+Q110860762,Combinatie Nuenen c.a.,P1410,number of seats in assembly,,3.0,unitless,A-Few-Months,315.0,2010-03-22,2011-12-10
+Q101096232,Ali Jamal al-Din Pasha,P39,position held,Q89271310,Minister of Religious Endowment,,A-Few-Months,287.0,1931-06-10,1931-06-22
+Q59461371,Bettel–Schneider Government II,P527,has part(s),Q104776182,Bettel–Kersch-Bausch ministry,,A-Few-Months,310,2020-02-04,2022-01-05
+Q139633159,Marta Kristine Frogg,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Months,117.0,1944-08-11,1945-05-08
+Q703863,Air Fleet 6,P276,location,Q628460,Ozorków,,A-Few-Months,84.0,1944-12-01,1945-01-01
+Q107485902,Befesa,P361,part of,Q448445,SDAX,,A-Few-Months,333,2023-12-18,2024-01-25
+Q18522,Mansfield Town F.C.,P286,head coach,Q10543930,Jamie McGuire,,A-Few-Months,214,2019-12-14,2019-12-16
+Q50572737,Heinrich Schuch,P598,commander of (DEPRECATED),Q666573,U-38,,A-Few-Months,273,1941-07-15,1942-01-06
+Q8042630,XXXXI Reserve Corps,P4791,commanded by,Q63715,Hermann von François,,A-Few-Months,130.5,1914-12-24,1915-06-29
+Q1454852,Hormel,P2295,net profit,,500050000.0,United States dollar,A-Few-Months,364.0,2011-10-31,2012-10-28
+Q139642381,Jens Mørch,P2632,place of detention,Q140459491,Bergen kretsfengsel,,A-Few-Months,86.5,1941-11-20,1941-11-23
+Q16641381,Haute Autorité pour la transparence de la vie publique,P488,chairperson,Q33105423,Jean Maïa,,A-Few-Months,305,2025-04-01,2026-01-31
+Q680770,FC UTA Arad,P286,head coach,Q646652,Adrian Mihalcea,,A-Few-Months,263,2017-06-30,2017-09-02
+Q139657376,Viktor (Grimestad) Slimestad,P2632,place of detention,Q140459696,Ramlösa,,A-Few-Months,122,1945-05-03,
+Q139637495,Monrad J. Løland,P2632,place of detention,Q140459491,Bergen kretsfengsel,,A-Few-Months,243.0,1941-11-24,1941-11-26
+Q138360531,Arne Asbjørn Antonsen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Months,169.5,1942-11-25,1943-01-27
+Q213007,Ignazio Abate,P6087,coach of sports team,Q2768,Torino FC,,A-Few-Months,360.5,2026-06-12,
+Q139643781,Harald Martinius Olsen,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Months,155,1940-06-03,1940-08-14
+Q18732,Southampton F.C.,P286,head coach,Q42097340,Will Still,,A-Few-Months,138,2025-05-25,2025-11-02
+Q141214602,Leader of the Parliamentary Majority of Georgia,P1308,position holder,Q64827520,Archil Talakvadze,,A-Few-Months,332.0,2016-11-18,2019-06-24
+Q65347247,Socha z klíčů,P276,location,Q8385,Ostrava,,A-Few-Months,143.0,2010-12-16,2011-02-15
+Q138376860,Sverre Larsen-Grundland,P2632,place of detention,Q45476681,Hamburg-Fuhlsbüttel concentration camp,,A-Few-Months,64.0,1942-07-29,1943-10-07
+Q106864596,"Meijer de Haan, le maître caché",P276,location,Q702726,Jewish Museum,,A-Few-Months,135.0,2009-10-11,2010-01-25
+Q138371300,Cay Hammersmark,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Months,261.5,1944-01-08,1945-03-13
+Q133864321,Trans-Mississippi District,P4791,commanded by,Q1246956,Earl Van Dorn,,A-Few-Months,71.0,1862-01-09,1862-05-11
+Q139636949,Erling Nilsen,P2632,place of detention,Q140459515,Vechta,,A-Few-Months,325,1944-01-17,1944-05-17
+Q139653391,Norbert Ernest Germain Courtin,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Months,108,1943-10-04,1943-11-26
+Q138373855,Jakob Ciljan Jakobsen,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Months,251,1943-12-09,1943-12-09
+Q139627119,Oskar Viktor Øhlund,P2632,place of detention,Q140458868,Bodø kretsfengsel,,A-Few-Months,68.5,1944-10-03,1945-02-01
+Q138370755,Odd Birger Bendixen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Months,64.0,1943-01-23,1943-03-20
+Q139637050,Gerhard Steien,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Few-Months,158.5,1943-12-12,1945-03-30
+Q98069270,Saya Kawasaki,P54,member of sports team,Q37475291,FC Wacker Innsbruck,,A-Few-Months,336,2019-07-01,2020-06-01
+Q110860322,LDIJ (Lokale Democraten IJsselstein),P1410,number of seats in assembly,,7.0,unitless,A-Few-Months,157,2018-04-08,2018-06-26
+Q138378269,Harald Nordgaard,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Months,93,1942-10-16,1943-01-17
+Q4031320,41st Army,P4791,commanded by,Q4280118,Ivan Managarov,,A-Few-Months,152.0,1942-12-01,1943-03-01
+Q139656867,Bjørn Skogsfjord,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Months,164.5,1942-12-23,1943-01-03
+Q138362864,Sven  Kåre Andersen,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Few-Months,84.5,1943-06-10,
+Q139654547,Jostein Thun,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Months,196,1944-09-22,1945-05-08
+Q16140747,Anat Arbhabhirama,P39,position held,Q13020166,Deputy Minister of Agriculture and Cooperatives of Thailand,,A-Few-Months,364,1980-02-11,1980-02-29
+Q98423,Victor Graf von Reventlow-Criminil,P410,"military, police or special rank",Q20157601,Seekadett,,A-Few-Months,329.5,1936-09-10,1937-04-30
+Q13423392,U-1165,P361,part of,Q169975,11th U-boat Flotilla,,A-Few-Months,129.0,1944-08-01,1945-05-08
+Q138376243,Bjarne Johan Laksforsmo,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Months,62.0,1941-10-31,1942-02-24
+Q139648471,Johan August Hermansen,P2632,place of detention,Q154498,Sachsenhausen concentration camp,,A-Few-Months,147,1942-11-21,1944-06-16
+Q138371875,Sverre Larsen Haugerud,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Months,178.0,1942-08-09,1942-08-19
+Q109723986,Maman S. Rachman,P39,position held,Q125100812,Vice Regent of Ciamis,,A-Few-Months,363.0,1997-04-10,1998-05-13
+Q138372497,Gunnar Hofstad,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Months,241,1942-03-09,1942-08-17
+Q139629700,Harald Olsen,P2632,place of detention,Q140458901,Vardø hjelpefengsel,,A-Few-Months,134.0,1941-01-25,1941-04-27
+Q139636833,Sigmund Zachariassen,P2632,place of detention,Q140459508,Rendsburg,,A-Few-Months,177,1943-08-02,1943-11-30
+Q110860845,PRO Gulpen-Wittem,P1410,number of seats in assembly,,5.0,unitless,A-Few-Months,207.5,2018-04-08,2019-02-10
+Q30291091,L3Harris Technologies,P2295,net profit,,1119000000.0,United States dollar,A-Few-Months,364,2020-01-04,2021-01-01
+Q138377394,Arne Eugen Lindmark,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Months,94.5,1941-11-28,1941-12-03
+Q679317,FK Karvan,P286,head coach,Q5456446,Fizuli Mammedov,,A-Few-Months,179.5,2025-11-25,2026-01-01
+Q4052020,U-348,P366,has use,Q8434,education,,A-Few-Months,278.0,1943-08-10,1944-03-31
+Q139631406,Ole Traasdahl,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Months,75,1942-07-11,1942-09-20
+Q138607059,Lars Olai Andersen Møgster,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Months,84,1943-01-30,1943-02-27
+Q132885,Olympique de Marseille,P286,head coach,Q518454,José Anigo,,A-Few-Months,244,2013-12-09,2014-06-30
+Q138368077,Olaf Eliassen,P2632,place of detention,Q140458793,Kristiansand kretsfengsel,,A-Few-Months,127.0,1943-03-07,1943-03-10
+Q138362593,Fredrik Nannestad Brekke,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Months,82.5,1943-12-24,1944-05-18
+Q139644869,Albrecht Halvor Paul Eika,P2632,place of detention,Q140459371,Sverige,,A-Few-Months,60,1945-04-30,
+Q138373605,Helge Imerslund,P2632,place of detention,Q140459457,"Akershus festning, Kriegswehrmachtsgefängnis",,A-Few-Months,132,1944-07-29,1944-09-05
+Q6319842,János Vass,P39,position held,Q117479722,lord-lieutenant of Heves County,,A-Few-Months,273.0,1917-07-25,1918-03-06
+Q139637359,Samuel Konrad Trones,P2632,place of detention,Q2217762,Falstad concentration camp,,A-Few-Months,103.5,1944-03-03,1944-09-20
+Q138378088,Tor Petter Njølstad,P2632,place of detention,Q140459463,Sennheim,,A-Few-Months,181.0,1944-11-26,1944-11-14
+Q139630020,Knut Bernhard Lunde Chruickshank,P2632,place of detention,Q140459457,"Akershus festning, Kriegswehrmachtsgefängnis",,A-Few-Months,61.5,1941-10-27,1941-11-10
+Q138370118,Carl Severin Bjurstedt,P2632,place of detention,Q140459707,Frøslev,,A-Few-Months,145.0,1945-04-21,1945-04-30
+Q138359279,Konrad Emil Knutsen Io,P2632,place of detention,Q140459506,Ulven,,A-Few-Months,133,1941-05-31,1941-11-24
+Q139642594,Bjarne Nilsen,P2632,place of detention,Q140459434,Tyskland,,A-Few-Months,165,1941-11-28,1942-05-10
+Q138375523,Anker Mathias Kristiansen,P2632,place of detention,Q140459442,Åkebergveien (Oslo kretsfengsel avd. B),,A-Few-Months,83.5,1943-11-02,1944-04-01
+Q139648670,Odvar Ludvik Olsen,P2632,place of detention,Q140459456,Trondheim,,A-Few-Months,62,1941-11-01,1941-12-11
+Q11701,United States House of Representatives,P488,chairperson,Q19880665,Mike Johnson,,A-Few-Months,268,2023-10-25,
+Q138375571,Rolf Alexander Kristoffersen,P2632,place of detention,Q637411,Grini detention camp,,A-Few-Months,246.5,1943-03-05,1943-04-07
+Q139649252,Arve Hærem Gulbrandsen,P2632,place of detention,Q140459441,Møllergata 19,,A-Few-Months,139.5,1942-10-23,1942-11-03
+Q22255324,Styx II,P608,exhibition history,Q111830362,"Augenecho : Kurt Kocherscheidt - Malerei, Elfie Semotan - Fotografie",,A-Few-Months,268.5,2008-10-17,2009-04-13
+Q120790265,Fanny Anor,P39,position held,Q131840644,directeur de cabinet du ministre de l'Éducation nationale,,A-Few-Months,237.0,2023-07-21,2024-01-10
+Q139651267,Rolf Nordahl Hanssen,P2632,place of detention,Q140459748,Aussendienststelle Kristiansand (Arkivet),,A-Few-Months,181.0,1944-11-29,1944-12-13
+Q11338080,Horatio Nelson Jackson,P410,"military, police or special rank",Q104680,colonel,,A-Few-Months,359.5,1923-08-07,
+Q99607890,Sebastián Rolandi Barragán,P39,position held,Q40897543,gobernador civil de Soria,,A-Few-Months,234,1874-01-31,1874-02-03
+Q137907838,"Chicago, naissance d'une métropole (1872-1922)",P276,location,Q239303,Art Institute of Chicago,,A-Few-Months,144.0,1988-07-16,1988-09-05
+Q5076862,"Charles Dickson, Lord Dickson",P39,position held,Q41582581,member of the 30th Parliament of the United Kingdom,,A-Few-Months,322,1910-12-03,1915-07-01
+Q4890986,XIII International Brigade,P4791,commanded by,Q57730,Wilhelm Zaisser,,A-Few-Months,304.0,1936-12-01,1937-07-01
+Q138359219,Johan Albert Flønes,P2632,place of detention,Q140459340,Kristiansten festning,,A-Few-Months,293.5,1943-05-19,1943-05-19
+Q139633058,Knud Tjomsland,P2632,place of detention,Q140459443,Berg,,A-Few-Months,114.0,1945-02-04,
+Q139653582,Fritz Hirsch,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Months,76,1942-09-03,1942-11-18
+Q5171227,Cornelis Ekkart,P2632,place of detention,Q2653504,Stalag 371 Stanislau,,A-Few-Months,138,1942-08-08,1944-01-17
+Q4963756,Brian Fleming,P39,position held,Q654291,Teachta Dála,,A-Few-Months,301.5,1981-06-30,1982-01-27
+Q1001862,Bueng Kan,P6,head of government,Q15622313,Thongchai Lueadule,,A-Few-Months,200.0,2012-11-19,2013-06-20
+Q139651311,Mietek Krakowski,P2632,place of detention,Q140459448,Trondheim kretsfengsel avd. A (Vollan),,A-Few-Months,61.0,1944-04-11,1944-04-29
+Q111256862,Hart voor Veghel,P1410,number of seats in assembly,,4.0,unitless,A-Few-Months,178,2009-08-20,2010-04-20
+Q139631023,Olaf Irgens,P2632,place of detention,Q140459491,Bergen kretsfengsel,,A-Few-Months,354.0,1943-10-22,1943-11-22
+Q106640935,"Minister of Research, Innovation and Digitalization",P1308,position holder,Q104508044,Bogdan Ivan,,A-Few-Months,216.0,2023-06-15,2024-12-23
+Q133591,Lester Ellis,P166,award received,Q137999471,IBO World Lightweight Champion,,A-Few-Months,129,1995-03-10,1995-01-01
+Q137893297,Landon Moore,P54,member of sports team,Q7401264,Saint Francis Red Wolves men's basketball,,A-Year,548.0,2022-01-01,2023-01-01
+Q6539339,Li Zhuangfei,P54,member of sports team,Q1046367,Shandong Taishan F.C.,,A-Year,365,2006-01-01,2006-01-01
+Q42373053,Conrado Buchanelli Holz,P54,member of sports team,Q220863,SC Oțelul Galați,,A-Year,365.0,2025-09-07,2026-07-07
+Q48749799,Airbus A310 Zero-G,P426,aircraft registration,,10+21,,A-Year,396.0,1991-08-27,2015-03-18
+Q23883134,Ahmed Al-Sulami,P54,member of sports team,Q12247594,Damac Club,,A-Year,365.5,2007-01-01,2012-01-01
+Q1445210,Luca Birigozzi,P54,member of sports team,Q1785447,S.S. Sambenedettese Calcio,,A-Year,366,1984-01-01,1985-01-01
+Q6300302,Juan Manuel Azconzábal,P54,member of sports team,Q214940,Estudiantes de La Plata,,A-Year,365.5,1994-01-01,2002-01-01
+Q125636930,Gyula Kittl,P54,member of sports team,Q633521,FC Lugano,,A-Year,365.5,1932-01-01,1933-01-01
+Q137894413,Phillip Russell,P54,member of sports team,Q16969659,Saint Louis Billikens men's basketball,,A-Year,366,2020-01-01,2021-01-01
+Q481370,Muriel Gustavo Becker,P54,member of sports team,Q204675,Associação Portuguesa de Desportos,,A-Year,548.0,2009-01-01,2009-01-01
+Q16218635,Eva Lutz,P54,member of sports team,Q316593,Noris Cycling,,A-Year,365.5,2006-01-01,2009-01-01
+Q3617247,Angelo Tasca,P54,member of sports team,Q2084931,A.S.D. Igea Virtus Barcellona,,A-Year,366,2000-01-01,2001-01-01
+Q6453275,Károly Graszl,P54,member of sports team,Q674428,Kaposvári Rákóczi FC,,A-Year,548.0,2007-01-01,2009-01-01
+Q19538849,Sami Larabi,P54,member of sports team,Q56150474,Toulouse FC II,,A-Year,365.0,2013-01-01,2014-01-01
+Q7356487,Roddy Hunter,P54,member of sports team,Q1059399,Dumbarton F.C.,,A-Year,548.0,2009-01-01,2010-01-01
+Q8986563,Lian Xiao,P468,dan/kyu rank,Q23008961,2 dan in go,,A-Year,365.5,2008-07-01,2009-07-01
+Q1737186,Tim Petersen,P54,member of sports team,Q155186,FC Carl Zeiss Jena,,A-Year,548.0,2008-01-01,2010-01-01
+Q3173269,Jean Louis Rieul de Viefville des Essarts,P39,position held,Q75584936,Prefect of Sègre,,A-Year,548.0,1812-01-01,1813-01-01
+Q15831066,Klayton da Silva,P54,member of sports team,Q429998,Bacabal Esporte Clube,,A-Year,548.0,2010-01-01,2011-01-01
+Q7490907,Shaun Marshall,P54,member of sports team,Q2494190,King's Lynn F.C.,,A-Year,365,2006-01-01,2007-01-01
+Q5923809,Hristo Stamboliyski,P54,member of sports team,Q7119066,PFC Chavdar Byala Slatina,,A-Year,365,2011-01-01,2011-01-01
+Q4710657,Albert Kuqi,P54,member of sports team,Q6668012,Lohjan Pallo,,A-Year,365.0,2009-01-01,2009-01-01
+Q1409054,Piero Betello,P54,member of sports team,Q2641,SSC Napoli,,A-Year,548.0,1957-01-01,1959-01-01
+Q16231536,Sean Bateau,P54,member of sports team,Q1067178,Charlotte Eagles,,A-Year,365,2012-01-01,2012-01-01
+Q115221315,Germán Menéndez,P6087,coach of sports team,Q12278,Sporting de Gijón,,A-Year,365.5,1960-01-01,1961-01-01
+Q218095,Wolnei Caio,P54,member of sports team,Q221695,Grêmio FBPA,,A-Year,366.0,1987-01-01,1987-01-01
+Q7413162,Samy Derras,P54,member of sports team,Q611222,Treviso F.B.C. 1993,,A-Year,366,2009-01-01,2010-01-01
+Q21089173,Jurica Jeleć,P54,member of sports team,Q31420,NK Aluminij,,A-Year,365,2012-01-01,2013-01-01
+Q1602937,Hellmut Königshaus,P39,position held,Q1939555,member of the German Bundestag,,A-Year,424,2004-08-20,2005-10-18
+Q423008,Roberto Caruso,P54,member of sports team,Q26512,GW Shimano-Sidermec,,A-Year,365.5,1991-01-01,1991-01-01
+Q139656906,Harald Ulrik Sverdrup-Thygeson,P2632,place of detention,Q637411,Grini detention camp,,A-Year,422.5,1942-12-12,1944-03-11
+Q3009951,Cédric Rosalen,P54,member of sports team,Q2002695,US Montauban,,A-Year,548.0,2008-01-01,2010-01-01
+Q7385325,Ryosuke Kawanabe,P54,member of sports team,Q1145693,Matsumoto Yamaga FC,,A-Year,365.5,2013-01-01,2013-01-01
+Q252695,Ânderson Miguel da Silva,P54,member of sports team,Q1900,Cagliari Calcio,,A-Year,365.0,2009-01-01,2014-01-01
+Q4715166,Aleksandr Ignatyev,P54,member of sports team,Q630939,FC Kyzylzhar,,A-Year,366,2004-01-01,2004-01-01
+Q109434839,Safrizal Zakaria Ali,P39,position held,Q102251452,Governor of Aceh,,A-Year,640.5,2024-08-22,
+Q515938,Alex Teixeira,P54,member of sports team,Q172969,FC Shakhtar Donetsk,,A-Year,366,2010-01-01,2016-01-01
+Q3745230,Filippo Lanza,P54,member of sports team,Q2245427,Prisma Taranto,,A-Year,548.0,2023-01-01,
+Q8021755,Willie Ormond,P54,member of sports team,Q19601,Oldham Athletic A.F.C.,,A-Year,548.0,1949-01-01,1954-01-01
+Q6764837,Mario Muñoz,P54,member of sports team,Q4671072,FC Academia Cali,,A-Year,365.5,2006-01-01,2007-01-01
+Q821314,Berlin Ndebe-Nlome,P54,member of sports team,Q1769458,Atlétich Chichizola,,A-Year,365.5,2009-01-01,2009-01-01
+Q18344734,Mihai Drăguș,P54,member of sports team,Q841245,FC Argeș,,A-Year,365,1996-01-01,1997-01-01
+Q2932791,"Cadwallader Blayney, 12th Baron Blayney",P39,position held,Q41582545,member of the 10th Parliament of the United Kingdom,,A-Year,484,1831-04-28,1832-12-03
+Q8053123,Yevgeni Gogol,P54,member of sports team,Q770528,FC AGMK,,A-Year,365.0,2011-01-01,2013-01-01
+Q19757773,Yulia Razenkova,P54,member of sports team,Q55343068,Velodames Colnago,,A-Year,547.5,2003-01-01,2003-01-01
+Q2018066,Gregory Mertens,P54,member of sports team,Q815515,Belgium national under-21 football team,,A-Year,365,2011-01-01,2011-01-01
+Q3609213,Aldo Fontana,P54,member of sports team,Q8615,Spezia Calcio,,A-Year,365,1965-01-01,1967-01-01
+Q133963473,Jarl Frijs-Madsen,P39,position held,Q133963504,ambassador of Denmark to Japan,,A-Year,593.5,2024-12-01,
+Q10530781,Juan Manuel Morales,P54,member of sports team,Q868582,Deportivo Saprissa,,A-Year,366,2012-01-01,2012-01-01
+Q7908276,Vadim Luchin,P54,member of sports team,Q3660104,FC Biolog-Novokubansk Progress,,A-Year,548.0,2013-01-01,2014-01-01
+Q9404048,Ministry of Education of the Republic of Korea,P488,chairperson,Q22083389,Lee Joon-sik,,A-Year,518.0,2016-01-13,2017-07-04
+Q15991762,Ericson Silva,P54,member of sports team,Q1023227,CD Tondela,,A-Year,365.0,2012-01-01,2012-01-01
+Q5742440,Hernán Garin,P54,member of sports team,Q2778591,Club Atlético Temperley,,A-Year,366,2005-01-01,2006-01-01
+Q5337091,Edgar Aldrighi Júnior,P54,member of sports team,Q1633430,Londrina E.C.,,A-Year,366,2010-01-01,2010-01-01
+Q126497722,Susan Schut,P54,member of sports team,Q18413717,Guts & Gusto VC Zwolle,,A-Year,366,2020-01-01,2024-01-01
+Q21503604,Minister of Agriculture of Romania,P1308,position holder,Q21503608,Achim Irimescu,,A-Year,414,2015-11-17,2017-01-04
+Q6278296,Jorge Manuel Amador Galufo,P54,member of sports team,Q371136,F.C. Paços de Ferreira,,A-Year,548.0,2009-01-01,2011-01-01
+Q3146975,Xylem Inc.,P169,chief executive officer,Q117747707,Patrick Decker,,A-Year,678,2014-03-01,2024-01-01
+Q5524620,Gary Assous,P54,member of sports team,Q1577020,Hapoel Katamon Jerusalem F.C.,,A-Year,365.0,2011-01-01,2012-01-01
+Q4716434,Alessandro Silva Pereira,P54,member of sports team,Q746046,Assyriska FF,,A-Year,365.5,2008-01-01,2008-01-01
+Q17486590,Gordon Morritt,P54,member of sports team,Q48954,York City F.C.,,A-Year,366.0,1969-01-01,1972-01-01
+Q255439,Simon Gerrans,P54,member of sports team,Q200009,Netcompany INEOS,,A-Year,365.5,2010-01-01,2011-01-01
+Q3898292,Pavel Lukáš,P54,member of sports team,Q328332,FK Mladá Boleslav,,A-Year,548.0,1994-01-01,1997-01-01
+Q7408967,Samba Sow,P54,member of sports team,Q650917,R.E. Virton,,A-Year,365,2005-01-01,2005-01-01
+Q2907939,Wélton Melo,P54,member of sports team,Q899189,Brazil national under-23 football team,,A-Year,365.0,1995-01-01,1995-01-01
+Q21084497,Brad Evans,P54,member of sports team,Q638266,Drapac-EF Cannondale Holistic Development,,A-Year,442.0,2015-08-01,2015-12-31
+Q6137466,James Krause,P54,member of sports team,Q19584,Crawley Town F.C.,,A-Year,365.0,2007-01-01,2008-01-01
+Q5622292,Guy Wilson,P39,position held,Q41582579,member of the 29th Parliament of the United Kingdom,,A-Year,550.0,1910-01-15,1910-11-28
+Q6696256,Lucas Ojeda,P54,member of sports team,Q214978,Club Atlético Independiente,,A-Year,365.0,2005-01-01,2006-01-01
+Q3946512,Samir Šarić,P54,member of sports team,Q1434649,Løv-Ham Fotball,,A-Year,365,2007-01-01,2008-01-01
+Q3506998,Sylvain Franco,P54,member of sports team,Q288419,Pau Football Club,,A-Year,548.0,2004-01-01,2005-01-01
+Q4685597,Adriano Nascimento Felício,P54,member of sports team,Q2553450,Volta Redonda Futebol Clube,,A-Year,365.0,2004-01-01,2004-01-01
+Q7347902,Robert Murray Keith,P39,position held,Q56761120,ambassador of the United Kingdom to Denmark,,A-Year,547.5,1771-01-01,1772-01-01
+Q6308696,Julien Favier,P54,member of sports team,Q940001,FC Sète,,A-Year,548.0,2004-01-01,2006-01-01
+Q19800693,Andrea Bottazzi,P54,member of sports team,Q459794,Piacenza Calcio,,A-Year,366,1986-01-01,1988-01-01
+Q18205409,Nikita Bastron,P54,member of sports team,Q17504849,FC TSK Simferopol,,A-Year,365,2014-01-01,2014-01-01
+Q15831203,Vanderley Dias Marinho,P54,member of sports team,Q131499,S.L. Benfica,,A-Year,365.0,2014-01-01,2015-01-01
+Q6850628,Milan Milutinović,P54,member of sports team,Q2614598,FK Mačva Šabac,,A-Year,366,2002-01-01,2005-01-01
+Q4679859,Adam Strachan,P54,member of sports team,Q955789,Clydebank F.C.,,A-Year,365.5,2011-01-01,2012-01-01
+Q3588795,Émile Wassmer,P54,member of sports team,Q866884,Amiens SC,,A-Year,365.0,1951-01-01,1952-01-01
+Q3680022,Claudio Di Pucchio,P54,member of sports team,Q3627183,A.S.D. G.C. Sora,,A-Year,365,1963-01-01,1964-01-01
+Q739807,Raimo Helminen,P6087,coach of sports team,Q1753439,SaiPa,,A-Year,365.5,2024-01-01,
+Q4127453,All-Russian Mathematical Olympiad of general education students,P276,location,Q97663654,Sirius,,A-Year,365.0,2023-04-21,2023-04-27
+Q60808907,Blake Quick,P54,member of sports team,Q266770,Team Jayco AlUla,,A-Year,365,2023-01-01,2024-01-01
+Q106673782,Ben Rortvedt,P54,member of sports team,Q213417,New York Yankees,,A-Year,365.5,2023-01-01,2023-01-01
+Q4738602,Alyaksandr Tsyarentsyew,P54,member of sports team,Q1165833,FC Slavia-Mozyr,,A-Year,365,2006-01-01,2006-01-01
+Q16233574,Elvedin Škrijelj,P54,member of sports team,Q995069,FK Novi Pazar,,A-Year,366,2010-01-01,2012-01-01
+Q3768138,Giovanni Simonato,P54,member of sports team,Q591456,SS Turris Calcio,,A-Year,365,1979-01-01,1980-01-01
+Q7929774,Viktor Navochenko,P54,member of sports team,Q20036676,FC Almaz Moscow,,A-Year,366,2004-01-01,2004-01-01
+Q15966059,Maksym Averin,P54,member of sports team,Q7662394,Synergy Baku Project,,A-Year,365.5,2014-01-01,
+Q4062349,Pavel Alikin,P54,member of sports team,Q274642,FC Amkar Perm,,A-Year,365,2003-01-01,2007-01-01
+Q7351587,Roberto Ayza,P54,member of sports team,Q301279,CS Mioveni,,A-Year,366,2009-01-01,2012-01-01
+Q1657832,André Luiz Silva do Nascimento,P54,member of sports team,Q1029041,Tupi Football Club,,A-Year,366,2002-01-01,2002-01-01
+Q18221967,Dimitri Peyskens,P54,member of sports team,Q17489032,Terra Safety Shoes,,A-Year,366,2010-01-01,2010-01-01
+Q4082911,Artur Belotserkovets,P54,member of sports team,Q1269122,FC Dynamo Saint Petersburg,,A-Year,365,1990-01-01,1990-01-01
+Q7436357,Scott Fraser,P54,member of sports team,Q610447,Cowdenbeath F.C.,,A-Year,365.5,1991-01-01,1992-01-01
+Q5537311,George Brown,P54,member of sports team,Q19607,Sheffield United F.C.,,A-Year,365,1908-01-01,1909-01-01
+Q20641167,Gerry McCoy,P54,member of sports team,Q518259,Berwick Rangers F.C.,,A-Year,548.0,1983-01-01,1983-01-01
+Q4680186,Adamos Efstathiou,P54,member of sports team,Q2091861,Ethnikos Assia F.C.,,A-Year,365.0,2011-01-01,2011-01-01
+Q12878793,Karmiotissa Pano Polemidion,P286,head coach,Q2655477,Alyaksandr Khatskevich,,A-Year,474,2022-09-18,2022-10-31
+Q3175429,Jean de Geoffre de Chabrignac,P102,member of political party,Q7223378,Union for the New Republic,,A-Few-Years,1461,1959-01-01,1965-01-01
+Q872382,Norbert Csernyánszki,P54,member of sports team,Q787320,BFC Siófok,,A-Few-Years,1461.0,2002-01-01,2004-01-01
+Q369104,Sergio Girardi,P54,member of sports team,Q430993,Mantova 1911,,A-Few-Years,1461,1965-01-01,1968-01-01
+Q7906826,Strike Fighter Squadron 115,P1545,series ordinal,,12A,,A-Few-Years,1052.5,1946-11-15,1948-07-15
+Q25861282,"Sir Harry Vernon, 1st Baronet",P39,position held,Q41582559,member of the 19th Parliament of the United Kingdom,,A-Few-Years,2015.0,1865-07-11,1868-11-11
+Q79419,Monticello,P17,country,Q30,United States,,A-Few-Years,2822.0,1849-12-18,1861-05-06
+Q10484541,Aleksei Yudin,P54,member of sports team,Q5425167,FC Spartak-UGP Anapa,,A-Few-Years,913.0,2005-01-01,2006-01-01
+Q41397099,BO-376,P879,pennant number,,MPK-223,,A-Few-Years,1122,1960-10-15,
+Q832981,Sebastian Forke,P54,member of sports team,Q1755534,LKT Team Brandenburg,,A-Few-Years,730,2009-01-01,2009-01-01
+Q7369291,Ross Donnelly Mangles,P39,position held,Q95921240,member of the Council of India,,A-Few-Years,1764.5,1858-09-21,
+Q118444956,Iñaki Telletxea,P54,member of sports team,Q8687,Athletic Club,,A-Few-Years,730.5,2016-01-01,2021-01-01
+Q15999646,Bert Oswald,P54,member of sports team,Q2907478,Bo'ness F.C.,,A-Few-Years,731.0,1926-01-01,1928-01-01
+Q115326109,Charles Michaud,P39,position held,Q52769526,parochus,,A-Few-Years,1127,1917-01-01,1921-01-01
+Q5639920,Haji Nurul Islam,P39,position held,Q106237179,Member of the 16th West Bengal Legislative Assembly,,A-Few-Years,2191.5,2016-01-01,2021-01-01
+Q51640094,Edwin S. Lanier,P39,position held,Q109319006,"Mayor of Chapel Hill, North Carolina",,A-Few-Years,2472.0,1949-01-01,1954-01-01
+Q105102332,Pedro Neves,P54,member of sports team,Q1386850,F.C. Alverca,,A-Few-Years,1644.0,2000-01-01,2006-01-01
+Q884961,Forrest C. Donnell,P39,position held,Q4416090,United States senator,,A-Few-Years,731,1945-01-03,1947-01-03
+Q2325022,John Lucas II,P6087,coach of sports team,Q162990,Cleveland Cavaliers,,A-Few-Years,1461.0,2001-01-01,2003-01-01
+Q4755998,Andrey Lebedev,P54,member of sports team,Q391099,FC Lokomotiv Nizhny Novgorod,,A-Few-Years,730,1991-01-01,1993-01-01
+Q3935931,Rinaldo Moro,P54,member of sports team,Q2253772,A.C.D. Trissino-Valdagno,,A-Few-Years,730.5,1954-01-01,1956-01-01
+Q59981,Shukri al-Quwatli,P27,country of citizenship,Q146600,Arab Kingdom of Syria,,A-Few-Years,1827,1918-01-01,1920-01-01
+Q50192721,Michel Theuil,P39,position held,Q73804116,General secretary of prefecture of La Réunion,,A-Few-Years,1096,2007-01-01,2010-01-01
+Q477121,Alain Savary,P39,position held,Q3044918,member of the French National Assembly,,A-Few-Years,1743.5,1951-06-17,1955-12-01
+Q28843426,Sakiusa Bureitakiyaca,P54,member of sports team,Q3492488,Soyaux Angoulême XV Charente,,A-Few-Years,731,2018-07-01,2020-06-01
+Q62576160,Jefferson Alexander Cepeda,P54,member of sports team,Q752425,EF Education-EasyPost,,A-Few-Years,730,2022-08-01,
+Q6401503,Kheyrollah Veisi,P54,member of sports team,Q6417256,Naft Masjed Soleyman F.C.,,A-Few-Years,731,2013-01-01,2014-01-01
+Q4169424,Dubivka,P17,country,Q34266,Russian Empire,,A-Few-Years,1214,1793-01-01,1917-03-07
+Q282776,Ratko Dostanić,P54,member of sports team,Q3544941,FK Timok 1919,,A-Few-Years,730.0,1981-01-01,1983-01-01
+Q112194465,Pierre Latu,P39,position held,Q73983218,Sub-prefect of Péronne,,A-Few-Years,1461,1989-01-01,1993-01-01
+Q104649225,MS Carina,P8047,country of registry,Q20,Norway,,A-Few-Years,1521.5,1947-02-01,1952-05-01
+Q4103626,Varvarivka,P17,country,Q15180,Soviet Union,,A-Few-Years,1226,1921-03-18,1922-12-29
+Q60263141,Verônica Lima,P463,member of,Q3093391,Império Serrano,,A-Few-Years,1826,2019-01-01,2022-01-01
+Q119199354,Dzene Makhwade-Seboni,P106,occupation,Q2462658,manager,,A-Few-Years,1461,1993-01-01,1997-01-01
+Q6317338,Justin Bannan,P54,member of sports team,Q276539,Baltimore Ravens,,A-Few-Years,1461,2006-01-01,2009-01-01
+Q17635357,Joaquín Gómez de la Cortina,P39,position held,Q47504279,Rector of the Complutense University of Madrid,,A-Few-Years,3626,1841-01-27,1842-09-03
+Q56599388,William Henry Doveton Haggard,P39,position held,Q56761122,ambassador of the United Kingdom to Ecuador,,A-Few-Years,1825,1890-01-01,1894-01-01
+Q5235986,David Khmelidze,P54,member of sports team,Q391107,FC Zvezda Irkutsk,,A-Few-Years,730.0,2006-01-01,2006-01-01
+Q4161414,Emir Dizdarević,P1532,country for sport,Q225,Bosnia and Herzegovina,,A-Few-Years,3251.5,2008-05-13,2024-04-19
+Q7878673,Uladzimir Marhulets,P54,member of sports team,Q995028,FC Granit Mikashevichi,,A-Few-Years,913.0,2010-01-01,2011-01-01
+Q603993,Antonio Palocci,P39,position held,Q18176438,Minister of Finance of Brazil,,A-Few-Years,1461.0,2003-01-01,2006-03-27
+Q278178,Seán Haughey,P39,position held,Q18043391,senator of Ireland,,A-Few-Years,1655,1987-04-25,1989-07-05
+Q1789942,Carlinhos de Jesus,P463,member of,Q3093391,Império Serrano,,A-Few-Years,1095,2012-01-01,2012-01-01
+Q3126619,Hamza Tlili,P54,member of sports team,Q105623914,الملعب الرياضي بالمكناسي,,A-Few-Years,1096,2019-01-01,
+Q76363640,José Maria Tormo,P54,member of sports team,Q16188892,Club Tennis de la Salut,,A-Few-Years,730.5,1909-01-01,1912-01-01
+Q4821333,Whelliton,P54,member of sports team,Q688300,S.C. Beira-Mar,,A-Few-Years,730.5,2003-01-01,2004-01-01
+Q5236526,David Levene,P54,member of sports team,Q7059418,Northfleet United F.C.,,A-Few-Years,1096,1930-01-01,1932-01-01
+Q94872883,Louis André Gosse,P27,country of citizenship,Q142,France,,A-Few-Years,3104.0,1798-01-01,1813-01-01
+Q115941591,Evelien Post,P54,member of sports team,Q115859622,Vitron Wilstra,,A-Few-Years,730.5,2004-01-01,2004-01-01
+Q26260955,Branislav Arsenović,P6087,coach of sports team,Q18127493,SSV Jahn Regensburg II,,A-Few-Years,1826.0,2005-01-01,2006-01-01
+Q1690473,Joachim Sigusch,P54,member of sports team,Q297709,ASG Vorwärts Neubrandenburg,,A-Few-Years,1095,1969-01-01,1970-01-01
+Q2168351,Leroy Resodihardjo,P54,member of sports team,Q653119,Almere City FC,,A-Few-Years,913.5,2011-01-01,2012-01-01
+Q3609169,Aldo Croce,P54,member of sports team,Q289707,A.C. Reggiana 1919,,A-Few-Years,730,1938-01-01,1939-01-01
+Q16585099,Oreste Perfetti,P54,member of sports team,Q1543,AC Milan,,A-Few-Years,1643.5,1915-01-01,1916-01-01
+Q81215460,Paul Blanc,P39,position held,Q63050030,ambassador of France to Mozambique,,A-Few-Years,1643.5,1977-01-01,1981-01-01
+Q545591,Thierry Steimetz,P54,member of sports team,Q221752,F91 Dudelange,,A-Few-Years,731,2012-01-01,2014-01-01
+Q123368604,Bernard Dumolard,P39,position held,Q74814220,sub-prefect of Bagnères-de-Bigorre,,A-Few-Years,731,1994-01-01,1997-01-01
+Q12715294,Hans Jacob Olsen Aschjem,P39,position held,Q9045502,member of the Parliament of Norway,,A-Few-Years,1096,1862-01-01,1864-01-01
+Q7384221,Ryan Kirby,P54,member of sports team,Q48945,Northampton Town F.C.,,A-Few-Years,730,1996-01-01,1996-01-01
+Q19877287,Mauricio Alvarenga,P54,member of sports team,Q2979879,C.D. Juventud Olímpica Metalio,,A-Few-Years,1096.0,1972-01-01,1974-01-01
+Q3093869,Gabriel Michel,P39,position held,Q3188068,juge consulaire,,A-Few-Years,3287.0,1730-01-01,1731-01-01
+Q3139476,Kopparnäs,P31,instance of,Q12813115,urban area in Sweden,,A-Few-Years,1461.0,2015-12-31,2018-12-30
+Q7177060,Peter Sprung,P54,member of sports team,Q170105,Stuttgarter Kickers,,A-Few-Years,913.0,2012-01-01,2013-01-01
+Q42088903,Piet van Dijk,P39,position held,Q100235642,mayor of Aa en Hunze,,A-Few-Years,2867.5,2017-09-14,2019-01-01
+Q6988488,Neil Duffy,P54,member of sports team,Q192873,Dundee United F.C.,,A-Few-Years,1096.0,1985-01-01,1985-01-01
+Q17636544,Peter Koning,P54,member of sports team,Q60762887,EvoPro Racing,,A-Few-Years,730.5,2019-06-01,2020-01-01
+Q17476819,Michael Oliver,P54,member of sports team,Q18513,Gateshead F.C.,,A-Few-Years,730,2006-01-01,2006-01-01
+Q3619958,Antonio Nonis,P54,member of sports team,Q29400,Taranto Sport,,A-Few-Years,730.5,1947-01-01,1948-01-01
+Q3508324,SGEN-CFDT,P1037,director / manager,Q3368892,Patrice Béghain,,A-Few-Years,2739.5,1980-01-01,1983-01-01
+Q19973701,Robert Skov,P54,member of sports team,Q723489,Silkeborg IF,,A-Few-Years,730,2015-01-01,2018-01-19
+Q106095243,Eléonore Saraiva,P54,member of sports team,Q105702884,Team Abadie Magnan,,A-Few-Years,1643.5,2020-01-01,
+Q3299906,Matthieu Lazerges,P54,member of sports team,Q297901,ASM Clermont Auvergne,,A-Few-Years,731,1999-01-01,2002-01-01
+Q11986538,Liv Monica Stubholt,P39,position held,Q16147743,State Secretary,,A-Few-Years,2962.0,2005-11-07,2007-09-21
+Q6163589,Jason T. Smith,P39,position held,Q13218630,United States representative,,A-Few-Years,730,2013-06-04,2015-01-03
+Q16146022,Marat Alchagirov,P54,member of sports team,Q29115,FC Lokomotiv Moscow,,A-Few-Years,913.5,2008-01-01,2008-01-01
+Q97731279,Auguste de Toulgoët,P39,position held,Q75105866,Sub-prefect of Villefranche-de-Rouergue,,A-Few-Years,1181.0,1856-12-18,1858-10-27
+Q95929,Peter Sodann,P937,work location,Q1733,Magdeburg,,A-Few-Years,1826,1975-01-01,1980-01-01
+Q215363,Sveriges Television,P169,chief executive officer,Q18613010,Magnus Faxén,,A-Few-Years,1600,1979-01-01,1981-01-01
+Q29109966,Nicola Conci,P54,member of sports team,Q682460,Lidl-Trek,,A-Few-Years,731,2018-01-01,2021-01-01
+Q1870862,Goffredo Colombi,P54,member of sports team,Q759482,US Cremonese,,A-Few-Years,1095,1946-01-01,1948-01-01
+Q4715464,Aleksandr Sudarikov,P54,member of sports team,Q324338,FC Torpedo Moscow,,A-Few-Years,731,1992-01-01,1994-01-01
+Q3363703,Bank of Mozambique,P1037,director / manager,Q10272837,Eneas da Conceição Comiche,,A-Few-Years,1747.5,1986-04-24,1991-07-24
+Q6104810,J. Batty Langley,P39,position held,Q41582572,member of the 25th Parliament of the United Kingdom,,A-Few-Years,1228.0,1894-07-05,1895-07-08
+Q7239726,Predrag Živadinović,P54,member of sports team,Q809982,FK Bashkimi,,A-Few-Years,730,2007-01-01,2008-01-01
+Q795525,Mateusz Prus,P54,member of sports team,Q2232936,Hetman Zamość,,A-Few-Years,730.5,2007-01-01,2009-01-01
+Q7106154,Oscar Nakaoshi,P54,member of sports team,Q11223520,Honda Baseball Team,,A-Few-Years,1095,2013-01-01,2015-01-01
+Q13522457,"John Butterfield, Baron Butterfield",P39,position held,Q140891552,Vice-chancellor of the University of Nottingham,,A-Few-Years,3215.5,1971-01-01,1975-01-01
+Q1256025,Ichizo Nakata,P54,member of sports team,Q385074,Oita Trinita,,A-Few-Years,731,1998-01-01,1998-01-01
+Q7694001,Teddy Bridgewater,P54,member of sports team,Q221150,Minnesota Vikings,,A-Few-Years,1461.0,2014-01-01,2017-01-01
+Q121108,Joseph Valentin Boussinesq,P937,work location,Q175081,Gap,,A-Few-Years,730.5,1866-01-01,1872-01-01
+Q7307758,Reg Davies,P54,member of sports team,Q48948,Port Vale F.C.,,A-Few-Years,730,1964-01-01,1965-01-01
+Q5496158,Fred Roberts,P54,member of sports team,Q19444,Birmingham City F.C.,,A-Few-Years,2191.5,1933-01-01,1934-01-01
+Q4786733,Archie Manuel,P39,position held,Q41582603,member of the 40th Parliament of the United Kingdom,,A-Few-Years,1221.5,1951-10-25,1955-05-06
+Q407064,Air Education and Training Command,P361,part of,Q741723,United States Army Air Forces,,A-Few-Years,1031.5,1943-07-07,1947-09-16
+Q3681714,Clyde Bradshaw,P54,member of sports team,Q5416043,Evansville Thunder,,A-Few-Years,1461.0,1985-01-01,1986-01-01
+Q14524563,Achille Malaspina,P54,member of sports team,Q289186,A.C. Fanfulla 1874,,A-Few-Years,1095.0,1924-01-01,1927-01-01
+Q16562520,Gustavo Gay,P54,member of sports team,Q8455,F.C. Pro Vercelli 1892,,A-Few-Years,730.5,1921-01-01,1923-01-01
+Q64777842,Giuseppe Maria Costantini,P39,position held,Q135726555,Roman Catholic Bishop of Nepi and Sutri,,A-Few-Years,2449.5,1878-07-15,1891-06-01
+Q7152712,Paul Newman,P54,member of sports team,Q3041569,Durham County Cricket Club,,A-Few-Years,2009.0,1990-01-01,1990-01-01
+Q747952,Jean-Pierre Lafon,P39,position held,Q26252198,ambassador of France to Lebanon,,A-Few-Years,1826.0,1994-01-01,1997-01-01
+Q5547250,Georgi Zotov,P54,member of sports team,Q29103,FC Kuban Krasnodar,,A-Few-Years,730,2016-01-01,
+Q16063905,Herluf Rasmussen,P39,position held,Q111913237,temporary Member of the Folketing,,Many-Years,5275.5,1989-10-05,1989-12-04
+Q1363825,Saint Vincent Archabbey,P488,chairperson,Q96741416,Martin Bartel,,Many-Years,13696.5,2020-01-01,
+Q16426003,Cornereva,P17,country,Q2685298,Romanian People's Republic,,Many-Years,7666.5,1947-12-30,1965-08-21
+Q877021,Maroodi Jeeh,P17,country,Q662653,British Somaliland,,Many-Years,19609.0,1884-01-01,1960-01-01
+Q8214486,Kaliningrad Chkalovsk,P17,country,Q15180,Soviet Union,,Many-Years,10406.0,1945-01-01,1991-12-25
+Q34285209,Hochreut,P281,postal code,,94469,,Many-Years,5711.5,1993-07-01,
+Q104176162,Карачаровская волость,P17,country,Q2305208,Russian Socialist Federative Soviet Republic,,Many-Years,36706.5,1918-01-01,1922-01-01
+Q4098569,Buki,P17,country,Q243610,Ukrainian People's Republic,,Many-Years,13150.0,1917-11-08,1921-03-17
+Q121307384,Ströhlhof,P281,postal code,,8451,,Many-Years,5711.5,1962-03-23,1990-09-28
+Q4399561,Rudnichnyy,P17,country,Q15180,Soviet Union,,Many-Years,37985.0,1922-01-01,1991-01-01
+Q5684356,Tião Bocalom,P39,position held,Q126735410,state secretary of Acre,,Many-Years,4748.5,1999-01-01,2000-05-01
+Q12112327,Conduratu,P17,country,Q2685298,Romanian People's Republic,,Many-Years,8515.5,1947-12-30,1965-08-21
+Q14176180,Nănești,P17,country,Q2685298,Romanian People's Republic,,Many-Years,8515.5,1947-12-30,1965-08-21
+Q2287766,"Simon Ramsay, 16th Earl of Dalhousie",P39,position held,Q61061,chancellor,,Many-Years,5751.5,1977-01-01,1992-01-01
+Q2683,Parma,P17,country,Q165040,Duchy of Parma and Piacenza,,Many-Years,10428.0,1545-09-26,1802-10-31
+Q120403339,Leipätehdas,P127,owned by,Q11862138,Helsingin Yliopistokiinteistöt,,Many-Years,15706.0,2009-01-01,
+Q2022301,Chernolik,P17,country,Q219,Bulgaria,,Many-Years,4660.5,1878-07-13,1913-08-10
+Q11982043,Kristian Birger Gundersen,P39,position held,Q16159375,deputy member of the Parliament of Norway,,Many-Years,4200.0,1945-01-01,1949-01-01
+Q6905,Frankenthal,P6,head of government,Q36608224,Martin Hebich,,Many-Years,4383.0,2015-01-01,2023-01-01
+Q107649993,Phillip T. Young,P39,position held,Q188628,board of directors,,Many-Years,4017.5,1979-01-01,1988-01-01
+Q172579,Kingdom of Italy,P35,head of state,Q150642,Victor Emmanuel III of Italy,,Many-Years,8236,1900-07-29,1946-05-09
+Q12095942,Gâlțești,P17,country,Q203493,Kingdom of Romania,,Many-Years,8515.5,1881-05-22,1947-12-30
+Q26257557,Rumen Radev,P102,member of political party,Q327591,independent politician,,Many-Years,7487.5,1990-01-01,2026-01-01
+Q11977145,Ingeborg Midttun,P102,member of political party,Q327591,independent politician,,Many-Years,6757.0,2010-01-01,2011-01-01
+Q15199204,Bang Kruai,P31,instance of,Q15141625,subdistrict municipality,,Many-Years,5676.5,1994-08-24,2002-12-16
+Q263831,Tom Schieffer,P39,position held,Q1715778,United States Ambassador to Australia,,Many-Years,5890.0,2001-08-23,2005-02-18
+Q109203862,"Fischer-von-Erlach-Denkmal, Rathausplatz, Vienna",P276,location,Q335894,Karlsplatz,,Many-Years,6230.5,1897-01-01,1902-01-01
+Q14262133,Secăria,P17,country,Q842794,Socialist Republic of Romania,,Many-Years,8515.5,1965-08-21,1989-12-22
+Q21557220,Lady Sybil Marjorie Lubbock (née Cuffe),P26,spouse,Q7167464,Percy Lubbock,,Many-Years,4676.5,1926-12-08,1943-12-31
+Q61133719,Kneginje Zorke,P138,named after,Q226738,Princess Zorka of Montenegro,,Many-Years,18445.0,1896-01-01,1946-01-01
+Q781602,Berbești,P17,country,Q600018,Kingdom of Hungary,,Many-Years,12436.5,1940-08-30,1944-10-25
+Q108037,Valmiera,P17,country,Q211,Latvia,,Many-Years,18774,1918-01-01,1940-08-05
+Q3894343,Grid,P17,country,Q218,Romania,,Many-Years,15984,1989-12-22,
+Q12134515,Nucet,P17,country,Q842794,Socialist Republic of Romania,,Many-Years,8515.5,1965-08-21,1989-12-22
+Q38719381,LSWR O2 class 205 → W21 “Sandown”,P137,operator,Q7570387,Southern Region of British Railways,,Many-Years,10287.5,1948-01-01,1966-05-01
+Q109956,Hedda Vernon,P26,spouse,Q123312744,Andreas Lacinik,,Many-Years,8276.5,1953-06-03,1961-08-10
+Q7669846,"TDLR 1 to 3, 6, and 8",P137,operator,Q3743662,Tralee and Dingle Light Railway,,Many-Years,10226.5,1889-01-01,1925-01-01
+Q3893477,Capu Dealului,P17,country,Q131964,Austrian Empire,,Many-Years,15984,1804-08-11,1867-03-30
+Q852122,Bichigiu,P17,country,Q2685298,Romanian People's Republic,,Many-Years,12436.5,1947-12-30,1965-08-21
+Q16404252,Ilmar Mändmets,P102,member of political party,Q913551,Social Democratic Party,,Many-Years,5844.0,1998-01-01,2015-01-01
+Q63992360,Ljunits härads tingslag,P361,part of,Q63991521,"Vemmenhögs, Ljunits och Herrestads häraders domsaga",,Many-Years,31776.0,1865-01-01,
+Q939156,Lugașu de Sus,P17,country,Q153136,Habsburg monarchy,,Many-Years,15127.0,1699-01-26,1804-08-11
+Q16427246,Beltiug,P17,country,Q131964,Austrian Empire,,Many-Years,8889,1804-08-11,1867-03-30
+Q830577,Alma Vii,P17,country,Q203493,Kingdom of Romania,,Many-Years,15984,1918-12-01,1947-12-30
+Q3888417,Nețeni,P17,country,Q516160,First Hungarian Republic,,Many-Years,12436.5,1918-11-16,1918-12-01
+Q5982762,Ian Robinson,P39,position held,Q18912794,member of the Australian House of Representatives,,Many-Years,5806.5,1963-11-30,1984-12-01
+Q552956,Cracu Almăj,P17,country,Q2685298,Romanian People's Republic,,Many-Years,7666.5,1947-12-30,1965-08-21
+Q74822846,Afham,P281,postal code,,84385,,Many-Years,5711.5,1993-07-01,
+Q12724971,Măgura,P17,country,Q203493,Kingdom of Romania,,Many-Years,8515.5,1881-05-22,1947-12-30
+Q1691609,Joe S. Vasquez,P937,work location,Q979901,Fort Stockton,,Many-Years,3653,1987-01-01,1997-01-01
+Q12153601,Slăvești,P17,country,Q218,Romania,,Many-Years,8515.5,1989-12-22,
+Q15256,Ivangorod,P17,country,Q170770,Grand Principality of Moscow,,Many-Years,7715.5,1492-01-01,1547-01-01
+Q383156,Rebra,P17,country,Q28513,Austria–Hungary,,Many-Years,12436.5,1867-03-30,1918-11-16
+Q5055021,Vetiș,P6,head of government,Q610503,Iuliu Ilyés,,Many-Years,3805.0,2016-01-01,2024-11-01
+Q2154954,Vegetarian Society,P2813,house publication,Q71863401,The Vegetarian Messenger,,Many-Years,13514,1849-01-01,1860-01-01
+Q4496955,Alexei Khvostenko,P551,residence,Q159,Russia,,Many-Years,6620.0,2004-04-01,
+Q12724969,Mădăraș,P17,country,Q2685298,Romanian People's Republic,,Many-Years,12436.5,1947-12-30,1965-08-21
+Q12160974,Tătărăi,P17,country,Q842794,Socialist Republic of Romania,,Many-Years,8515.5,1965-08-21,1989-12-22
+Q12165379,Făget,P17,country,Q2685298,Romanian People's Republic,,Many-Years,8515.5,1947-12-30,1965-08-21
+Q106450968,Landscape with Fishermen,P127,owned by,Q768366,"Leopold, Prince of Salerno",,Many-Years,8583.5,1830-01-01,1851-01-01
+Q2597701,Kranevo,P17,country,Q218,Romania,,Many-Years,4660.5,1913-08-10,1918-05-07
+Q2959831,Charles Miron,P39,position held,Q63973158,bishop of Angers,,Many-Years,7022.0,1588-06-20,1616-05-01
+Q34287866,Weinberg,P281,postal code,,94469,,Many-Years,5711.5,1993-07-01,
+Q12025107,Jiří Drda,P102,member of political party,Q1755236,Civic Forum,,Many-Years,5113.5,1989-01-01,1991-01-01
+Q4209418,Kalina,P17,country,Q219,Bulgaria,,Many-Years,4660.5,1878-07-13,1913-08-10
+Q16063325,Patrick Power,P39,position held,Q15964890,member of the House of Commons of Canada,,Many-Years,4211.0,1867-08-07,1872-07-19
+Q2938734,Cargill Gilston Knott,P39,position held,Q176968,foreign government advisor in Meiji Japan,,Many-Years,6391.5,1883-01-01,1891-01-01
+Q1069508,World Festival of Black Arts,P276,location,Q8673,Lagos,,Many-Years,8162.0,1977-01-15,1977-02-12
+Q26294550,Prospect House,P466,occupant,Q6386521,Northumberland County Council,,Many-Years,12829.0,2009-04-01,2016-01-01
+Q10726902,sodna enota Åsele,P361,part of,Q63037382,severni sodni okraj Ångermanland,,Many-Years,4383,1811-01-01,1819-12-31
+Q12084578,Braniște,P17,country,Q2685298,Romanian People's Republic,,Many-Years,7666.5,1947-12-30,1965-08-21
+Q111598764,Regis College Building,P466,occupant,Q33117,Sisters of St. Joseph,,Many-Years,23193.0,1926-01-01,2008-01-01
+Q134874706,Allegheny Branch,P127,owned by,Q56223951,Allegheny Valley Railroad,,Many-Years,14610,1852-01-01,1892-01-01
+Q11801048,Otto Chodecki,P39,position held,Q63922330,Kraków voivode,,Many-Years,4383.0,1533-01-01,1534-01-01
+Q3384052,Pierre Bois,P102,member of political party,Q870667,Workers' Struggle,,Many-Years,5114,1956-01-01,2002-01-01
+Q111200258,Seated nude woman,P608,exhibition history,Q125399109,Giovanni Boldini. Lo sguardo nell'anima,,Many-Years,16345.5,2021-10-29,2022-03-13
+Q833660,Boiu,P17,country,Q516160,First Hungarian Republic,,Many-Years,15984,1918-11-16,1918-12-01
+Q3083902,François Barry Martin-Delongchamps,P39,position held,Q40348,lawyer,,Many-Years,4200.5,2018-01-01,
+Q34437551,Gschwendt,P281,postal code,,94547,,Many-Years,5711.5,1993-07-01,
+Q1752692,Union Pacific 844,P2802,fleet or registration number,,844,,Many-Years,8127.0,1944-12-01,1962-06-01
+Q12121218,Manțu,P17,country,Q203493,Kingdom of Romania,,Many-Years,8515.5,1881-05-22,1947-12-30
+Q753415,Vinerea,P17,country,Q28513,Austria–Hungary,,Many-Years,15984,1867-03-30,1918-11-16
+Q107064541,An extensive seascape with figures by a boat on a shore near Huisduinen,P127,owned by,Q234052,Grand Duchess Maria Nikolaevna of Russia,,Many-Years,35416.5,1852-01-01,1876-01-01
+Q30345836,Rosa Newman-Walinsky,P27,country of citizenship,Q174193,United Kingdom of Great Britain and Ireland,,Many-Years,4382,1900-01-01,1912-01-01
+Q12741315,Capitoline Wolf in Bucharest,P276,location,Q16510101,piața Roma,,Many-Years,8401,1908-01-01,1931-01-01
+Q21159,Husum,P281,postal code,,25813,,Many-Years,9131.5,1993-01-01,
+Q2721072,Necșești,P17,country,Q2685298,Romanian People's Republic,,Many-Years,8515.5,1947-12-30,1965-08-21
+Q907387,equestrian statue of Marcus Aurelius,P276,location,Q468405,Lateran,,Many-Years,229190.0,0750-01-01,1538-01-01
+Q31606656,Gora Lysaya,P17,country,Q159,Russia,,Many-Years,49307.5,1991-01-01,
+Q1140873,KTLA,P1416,affiliation,Q1262316,DuMont Television Network,,Many-Years,4268,1947-01-01,1948-01-01
+Q118455550,Adolf Breitsameter,P27,country of citizenship,Q7318,Nazi Germany,,Many-Years,4383,1933-01-01,1945-01-01
+Q10531609,Häradshammars landskommun,P361,part of,Q31883930,Bråbygdens tingslag,,Many-Years,13513.5,1904-01-01,1947-12-31
+Q755512,Oarța de Sus,P17,country,Q842794,Socialist Republic of Romania,,Many-Years,12436.5,1965-08-21,1989-12-22
+Q12113247,Coroiești,P17,country,Q153136,Habsburg monarchy,,Many-Years,15984,1711-04-29,1804-08-11
+Q1000078,Moravská Třebová,P6,head of government,Q25929888,Emil Hofrichter,,Many-Years,25167.0,1885-01-01,1891-01-01
+Q12111517,Cocorăștii Mislii,P17,country,Q203493,Kingdom of Romania,,Many-Years,8515.5,1881-05-22,1947-12-30
+Q838838,Măeriște,P17,country,Q218,Romania,,Many-Years,8889,1989-12-22,
+Q12106446,Zgura,P17,country,Q203493,Kingdom of Romania,,Many-Years,8515.5,1881-05-22,1947-12-30
+Q557049,Ronald Perelman,P26,spouse,Q7145560,Patricia Duff,,Many-Years,3725.0,1995-01-25,1996-01-01
+Q74823612,Weissenberg,P281,postal code,,W-8344,,Many-Years,5711.5,1990-01-01,1993-07-01
