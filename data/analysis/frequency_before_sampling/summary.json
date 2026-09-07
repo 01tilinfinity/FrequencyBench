@@ -1,0 +1,139 @@
+{
+  "source": "/home/yerang/frequency-bench/data/raw/wd_scan/timelines.before_overlapfix",
+  "definition": "Existing labels: median of positive consecutive START-to-START gaps; before overlap fix.",
+  "sampling_unit": "entity_property_timeline",
+  "total": 151547,
+  "properties_scanned": 1141,
+  "valid_properties": 379,
+  "class_counts": {
+    "A-Day": 20,
+    "A-Few-Days": 498,
+    "A-Week": 568,
+    "A-Few-Weeks": 1156,
+    "A-Month": 1563,
+    "A-Few-Months": 4313,
+    "A-Year": 34120,
+    "A-Few-Years": 79891,
+    "Many-Years": 29418
+  },
+  "cramers_v": 0.44580439622694246,
+  "association_note": "Descriptive association in the filtered population, not causation; no p-value. Sparse cells exist.",
+  "top_relations": [
+    {
+      "pid": "P54",
+      "label": "member of sports team",
+      "n": 65550
+    },
+    {
+      "pid": "P39",
+      "label": "position held",
+      "n": 28461
+    },
+    {
+      "pid": "P17",
+      "label": "country",
+      "n": 12151
+    },
+    {
+      "pid": "P2632",
+      "label": "place of detention",
+      "n": 5819
+    },
+    {
+      "pid": "P6",
+      "label": "head of government",
+      "n": 2345
+    },
+    {
+      "pid": "P27",
+      "label": "country of citizenship",
+      "n": 2294
+    },
+    {
+      "pid": "P102",
+      "label": "member of political party",
+      "n": 2283
+    },
+    {
+      "pid": "P937",
+      "label": "work location",
+      "n": 2169
+    },
+    {
+      "pid": "P488",
+      "label": "chairperson",
+      "n": 2064
+    },
+    {
+      "pid": "P127",
+      "label": "owned by",
+      "n": 2013
+    },
+    {
+      "pid": "P137",
+      "label": "operator",
+      "n": 1553
+    },
+    {
+      "pid": "P1308",
+      "label": "position holder",
+      "n": 1431
+    }
+  ],
+  "top_relation_per_class": [
+    {
+      "class": "A-Day",
+      "label": "place of detention",
+      "n": 17,
+      "share_pct": 85.0
+    },
+    {
+      "class": "A-Few-Days",
+      "label": "place of detention",
+      "n": 473,
+      "share_pct": 94.97991967871486
+    },
+    {
+      "class": "A-Week",
+      "label": "place of detention",
+      "n": 531,
+      "share_pct": 93.48591549295774
+    },
+    {
+      "class": "A-Few-Weeks",
+      "label": "place of detention",
+      "n": 1117,
+      "share_pct": 96.62629757785467
+    },
+    {
+      "class": "A-Month",
+      "label": "place of detention",
+      "n": 1276,
+      "share_pct": 81.6378758797185
+    },
+    {
+      "class": "A-Few-Months",
+      "label": "place of detention",
+      "n": 2049,
+      "share_pct": 47.507535358219336
+    },
+    {
+      "class": "A-Year",
+      "label": "member of sports team",
+      "n": 28730,
+      "share_pct": 84.20281359906213
+    },
+    {
+      "class": "A-Few-Years",
+      "label": "member of sports team",
+      "n": 36479,
+      "share_pct": 45.66096306217221
+    },
+    {
+      "class": "Many-Years",
+      "label": "country",
+      "n": 10846,
+      "share_pct": 36.868583860221634
+    }
+  ]
+}
