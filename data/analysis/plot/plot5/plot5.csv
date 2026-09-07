@@ -1,0 +1,46 @@
+property,property_label,frequency,entity_count,min,q1,median,mean,q3,max,whisker_low,whisker_high
+P54,member of sports team,A-Day,0,,,,,,,,
+P54,member of sports team,A-Few-Days,0,,,,,,,,
+P54,member of sports team,A-Week,0,,,,,,,,
+P54,member of sports team,A-Few-Weeks,0,,,,,,,,
+P54,member of sports team,A-Month,1,4,4.0,4.0,4.0,4.0,4,4,4
+P54,member of sports team,A-Few-Months,267,3,4.0,5.0,5.928838951310861,7.0,17,3,11
+P54,member of sports team,A-Year,28730,3,4.0,6.0,7.0035502958579885,9.0,31,3,16
+P54,member of sports team,A-Few-Years,36479,3,3.0,4.0,4.818525727130678,6.0,34,3,10
+P54,member of sports team,Many-Years,73,3,3.0,3.0,3.136986301369863,3.0,5,3,3
+P39,position held,A-Day,0,,,,,,,,
+P39,position held,A-Few-Days,0,,,,,,,,
+P39,position held,A-Week,0,,,,,,,,
+P39,position held,A-Few-Weeks,2,3,3.0,3.0,3.0,3.0,3,3,3
+P39,position held,A-Month,4,3,3.75,4.0,4.25,4.5,6,3,4.5
+P39,position held,A-Few-Months,449,3,3.0,4.0,4.260579064587973,5.0,14,3,8
+P39,position held,A-Year,1756,3,3.0,4.0,4.611617312072893,5.0,21,3,8
+P39,position held,A-Few-Years,23458,3,3.0,4.0,4.544718219797084,5.0,24,3,8
+P39,position held,Many-Years,2792,3,3.0,3.0,3.1522206303724927,3.0,12,3,3
+P17,country,A-Day,2,3,3.0,3.0,3.0,3.0,3,3,3
+P17,country,A-Few-Days,1,5,5.0,5.0,5.0,5.0,5,5,5
+P17,country,A-Week,0,,,,,,,,
+P17,country,A-Few-Weeks,0,,,,,,,,
+P17,country,A-Month,8,3,4.0,4.0,3.875,4.0,4,4,4
+P17,country,A-Few-Months,49,3,4.0,4.0,14.489795918367347,6.0,483,3,8
+P17,country,A-Year,109,3,4.0,4.0,4.284403669724771,4.0,12,4,4
+P17,country,A-Few-Years,1136,3,3.0,4.0,4.173415492957746,4.0,14,3,5
+P17,country,Many-Years,10846,3,5.0,7.0,7.343997787202655,10.0,18,3,17
+P2632,place of detention,A-Day,17,3,3.0,4.0,3.6470588235294117,4.0,5,3,5
+P2632,place of detention,A-Few-Days,473,3,3.0,4.0,4.023255813953488,4.0,17,3,5
+P2632,place of detention,A-Week,531,3,3.0,4.0,3.8361581920903953,4.0,14,3,5
+P2632,place of detention,A-Few-Weeks,1117,3,3.0,3.0,3.7197851387645477,4.0,15,3,5
+P2632,place of detention,A-Month,1276,3,3.0,3.0,3.6387147335423196,4.0,13,3,5
+P2632,place of detention,A-Few-Months,2049,3,3.0,3.0,3.5866276232308443,4.0,12,3,5
+P2632,place of detention,A-Year,309,3,3.0,3.0,3.145631067961165,3.0,6,3,3
+P2632,place of detention,A-Few-Years,42,3,3.0,3.0,3.1666666666666665,3.0,4,3,3
+P2632,place of detention,Many-Years,5,3,3.0,3.0,3.0,3.0,3,3,3
+P6,head of government,A-Day,0,,,,,,,,
+P6,head of government,A-Few-Days,1,3,3.0,3.0,3.0,3.0,3,3,3
+P6,head of government,A-Week,1,4,4.0,4.0,4.0,4.0,4,4,4
+P6,head of government,A-Few-Weeks,0,,,,,,,,
+P6,head of government,A-Month,1,5,5.0,5.0,5.0,5.0,5,5,5
+P6,head of government,A-Few-Months,18,3,4.0,5.0,6.388888888888889,7.75,14,3,10
+P6,head of government,A-Year,45,3,4.0,6.0,10.377777777777778,15.0,67,3,26
+P6,head of government,A-Few-Years,1587,3,3.0,4.0,5.454316320100819,6.0,80,3,10
+P6,head of government,Many-Years,692,3,3.0,3.0,4.333815028901734,5.0,20,3,8

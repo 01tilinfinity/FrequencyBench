@@ -22,5 +22,8 @@
     "frequency",
     "start_time",
     "end_time"
-  ]
+  ],
+  "timeline_source": "/home/yerang/frequency-bench/data/raw/wd_scan/timelines.before_overlapfix",
+  "interval_selection": "earliest start for the selected (entity, relation, value) in the source timeline",
+  "interval_tie_break": "first record in source order when start dates are equal; keep its paired end"
 }

@@ -231,6 +231,14 @@ def write_outputs(rows, args, requested_ids, fetched_ids):
         "total_records": len(rows),
         "fields": FIELDS,
     }
+    source_meta_path = args.input.with_suffix(".meta.json")
+    if source_meta_path.exists():
+        with source_meta_path.open(encoding="utf-8") as f:
+            source_meta = json.load(f)
+        metadata["timeline_source"] = source_meta.get("source")
+        for key in ("seed", "value_selection", "interval_selection", "interval_tie_break"):
+            if key in source_meta:
+                metadata[key] = source_meta[key]
     with meta_path.open("w", encoding="utf-8") as f:
         json.dump(metadata, f, ensure_ascii=False, indent=2)
         f.write("\n")

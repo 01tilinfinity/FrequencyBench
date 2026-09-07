@@ -1,0 +1,46 @@
+property,property_label,frequency,entity_count,within_relation_pct
+P54,member of sports team,A-Day,0,0.0
+P54,member of sports team,A-Few-Days,0,0.0
+P54,member of sports team,A-Week,0,0.0
+P54,member of sports team,A-Few-Weeks,0,0.0
+P54,member of sports team,A-Month,1,0.0015255530129672007
+P54,member of sports team,A-Few-Months,267,0.4073226544622426
+P54,member of sports team,A-Year,28730,43.82913806254767
+P54,member of sports team,A-Few-Years,36479,55.65064836003051
+P54,member of sports team,Many-Years,73,0.11136536994660565
+P39,position held,A-Day,0,0.0
+P39,position held,A-Few-Days,0,0.0
+P39,position held,A-Week,0,0.0
+P39,position held,A-Few-Weeks,2,0.007027159973296792
+P39,position held,A-Month,4,0.014054319946593584
+P39,position held,A-Few-Months,449,1.5775974140051299
+P39,position held,A-Year,1756,6.169846456554583
+P39,position held,A-Few-Years,23458,82.42155932679808
+P39,position held,Many-Years,2792,9.809915322722322
+P17,country,A-Day,2,0.016459550654267137
+P17,country,A-Few-Days,1,0.008229775327133568
+P17,country,A-Week,0,0.0
+P17,country,A-Few-Weeks,0,0.0
+P17,country,A-Month,8,0.06583820261706855
+P17,country,A-Few-Months,49,0.4032589910295449
+P17,country,A-Year,109,0.897045510657559
+P17,country,A-Few-Years,1136,9.349024771623734
+P17,country,Many-Years,10846,89.26014319809069
+P2632,place of detention,A-Day,17,0.292146416910122
+P2632,place of detention,A-Few-Days,473,8.128544423440454
+P2632,place of detention,A-Week,531,9.125279257604399
+P2632,place of detention,A-Few-Weeks,1117,19.19573809932978
+P2632,place of detention,A-Month,1276,21.928166351606805
+P2632,place of detention,A-Few-Months,2049,35.21223577934353
+P2632,place of detention,A-Year,309,5.310190754425159
+P2632,place of detention,A-Few-Years,42,0.7217735006014779
+P2632,place of detention,Many-Years,5,0.08592541673827118
+P6,head of government,A-Day,0,0.0
+P6,head of government,A-Few-Days,1,0.042643923240938165
+P6,head of government,A-Week,1,0.042643923240938165
+P6,head of government,A-Few-Weeks,0,0.0
+P6,head of government,A-Month,1,0.042643923240938165
+P6,head of government,A-Few-Months,18,0.767590618336887
+P6,head of government,A-Year,45,1.9189765458422174
+P6,head of government,A-Few-Years,1587,67.67590618336887
+P6,head of government,Many-Years,692,29.50959488272921

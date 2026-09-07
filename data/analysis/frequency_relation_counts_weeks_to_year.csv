@@ -1,0 +1,163 @@
+PID,relation,A-Few-Weeks,A-Month,A-Few-Months,A-Year
+P54,"member of sports team",0,1,267,28730
+P2632,"place of detention",1117,1276,2049,309
+P39,"position held",2,4,449,1756
+P286,"head coach",0,1,275,455
+P6087,"coach of sports team",0,0,48,294
+P3872,"patronage",0,0,3,319
+P1410,"number of seats in assembly",5,28,156,115
+P1352,"ranking",0,184,43,0
+P1308,"position holder",0,4,63,149
+P488,"chairperson",0,0,45,163
+P276,"location",5,17,159,21
+P118,"league or competition",0,0,0,190
+P361,"part of",0,1,147,39
+P17,"country",0,8,49,109
+P937,"work location",0,0,9,119
+P4791,"commanded by",0,6,51,59
+P2295,"net profit",0,0,33,55
+P102,"member of political party",0,0,15,70
+P2139,"total revenue",0,0,32,52
+P410,"military, police or special rank",1,0,34,47
+P3362,"operating income",0,0,32,47
+P1998,"UCI code of cycling team",0,0,0,78
+P598,"commander of (DEPRECATED)",2,0,33,35
+P468,"dan/kyu rank",0,0,17,51
+P6,"head of government",0,1,18,45
+P31,"instance of",0,1,10,52
+P608,"exhibition history",0,0,21,41
+P1416,"affiliation",1,1,16,42
+P5096,"member of the crew of",0,1,29,20
+P463,"member of",0,0,7,37
+P551,"residence",1,0,5,38
+P1037,"director / manager",0,1,11,28
+P279,"subclass of",0,0,0,37
+P1618,"sport number",0,0,8,26
+P159,"headquarters location",0,2,13,18
+P4100,"parliamentary group",3,0,8,21
+P5817,"state of use",0,18,2,6
+P366,"has use",0,0,19,5
+P166,"award received",1,0,5,17
+P12363,"clerked for",0,0,0,23
+P106,"occupation",0,0,3,18
+P127,"owned by",0,0,3,18
+P137,"operator",0,0,3,18
+P27,"country of citizenship",0,0,6,12
+P793,"significant event",0,0,9,9
+P371,"presenter",1,0,4,12
+P1545,"series ordinal",0,0,0,17
+P527,"has part(s)",1,0,10,5
+P1344,"participant in",0,0,10,6
+P36,"capital",0,0,3,12
+P241,"military branch",0,0,4,10
+P1268,"represents",0,0,0,14
+P7779,"military unit",0,2,6,6
+P8047,"country of registry",0,0,3,11
+P449,"original broadcaster",0,0,2,10
+P451,"unmarried partner",0,0,1,11
+P169,"chief executive officer",0,0,1,10
+P1110,"attendance",0,0,1,10
+P115,"home venue",0,0,0,10
+P426,"aircraft registration",0,0,5,5
+P582,"end time",10,0,0,0
+P35,"head of state",0,0,2,7
+P505,"general manager",0,0,0,8
+P1075,"rector",0,0,2,6
+P176,"manufacturer",0,0,2,5
+P8247,"nominal share capital",0,2,3,2
+P291,"place of publication",0,0,1,5
+P504,"shipping port",0,0,2,4
+P797,"authority",0,0,0,6
+P2896,"publication interval",0,0,2,4
+P3975,"general secretary",0,0,0,6
+P98,"editor",0,0,0,5
+P210,"party chief representative",0,0,1,4
+P749,"parent organization or unit",0,0,2,3
+P1029,"crew members",1,0,2,2
+P1132,"number of participants",0,0,2,3
+P2043,"length",0,0,1,4
+P2825,"via",1,1,3,0
+P5769,"editor-in-chief",0,0,0,5
+P264,"record label",0,0,0,4
+P466,"occupant",0,0,1,3
+P531,"diplomatic mission sent",0,0,0,4
+P634,"team captain",0,0,0,4
+P1141,"number of processor cores",0,0,1,3
+P1532,"country for sport",0,0,0,4
+P57,"director",0,0,0,3
+P121,"item operated",0,0,1,2
+P123,"publisher",0,0,0,3
+P197,"adjacent station",0,0,1,2
+P559,"terminus",0,0,0,3
+P585,"point in time",0,0,2,1
+P641,"sport",0,0,0,3
+P710,"participant",0,0,1,2
+P915,"filming location",1,0,0,2
+P1114,"quantity",0,0,1,2
+P2415,"personal best",0,0,0,3
+P2661,"target interest rate",0,2,1,0
+P2769,"budget",0,0,0,3
+P162,"producer",0,0,0,2
+P195,"collection",0,0,1,1
+P607,"participated in conflict",0,0,1,1
+P859,"sponsor",0,0,0,2
+P2196,"count of students",0,0,0,2
+P2555,"fee",0,0,0,2
+P2802,"fleet or registration number",0,0,0,2
+P3301,"broadcast by",0,0,2,0
+P6794,"minimum wage",0,0,1,1
+P6872,"has written for",0,0,0,2
+P8030,"military size designation",0,0,2,0
+P10308,"director of publication",0,0,1,1
+P26,"spouse",0,0,0,1
+P126,"maintained by",0,0,0,1
+P161,"cast member",0,0,0,1
+P175,"performer",0,1,0,0
+P208,"executive body",0,0,1,0
+P263,"official residence",0,0,1,0
+P414,"stock exchange",0,0,0,1
+P512,"academic degree",0,0,0,1
+P664,"organizer",0,0,0,1
+P767,"contributor to the creative work or subject",0,0,0,1
+P812,"academic major",0,0,0,1
+P837,"day in year for periodic occurrence",0,0,0,1
+P921,"main subject",0,0,0,1
+P945,"allegiance",0,0,0,1
+P1001,"applies to jurisdiction",0,0,1,0
+P1030,"light characteristic",0,0,1,0
+P1066,"student of",0,0,0,1
+P1083,"maximum capacity",0,0,1,0
+P1128,"employees",0,0,0,1
+P1174,"visitors per year",0,0,0,1
+P1301,"number of elevators",0,0,1,0
+P1313,"office held by the head of government",0,0,0,1
+P1327,"partner in business or sport",0,0,0,1
+P1351,"number of points/goals/set scored",0,0,0,1
+P1366,"replaced by",0,0,0,1
+P1444,"destination point",0,0,0,1
+P1875,"represented by",0,0,0,1
+P2045,"orbital inclination",0,0,1,0
+P2046,"area",0,0,0,1
+P2047,"duration",0,0,1,0
+P2109,"nominal power output",0,0,1,0
+P2124,"member count",0,0,0,1
+P2144,"frequency",0,0,0,1
+P2146,"orbital period",0,0,1,0
+P2244,"periapsis",0,0,1,0
+P2284,"price",0,0,0,1
+P2291,"charted in",1,0,0,0
+P2348,"time period",0,0,1,0
+P2437,"number of seasons",0,0,1,0
+P2438,"narrator",0,0,0,1
+P2758,"CNC film rating (France)",0,0,0,1
+P2791,"power consumed",0,0,0,1
+P3156,"Australian Classification",0,0,1,0
+P3342,"significant person",0,0,0,1
+P3438,"vehicle normally used",0,0,0,1
+P4884,"court",0,0,1,0
+P5822,"admission rate",0,0,1,0
+P8764,"port calls",1,0,0,0
+P10449,"trained by",0,0,0,1
+P10661,"exhibited creator",0,0,0,1
+P11814,"funded by grant",0,0,0,1
+P12168,"Torino scale",1,0,0,0

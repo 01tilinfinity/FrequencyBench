@@ -1,0 +1,27 @@
+{
+  "source": "/home/yerang/frequency-bench/data/raw/wd_scan/timelines.before_overlapfix",
+  "source_population": 151547,
+  "top_five_population": 114326,
+  "properties": [
+    "P54",
+    "P39",
+    "P17",
+    "P2632",
+    "P6"
+  ],
+  "unit": "One entity-property pair per observation",
+  "y": "len(timeline): all stored entries, including repeated values and any stored deprecated statements",
+  "frequency": "Existing median start-to-start interval class, unchanged",
+  "box": "25th to 75th percentile; center line = median; orange diamond = arithmetic mean",
+  "whiskers": "Most extreme observed values within 1.5 IQR of the quartiles",
+  "outliers": "Shown as circles; coincident values drawn once, no values removed from statistics",
+  "small_groups": "n=0: no box; n=1: degenerate box; n labels show entity count",
+  "axes": "Linear, independently scaled per property; P17 includes a full-range and a zoom panel",
+  "stored_vs_evaluated_length_mismatch_counts": {
+    "P54": 25,
+    "P39": 64,
+    "P17": 5,
+    "P2632": 0,
+    "P6": 5
+  }
+}

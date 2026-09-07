@@ -1,8 +1,9 @@
 """Stage 4: sample a balanced set of entity-property timelines.
 
 Sample timelines first so that entities with long histories are not
-overrepresented. Then select one value interval from each sampled timeline to
-produce (entity, relation, value, frequency, start_time, end_time) records.
+overrepresented. Use a random interval to select a value, then take the earliest
+record for that same value to produce (entity, relation, value, frequency,
+start_time, end_time) records. Timeline/value sampling stays reproducible.
 """
 
 import argparse
@@ -30,6 +31,17 @@ CLASSES = [
     "Many-Years",
 ]
 FIELDS = ["entity", "relation", "value", "frequency", "start_time", "end_time"]
+VALUE_SELECTION = "value from one uniformly random interval per sampled timeline"
+INTERVAL_SELECTION = "earliest start for the selected (entity, relation, value) in the source timeline"
+INTERVAL_TIE_BREAK = "first record in source order when start dates are equal; keep its paired end"
+
+
+def earliest_interval_for_value(intervals, value):
+    """Return an existing start/end pair for this value, never mix records."""
+    matches = [interval for interval in intervals if interval["value"] == value]
+    if not matches:
+        raise ValueError(f"Value {value!r} is absent from the source timeline")
+    return min(matches, key=lambda interval: interval["start"])
 
 
 def parse_args():
@@ -103,7 +115,8 @@ def reservoir_sample(input_dir, per_class, seed):
                     f"Timeline has no intervals: {timeline[subject]} "
                     f"{timeline[property]}"
                 )
-            interval = rng.choice(intervals)
+            selected_value = rng.choice(intervals)["value"]
+            interval = earliest_interval_for_value(intervals, selected_value)
             class_rows.append(
                 {
                     "entity": timeline["subject"],
@@ -140,7 +153,9 @@ def write_outputs(rows, candidate_counts, duplicate_counts, n_files, args):
         "source": str(args.input_dir),
         "sampling_unit": "entity_property_timeline",
         "sampling_method": "uniform reservoir sampling without replacement",
-        "value_selection": "one uniformly random interval per sampled timeline",
+        "value_selection": VALUE_SELECTION,
+        "interval_selection": INTERVAL_SELECTION,
+        "interval_tie_break": INTERVAL_TIE_BREAK,
         "seed": args.seed,
         "maximum_per_class": args.per_class,
         "classes": CLASSES,

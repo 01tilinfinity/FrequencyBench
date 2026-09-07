@@ -91,7 +91,7 @@ def main():
     detention = pids.index("P2632")
     selected = [detention] + [int(i) for i in rank if i != detention][:5]
     fig, axes = plt.subplots(1, 2, figsize=(17, 7), gridspec_kw={"width_ratios": [1, 1.35]})
-    fig.subplots_adjust(left=.10, right=.98, top=.82, bottom=.22, wspace=.32)
+    fig.subplots_adjust(left=.10, right=.98, top=.77, bottom=.22, wspace=.32)
     fig.suptitle("Before random sampling: where are the timelines concentrated?", fontsize=19, y=.97)
     fig.text(.5, .91, f"{total:,} timelines | {len(pids):,} relations | {len(manifest):,} properties scanned", ha="center")
     fig.text(.5, .865, DEFINITION, ha="center", fontsize=10, color="#555555")
@@ -165,10 +165,10 @@ def main():
         for c in range(9):
             if matrix[i, c] >= 5:
                 val = lift[i, c]
-                axes2[1].text(c, r, f"{val:.1f}x", ha="center", va="center", fontsize=7,
+                axes2[1].text(c, r, f"{val:.2g}x", ha="center", va="center", fontsize=7,
                               color="white" if abs(loglift[r, c]) > 2.5 else "#28323c")
     cb2 = fig2.colorbar(img2, ax=axes2[1], orientation="horizontal", pad=.15, fraction=.04, extend="both")
-    cb2.set_ticks([-4, -2, 0, 2, 4], ["1/16x", "1/4x", "1x", "4x", "16x"])
+    cb2.set_ticks([-4, -2, 0, 2, 4], labels=["1/16x", "1/4x", "1x", "4x", "16x"])
     cb2.set_label("Lift = P(class | relation) / P(class); color uses log2(lift), clipped at 1/16x and 16x")
     for ax in axes2:
         ax.set_xticks(range(9), SHORT, rotation=40, ha="right", fontsize=9)
@@ -188,4 +188,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

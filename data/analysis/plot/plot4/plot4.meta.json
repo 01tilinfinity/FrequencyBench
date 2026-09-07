@@ -1,0 +1,20 @@
+{
+  "source": "/home/yerang/frequency-bench/data/raw/wd_scan/timelines.before_overlapfix",
+  "total_timelines": 151547,
+  "unique_entities_overall": 148173,
+  "frequency_definition": "Stored median of positive consecutive start-to-start intervals, in days.",
+  "min_frequency_days": 1.0,
+  "max_frequency_days": 1316334.0,
+  "maximum_record": {
+    "subject": "Q120484422",
+    "property": "P937",
+    "frequency_days": 1316334.0
+  },
+  "bin_definition": "[day, day + 1); fractional medians are assigned without changing source values.",
+  "y_definition": "Distinct subject QIDs per daily bin; entities may occur in multiple bins via different properties.",
+  "sum_of_bin_entity_counts": 151026,
+  "csv_note": "Only nonzero bins are listed; all omitted days have zero observations.",
+  "x_scale": "log",
+  "y_scale": "linear",
+  "error_bars": "None: descriptive counts of the observed population, no uncertainty model."
+}
