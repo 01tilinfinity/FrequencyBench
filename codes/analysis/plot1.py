@@ -18,7 +18,7 @@ SOURCE = ROOT / "data/raw/wd_scan/timelines.before_overlapfix"
 OUTPUT = ROOT / "data/analysis/plot/plot1"
 
 
-def main():
+def load_counts():
     manifest_path = SOURCE.parent / "qlever_manifest.before_overlapfix.json"
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     counts = []
@@ -43,6 +43,11 @@ def main():
     if total_rows != 151_547 or len(counts) != 379:
         raise ValueError(f"Unexpected population: {total_rows} rows, {len(counts)} properties")
     counts.sort(key=lambda row: (-row[2], int(row[0][1:])))
+    return counts, total_rows
+
+
+def main():
+    counts, total_rows = load_counts()
 
     plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 13,
                          "axes.spines.top": False, "axes.spines.right": False,

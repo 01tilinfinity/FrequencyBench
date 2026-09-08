@@ -1,0 +1,47 @@
+[
+  {
+    "entity_id": "Q56043323",
+    "entity": "Marko Tešija",
+    "property_id": "P54",
+    "value_id": "Q6954589",
+    "value": "NK Rudeš",
+    "frequency": "A-Few-Months",
+    "category": "Top 5",
+    "color": "#d62728",
+    "property": "member of sports team",
+    "frequency_days": 243,
+    "start_time": "2017-07-01",
+    "end_time": "2017-08-01",
+    "source": "data/raw/wd_scan/timelines.before_overlapfix/P54.jsonl"
+  },
+  {
+    "entity_id": "Q3356809",
+    "entity": "Norwegian National Road 9",
+    "property_id": "P1824",
+    "value_id": "",
+    "value": "400",
+    "frequency": "Many-Years",
+    "category": "Middle 5",
+    "color": "#e47700",
+    "property": "road number",
+    "frequency_days": 9861,
+    "start_time": "1931-01-01",
+    "end_time": "1965-01-01",
+    "source": "data/raw/wd_scan/timelines.before_overlapfix/P1824.jsonl"
+  },
+  {
+    "entity_id": "Q178516",
+    "entity": "Gucci",
+    "property_id": "P12617",
+    "value_id": "Q318149",
+    "value": "Tom Ford",
+    "frequency": "A-Few-Years",
+    "category": "Last 5 (Long tail)",
+    "color": "#218739",
+    "property": "creative director",
+    "frequency_days": 3104.5,
+    "start_time": "1990-01-01",
+    "end_time": "2005-01-01",
+    "source": "data/raw/wd_scan/timelines.before_overlapfix/P12617.jsonl"
+  }
+]
