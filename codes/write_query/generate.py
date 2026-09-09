@@ -71,7 +71,7 @@ def pending_indices(rows, resume):
 def save_csv(path, fields, rows, expected_digest):
     """Replace the CSV atomically; refuse to overwrite concurrent edits."""
     output = io.StringIO(newline="")
-    writer = csv.DictWriter(output, fieldnames=fields)
+    writer = csv.DictWriter(output, fieldnames=fields, lineterminator="\n")
     writer.writeheader()
     writer.writerows(rows)
     raw = output.getvalue().encode("utf-8")

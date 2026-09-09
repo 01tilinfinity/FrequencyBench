@@ -22,6 +22,7 @@
 | frequency | 원본 Frequency 클래스 |
 | frequency_days | 전체 entity–property 타임라인의 양수인 연속 start-to-start 간격 중앙값(일) |
 | start_time / end_time | 선택된 value의 가장 이른 이력 한 건의 짝지어진 날짜. 종료일 누락은 빈칸 |
+| query | entity와 property 라벨만 입력하여 GPT-5.6 Luna로 생성한 영어 질문. 참고 날짜는 추가하지 않음 |
 
 `end_time - start_time`은 `frequency_days`와 같을 필요가 없습니다. 날짜는 전체 타임라인의 양 끝이 아닙니다.
 연·월 정밀도 날짜도 원본에서 YYYY-MM-DD로 정규화되어 있으므로 01-01/월초를 실제 일 단위 정밀도로 해석하면 안 됩니다.
@@ -55,4 +56,11 @@ P54, P39, P17, P2632, P6, P27, P102, P937, P488, P127, P137, P1308, P286, P31, P
 - 오프라인 재검증: `python codes/preprocessing/build_final.py --check --offline`
 - 보강 캐시: `data/raw/wikidata_label_cache.json`, `data/raw/wikidata_statement_quantity_cache.json`
 - 원본 파일명+내용 결합 SHA256: `bee931a2126679f3c3365e43004b87d9ed8d97b521aa074c6c485a441736fd64`
-- 최종 CSV SHA256: `638f779f963bdb002344b40b76ef2c42fd6d2790e2a092c6077b5e143b06a9c8`
+- query 컬럼 추가 전 CSV SHA256: `638f779f963bdb002344b40b76ef2c42fd6d2790e2a092c6077b5e143b06a9c8`
+
+## Query 생성
+
+`python codes/write_query/generate.py`로 기존 CSV에 `query` 컬럼을 추가합니다.
+생성 중에는 `tqdm`으로 저장 완료한 행 수를 확인할 수 있고, 중단 후에는 `--resume`으로 빈 query만 채웁니다.
+프롬프트와 실행 옵션은 `codes/write_query/README.md`를 참고하세요.
+위 데이터 추출 재현 명령은 query 생성 전 데이터에 대한 것이며, query는 별도의 API 생성 단계입니다.

@@ -1,0 +1,9 @@
+{
+  "free_bytes": 58083332096,
+  "conservative_additional_space_bytes": 236223201280,
+  "index_bytes": 64559075373,
+  "model_safetensors_bytes": 30462504632,
+  "compressed_corpus_bytes": 5123307260,
+  "ready_for_download": false,
+  "note": "220 GiB is a conservative setup budget including index parts, assembled index, corpus expansion, environment and caches; not an exact measured peak."
+}

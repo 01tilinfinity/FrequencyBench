@@ -1,0 +1,167 @@
+{
+  "_id": "67ec426dff07e36adce15fc8",
+  "id": "PeterJinGo/SearchR1-nq_hotpotqa_train-qwen2.5-7b-em-ppo-v0.2",
+  "private": false,
+  "tags": [
+    "safetensors",
+    "qwen2",
+    "region:us"
+  ],
+  "downloads": 8,
+  "likes": 0,
+  "modelId": "PeterJinGo/SearchR1-nq_hotpotqa_train-qwen2.5-7b-em-ppo-v0.2",
+  "author": "PeterJinGo",
+  "sha": "053b6e1addc3affc5bf7e920b654b8ac9610c7ba",
+  "lastModified": "2025-04-01T19:55:24.000Z",
+  "gated": false,
+  "disabled": false,
+  "config": {
+    "architectures": [
+      "Qwen2ForCausalLM"
+    ],
+    "model_type": "qwen2",
+    "tokenizer_config": {
+      "bos_token": null,
+      "chat_template": "{%- if tools %}\n    {{- '<|im_start|>system\\n' }}\n    {%- if messages[0]['role'] == 'system' %}\n        {{- messages[0]['content'] }}\n    {%- else %}\n        {{- 'You are a helpful assistant.' }}\n    {%- endif %}\n    {{- \"\\n\\n# Tools\\n\\nYou may call one or more functions to assist with the user query.\\n\\nYou are provided with function signatures within <tools></tools> XML tags:\\n<tools>\" }}\n    {%- for tool in tools %}\n        {{- \"\\n\" }}\n        {{- tool | tojson }}\n    {%- endfor %}\n    {{- \"\\n</tools>\\n\\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\\n<tool_call>\\n{\\\"name\\\": <function-name>, \\\"arguments\\\": <args-json-object>}\\n</tool_call><|im_end|>\\n\" }}\n{%- else %}\n    {%- if messages[0]['role'] == 'system' %}\n        {{- '<|im_start|>system\\n' + messages[0]['content'] + '<|im_end|>\\n' }}\n    {%- else %}\n        {{- '<|im_start|>system\\nYou are a helpful assistant.<|im_end|>\\n' }}\n    {%- endif %}\n{%- endif %}\n{%- for message in messages %}\n    {%- if (message.role == \"user\") or (message.role == \"system\" and not loop.first) or (message.role == \"assistant\" and not message.tool_calls) %}\n        {{- '<|im_start|>' + message.role + '\\n' + message.content + '<|im_end|>' + '\\n' }}\n    {%- elif message.role == \"assistant\" %}\n        {{- '<|im_start|>' + message.role }}\n        {%- if message.content %}\n            {{- '\\n' + message.content }}\n        {%- endif %}\n        {%- for tool_call in message.tool_calls %}\n            {%- if tool_call.function is defined %}\n                {%- set tool_call = tool_call.function %}\n            {%- endif %}\n            {{- '\\n<tool_call>\\n{\"name\": \"' }}\n            {{- tool_call.name }}\n            {{- '\", \"arguments\": ' }}\n            {{- tool_call.arguments | tojson }}\n            {{- '}\\n</tool_call>' }}\n        {%- endfor %}\n        {{- '<|im_end|>\\n' }}\n    {%- elif message.role == \"tool\" %}\n        {%- if (loop.index0 == 0) or (messages[loop.index0 - 1].role != \"tool\") %}\n            {{- '<|im_start|>user' }}\n        {%- endif %}\n        {{- '\\n<tool_response>\\n' }}\n        {{- message.content }}\n        {{- '\\n</tool_response>' }}\n        {%- if loop.last or (messages[loop.index0 + 1].role != \"tool\") %}\n            {{- '<|im_end|>\\n' }}\n        {%- endif %}\n    {%- endif %}\n{%- endfor %}\n{%- if add_generation_prompt %}\n    {{- '<|im_start|>assistant\\n' }}\n{%- endif %}\n",
+      "eos_token": "<|endoftext|>",
+      "pad_token": "<|endoftext|>",
+      "unk_token": null
+    }
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes",
+      "blobId": "52373fe24473b1aa44333d318f578ae6bf04b49b",
+      "size": 1570
+    },
+    {
+      "rfilename": "added_tokens.json",
+      "blobId": "482ced4679301bf287ebb310bdd1790eb4514232",
+      "size": 605
+    },
+    {
+      "rfilename": "config.json",
+      "blobId": "8d58aa303fbc1745b06979965c520cce9968dfe4",
+      "size": 745
+    },
+    {
+      "rfilename": "generation_config.json",
+      "blobId": "d99d7ac39bf1d608845cc1bd9cee8f4bf0387400",
+      "size": 117
+    },
+    {
+      "rfilename": "merges.txt",
+      "blobId": "31349551d90c7606f325fe0f11bbb8bd5fa0d7c7",
+      "size": 1671853
+    },
+    {
+      "rfilename": "model-00001-of-00007.safetensors",
+      "blobId": "053db958b0e5acf1dd55db024a0325a5bc0fc5d0",
+      "size": 4976687216,
+      "lfs": {
+        "sha256": "1d535181c20bb7fab7345354d989f4ca17c7b1fec4e4edb1193c7391e85a9501",
+        "size": 4976687216,
+        "pointerSize": 135
+      }
+    },
+    {
+      "rfilename": "model-00002-of-00007.safetensors",
+      "blobId": "12cca5069774c21749bab48f375c1c9fc2d638e6",
+      "size": 4778622352,
+      "lfs": {
+        "sha256": "10f488b36a64e4c23b8c713bf3a2b35ac7859ee2aee404e93faa4d042e469c54",
+        "size": 4778622352,
+        "pointerSize": 135
+      }
+    },
+    {
+      "rfilename": "model-00003-of-00007.safetensors",
+      "blobId": "452e2ea10780e92f2679c57f3c5788554eb5f3a1",
+      "size": 4932743960,
+      "lfs": {
+        "sha256": "0faac10332fd480f43c0acba4ae88e686bce444bb8e077daf820fafd4b45489d",
+        "size": 4932743960,
+        "pointerSize": 135
+      }
+    },
+    {
+      "rfilename": "model-00004-of-00007.safetensors",
+      "blobId": "4ad0a58496e8d4a793beda519d9d776defb8b4a2",
+      "size": 4932743992,
+      "lfs": {
+        "sha256": "a1c3ac9984a53f933593e26e505ba76553c91e8f7609debfae59e3f75cfdd677",
+        "size": 4932743992,
+        "pointerSize": 135
+      }
+    },
+    {
+      "rfilename": "model-00005-of-00007.safetensors",
+      "blobId": "adb01a9c267ee1b8edffb8419ce6b35ccdf9401a",
+      "size": 4998852296,
+      "lfs": {
+        "sha256": "d5ef01aca6fc6d2ff6d4dc439cc9671d38abdc420f456ca9a3e0cd3657b1a32a",
+        "size": 4998852296,
+        "pointerSize": 135
+      }
+    },
+    {
+      "rfilename": "model-00006-of-00007.safetensors",
+      "blobId": "29e8f1c3206fde31a1288f78db4643bcf5546804",
+      "size": 3662865184,
+      "lfs": {
+        "sha256": "083bff0c835345c899f3f02d4bb81cc26ddee86dff6bb37175a76b805a27770e",
+        "size": 3662865184,
+        "pointerSize": 135
+      }
+    },
+    {
+      "rfilename": "model-00007-of-00007.safetensors",
+      "blobId": "a9aa4133f4629970da15dd5cb27d8acc466f5a74",
+      "size": 2179989632,
+      "lfs": {
+        "sha256": "d4783a6d60bda6ffc58e61d56b13f93f5736a1ec25a963b6f9dc079557d1c730",
+        "size": 2179989632,
+        "pointerSize": 135
+      }
+    },
+    {
+      "rfilename": "model.safetensors.index.json",
+      "blobId": "6675a7f60ddcadbb24e1994e67e592ba35492ac6",
+      "size": 27752
+    },
+    {
+      "rfilename": "special_tokens_map.json",
+      "blobId": "17305b3603dfb19ccc0f658ec2cd2cd3adff4a58",
+      "size": 616
+    },
+    {
+      "rfilename": "tokenizer.json",
+      "blobId": "51ebb3ba93988c73bbd83a3c163a14343fbc5b06",
+      "size": 11421896,
+      "lfs": {
+        "sha256": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa",
+        "size": 11421896,
+        "pointerSize": 133
+      }
+    },
+    {
+      "rfilename": "tokenizer_config.json",
+      "blobId": "22b931e03bb6e021cf8f5392fe92bb998ad56f5f",
+      "size": 7259
+    },
+    {
+      "rfilename": "vocab.json",
+      "blobId": "4783fe10ac3adce15ac8f358ef5462739852c569",
+      "size": 2776833
+    }
+  ],
+  "spaces": [],
+  "createdAt": "2025-04-01T19:45:49.000Z",
+  "safetensors": {
+    "parameters": {
+      "F32": 7615616512
+    },
+    "total": 7615616512
+  },
+  "usedStorage": 30473926528
+}
